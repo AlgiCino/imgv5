@@ -1,0 +1,14 @@
+{
+  "hello": "مرحبا",
+  "project": {
+    "video": "الفيديو",
+    "brochure": "البروشور",
+    "contact": "تواصل",
+    "tour3d": "جولة 3D",
+    "location": "الموقع",
+    "otherProjectsByDeveloper": "مشاريع أخرى للمطور",
+    "relatedProjects": "مشاريع ذات صلة",
+    "contactUs": "تواصل معنا",
+    "news": "الأخبار"
+  }
+}
