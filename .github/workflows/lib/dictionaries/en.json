@@ -1,0 +1,14 @@
+{
+  "hello": "Hello",
+  "project": {
+    "video": "Video",
+    "brochure": "Brochure",
+    "contact": "Contact",
+    "tour3d": "3D Tour",
+    "location": "Location",
+    "otherProjectsByDeveloper": "Other Projects by this Developer",
+    "relatedProjects": "Related Projects",
+    "contactUs": "Contact Us",
+    "news": "News"
+  }
+}
