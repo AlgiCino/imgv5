@@ -1,0 +1,297 @@
+{
+  "slug": "Golden_Mile",
+  "id": "nakheel-Golden_Mile",
+  "projectName": {
+    "ar": "الميل الذهبي",
+    "en": "Golden Mile"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "الميل الذهبي هو مجمع سكني يقع على الجذع الغربي لنخلة جميرا. المباني المترابطة المكونة من 11 طابقًا تتضمن مساحات تجارية ومكاتب تملك حر مع مساحة واسعة لوقوف السيارات. تم تصميم العمارة في الميل الذهبي بطريقة شرقية مميزة. الواجهات ذات الألوان الفاتحة مزينة بنوافذ مقوسة وشرفات منحوتة وميزانين. تحيط منصة بالطوابق الأرضية، التي تضم منازل تاون هاوس، والمباني متصلة بممرات. في الطوابق العليا، توجد شقق بنتهاوس دوبلكس مع تراسات. يضم مبنى الميل الذهبي 3 الجديد شققًا بغرفة نوم واحدة وغرفتي نوم وثلاث غرف نوم بالإضافة إلى بنتهاوس بثلاث غرف نوم. تشمل المرافق مسبحًا وصالة ألعاب رياضية ومواقف سفلية للسيارات.",
+    "en": "Features 1,2 and 3- bedroom apartments as well as a 3-bedroom penthouse. Facilities include a swimming pool, gymnasium and basement parking. Golden Mile is a residential complex set on the western trunk of Palm Jumeirah. The interconnected 11-story buildings include retail and freehold office space with ample parking space. The architecture at Golden Mile is designed in a distinct oriental manner. The light-coloured facades are embellished with arched windows, carved balconies, and mezzanines. A platform surrounds the ground levels, which house townhouses, and the buildings are interconnected by passages. On the upper floors, there are duplex penthouses with terraces. A new building, Golden Mile 3, features one, two, and three bedroom apartments as well as a three-bedroom penthouse. Facilities include a swimming pool, a gymnasium and basement parking."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Jogging Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dog Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Golden Mile Galleria"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Palm Monorail"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Al Ittihad Park"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "نخلة جميرا",
+    "en": "Palm Jumeirah"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/golden-mile-3.jpg?sfvrsn=ad2be01f_1",
+    "/images/nakheelcorporatelibraries/developments/golden-mile-31eeb9bdc-ddbc-47a7-aca4-0fcaddd31255.jpg?sfvrsn=802a0ed2_1",
+    "/images/nakheelcorporatelibraries/developments/golden-mile-3bb0353b6-4a03-4243-bdd4-952665d95bce.jpg?sfvrsn=71fcda7c_1",
+    "/images/nakheelcorporatelibraries/developments/golden-mile-3b1e9cc9e-fde3-41e9-9424-6a50a45246f0.jpg?sfvrsn=84c24700_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/golden-mile-3.jpg?sfvrsn=ad2be01f_1",
+  "latitude": 25.10696549600694,
+  "launchDate": "null",
+  "location": {
+    "ar": "يقع على الجذع الغربي لنخلة جميرا، ويوفر سهولة الوصول إلى أهم مناطق الجذب في نخلة جميرا.",
+    "en": "The Golden Neighbourhood of Palm Jumeirah. Located beneath the complex is Golden Mile Galleria, a retail and dining destination offering doorstep convenience for residents. Adjacent to the mall is Al Ittihad Park, perfect for picnics, strolls and jogs. After a long day, unwind at the spa or go relax at the nearby Palm West Beach. Enjoy doorstep convenience and access to Palm Jumeirah’s top attractions when you live at Golden Mile."
+  },
+  "longitude": 55.147520952794395,
+  "mapDescription": {
+    "ar": "الميل الذهبي في نخلة جميرا. قريب من غاليريا الميل الذهبي، حديقة الاتحاد، مونوريل النخلة، شاطئ نخلة ويست، ونخيل مول.",
+    "en": "The Location: Connected to Golden Mile Galleria, 2 minutes from Al Ittihad Park, 2 minutes from Palm Monorail, 4 minutes from Palm West Beach, 5 minutes from Club Vista Mare, 5 minutes from Nakheel Mall."
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.10696549600694,
+        "lon": 55.147520952794395
+      },
+      "distance": {
+        "en": "Connected",
+        "ar": ""
+      },
+      "name": {
+        "en": "Golden Mile Galleria",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Park",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.10696549600694,
+        "lon": 55.147520952794395
+      },
+      "distance": {
+        "en": "2 minutes from",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Ittihad Park",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Monorail Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.10696549600694,
+        "lon": 55.147520952794395
+      },
+      "distance": {
+        "en": "2 minutes from",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Monorail",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Beach",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.10696549600694,
+        "lon": 55.147520952794395
+      },
+      "distance": {
+        "en": "4 minutes from",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm West Beach",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Club",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.10696549600694,
+        "lon": 55.147520952794395
+      },
+      "distance": {
+        "en": "5 minutes from",
+        "ar": ""
+      },
+      "name": {
+        "en": "Club Vista Mare",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.10696549600694,
+        "lon": 55.147520952794395
+      },
+      "distance": {
+        "en": "5 minutes from",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nakheel Mall",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": -1,
+  "maxAreaSqmt": -1,
+  "maxPriceAED": -1,
+  "minAreaSqft": -1,
+  "minAreaSqmt": -1,
+  "minPriceAED": -1,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/goldenmile",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/projects/golden-mile.mp4?sfvrsn=c2492c47_1",
+  "views": [
+    {
+      "en": "إطلالات على البحر",
+      "ar": ""
+    },
+    {
+      "en": "إطلالات على الخليج العربي",
+      "ar": ""
+    },
+    {
+      "en": "إطلالات على جزيرة نخلة جميرا",
+      "ar": ""
+    },
+    {
+      "en": "إطلالات على الحديقة (حديقة الاتحاد)",
+      "ar": ""
+    },
+    {
+      "en": "إطلالات جزئية على البحر",
+      "ar": ""
+    },
+    {
+      "en": "إطلالات على الطريق",
+      "ar": ""
+    }
+  ],
+  "projectID": "golden-mile",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

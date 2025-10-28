@@ -1,0 +1,302 @@
+{
+  "slug": "Jumeirah_Village_Circle",
+  "id": "nakheel-Jumeirah_Village_Circle",
+  "projectName": {
+    "ar": "جميرا فيلج سيركل",
+    "en": "Jumeirah Village Circle"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "جميرا فيلج سيركل هو مجتمع مترامي الأطراف يمتد على مساحة 560 هكتارًا، ويضم أكثر من 700 فيلا، منها 90 فيلا بأربع غرف نوم تم تسليمها في عام 2015. يوفر بيئة قرية هادئة مع جميع المرافق الحديثة للمدينة، وملاعب رياضية، ومدارس ومساجد منتشرة في جميع أنحاء الحدائق الخضراء الوفيرة بالمشروع. تتميز الفلل بمساحات معيشة داخلية وخارجية واسعة، بما في ذلك تراس واسع على السطح. يمكن الوصول إلى المجتمع بسهولة من الطرق الرئيسية.",
+    "en": "Spanning 560 hectares, Jumeirah Village Circle features over 700 villas, including 90 four-bedroom villas delivered in 2015, constructed in a circular pattern. The four-bedroom villas each cover 3,655 square feet and feature extensive indoor and outdoor living space, including an expansive roof terrace. Known for its family-friendly lifestyle, it is also a pet-friendly neighbourhood with state-of-the-art sport facilities. The community can be easily accessed from Sheikh Mohammed Bin Zayed Road, Al Khail Road and Hessa Street."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Circle Mall"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Circle Club"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Teqball Table"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Football Pitch"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jogging Trails"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Padel Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "جميرا فيلج سيركل",
+    "en": "560 hectares"
+  },
+  "bedrooms": [
+    4
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2015-01-01",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/jumeirah-village-circle22eb321d-d2a2-4f25-af04-c78c854dede0.jpg?sfvrsn=5f5f8a4c_1",
+    "/images/nakheelcorporatelibraries/developments/jumeirah-village-circle2a6e9515-4909-44d3-a0aa-d56202bf9ec6.jpg?sfvrsn=b9a37b7a_1",
+    "/images/nakheelcorporatelibraries/developments/jumeirah-village-circle.jpg?sfvrsn=85b5bc08_1",
+    "/images/nakheelcorporatelibraries/developments/jumeirah-village-triangle_6.jpg?sfvrsn=5ed5b773_1",
+    "/images/nakheelcorporatelibraries/developments/jumeirah-village-circle2a6e9515-4909-44d3-a0aa-d56202bf9ec6.jpg?sfvrsn=b9a37b7a_1",
+    "/images/nakheelcorporatelibraries/developments/jumeirah-village-triangle_7368f8802-c6fc-4942-b2d7-4c3d71782780.jpg?sfvrsn=2844485c_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/jumeirah-village-circle22eb321d-d2a2-4f25-af04-c78c854dede0.jpg?sfvrsn=5f5f8a4c_1",
+  "latitude": 25.062574679665367,
+  "launchDate": "null",
+  "location": {
+    "ar": "يمكن الوصول إليها بسهولة من شارع الشيخ محمد بن زايد، وشارع الخيل، وشارع حصة.",
+    "en": "Jumeirah Village Circle provides a beautiful environment for residents, with all the modern facilities of a city in a tranquil village setting. Designed to cater for the whole family, Jumeirah Village Circle features sports fields, schools and mosques clustered throughout the abundant green parks of the development."
+  },
+  "longitude": 55.209365366467374,
+  "mapDescription": {
+    "ar": "جميرا فيلج سيركل",
+    "en": "Jumeirah Village Circle"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Destination",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.062574679665367,
+        "lon": 55.209365366467374
+      },
+      "distance": {
+        "en": "12 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Jumeirah Village Triangle",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Metro Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.062574679665367,
+        "lon": 55.209365366467374
+      },
+      "distance": {
+        "en": "12 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Khail Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Destination",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.062574679665367,
+        "lon": 55.209365366467374
+      },
+      "distance": {
+        "en": "15 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Destination",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.062574679665367,
+        "lon": 55.209365366467374
+      },
+      "distance": {
+        "en": "18 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Marina",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.062574679665367,
+        "lon": 55.209365366467374
+      },
+      "distance": {
+        "en": "19 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Downtown",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.062574679665367,
+        "lon": 55.209365366467374
+      },
+      "distance": {
+        "en": "22 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 3655,
+  "maxAreaSqmt": 339.56,
+  "maxPriceAED": 160000000,
+  "minAreaSqft": 3655,
+  "minAreaSqmt": 339.56,
+  "minPriceAED": 280000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/jumeirahvillagecircle",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/projects/jumeirah-village-circle.mp4?sfvrsn=833db633_1",
+  "views": "Properties in Jumeirah Village Circle offer a variety of views, including city skyline views from apartments, and tranquil village settings with landscaped gardens, parks, and canals from villas and townhouses.",
+  "projectID": "jumeirah-village-circle",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

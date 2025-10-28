@@ -1,0 +1,277 @@
+{
+  "slug": "Como_Residences",
+  "id": "nakheel-Como_Residences",
+  "projectName": {
+    "ar": "كومو ريزيدنسز",
+    "en": "Como Residences"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "كومو ريزيدنسز هو مشروع سكني حصري جديد من المقرر أن يعيد تعريف أفق نخلة جميرا. يضم 76 طابقًا يحتوي على 76 مسكنًا فقط، ويبلغ ارتفاعه أكثر من 300 متر، ويتميز بتصميم مبتكر يضمن لكل مسكن الاستفادة الكاملة من إطلالات تتراوح من 180 إلى 360 درجة على دبي وبحر العرب من الشرفات الملتفة. تقدم هذه التحفة المعمارية تجارب معيشية فاخرة لا مثيل لها مع الخصوصية والتفرد ووسائل الراحة المتميزة الواسعة. تشمل وسائل الراحة شاطئًا رمليًا خاصًا مرتفعًا، ومسبحًا بطول 25 مترًا، ومسبحًا لا متناهيًا على السطح. سيحتوي كومو ريزيدنسز أيضًا على مناطق طبيعية واسعة بالإضافة إلى مجموعة متنوعة من المساحات الترفيهية. سيتم وضع سطح مراقبة بزاوية 360 درجة على السطح بالإضافة إلى المسبح اللامتناهي. يتم تلبية احتياجات العائلات من خلال مناطق لعب مائية وجافة للأطفال، مع وسائل راحة إضافية تشمل أيضًا صالة مقهى خاصة، ومركز أعمال، وصالة خاصة للمقيمين. جرب أقصى درجات المعيشة على الواجهة البحرية حيث تجتمع الإطلالات البانورامية التي لا تضاهى، والديكورات الداخلية الفخمة، ووسائل الراحة الحصرية معًا لخلق نمط حياة عالمي لا مثيل له.",
+    "en": "Como Residences is a new exclusive residential development set to redefine the skyline of Palm Jumeirah. It boasts 76 storeys of just 76 residences, standing at over 300 metres tall, featuring an innovative design that ensures each residence can take full advantage of the 180° to 360° views of Dubai and the Arabian Sea from wrap around balconies.This architectural marvel offers unrivalled luxurious living experiences with privacy, exclusivity and extensive premium amenities. Amenities include an elevated private sandy beach, a 25 metre lap pool and a rooftop infinity pool. Como Residences will also have extensive landscaped areas as well as a variety of recreational spaces. A 360-degree viewing deck will be located on the rooftop in addition to the roof top infinity pool. Families are catered for with a children’s wet and dry play areas, with additional amenities also including a private café lounge, a business centre and private residents’ lounge. Experience the ultimate in waterfront living where unbeatable panoramic views, opulent interiors and exclusive amenities come together to create an unmatched cosmopolitan lifestyle."
+  },
+  "3D_TourLink": "https://www.comobynakheel.com",
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح الشاطئ",
+        "en": "Beach Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مركز أعمال",
+        "en": "Business Centre"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حمامات سباحة",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "ملاعب رياضية",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة مقهى",
+        "en": "Café Lounge"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مناطق ترفيهية",
+        "en": "Recreational Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مركز صحي",
+        "en": "Wellness Centre"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة لعب للأطفال",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "نخلة جميرا",
+    "en": "Palm Jumeirah"
+  },
+  "bedrooms": "2-7",
+  "brand": "Nakheel",
+  "brochurePdfLink": "/docs/nakheelcorporatelibraries/nakheel-project-document/como-residences.pdf?sfvrsn=e68ef7f_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Q2 2028",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/projects/como-residencesba2d50b8-c2c1-4897-9ca6-c26cdba91c08.jpg?sfvrsn=fdbc2dc2_1",
+    "/images/nakheelcorporatelibraries/developments/projects/como-residences.jpg?sfvrsn=6940299b_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/projects/como-residencesba2d50b8-c2c1-4897-9ca6-c26cdba91c08.jpg?sfvrsn=fdbc2dc2_1",
+  "latitude": 25.11088232908901,
+  "launchDate": "May 3, 2023",
+  "location": {
+    "ar": "نخلة جميرا",
+    "en": "Palm Jumeirah"
+  },
+  "longitude": 55.14584995291465,
+  "mapDescription": {
+    "ar": "نمط حياة ساحلي ساحر، يقع في المشهد العالمي الشهير للمنتجعات الفاخرة والمتاجر الراقية وأماكن الترفيه ووجهات تناول الطعام الأولى.",
+    "en": "Glamorous Coastal Lifestyle, nestled in the world-renowned landscape of extravagant luxury resorts, high-end stores, entertainment venues and premiere dining destinations."
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Park",
+        "ar": "حديقة"
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": "دقيقتان"
+      },
+      "name": {
+        "en": "Al Ittihad Park",
+        "ar": "حديقة الاتحاد"
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": "مركز تسوق"
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": "دقيقتان"
+      },
+      "name": {
+        "en": "Golden Mile Galleria",
+        "ar": "جولدن مايل غاليريا"
+      }
+    },
+    {
+      "category": {
+        "en": "Monorail Station",
+        "ar": "محطة مونوريل"
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": "3 دقائق"
+      },
+      "name": {
+        "en": "Palm Monorail",
+        "ar": "مونوريل النخلة"
+      }
+    },
+    {
+      "category": {
+        "en": "Beach",
+        "ar": "شاطئ"
+      },
+      "distance": {
+        "en": "4 minutes",
+        "ar": "4 دقائق"
+      },
+      "name": {
+        "en": "Palm West Beach",
+        "ar": "شاطئ ويست بالم"
+      }
+    },
+    {
+      "category": {
+        "en": "Club",
+        "ar": "نادي"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "name": {
+        "en": "Club Vista Mare",
+        "ar": "كلوب فيستا ماري"
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": "مركز تسوق"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "name": {
+        "en": "Nakheel Mall",
+        "ar": "نخيل مول"
+      }
+    }
+  ],
+  "maxAreaSqft": 21949,
+  "maxAreaSqmt": 2039,
+  "maxPriceAED": 500000000,
+  "minAreaSqft": 4469,
+  "minAreaSqmt": 415,
+  "minPriceAED": 16000000,
+  "paymentPlan": {
+    "ar": "20% دفعة أولى، 60% أثناء البناء، 20% عند التسليم",
+    "en": "20% Down Payment, 60% During Construction, 20% On Handover"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/new-launches/como-residences",
+  "projectStatus": {
+    "ar": "إطلاق جديد",
+    "en": "New Launch"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/home-video-banner/homepage-como.mp4?sfvrsn=c82ef9a1_1",
+  "views": [
+    {
+      "en": "180° to 360° views of Dubai and the Arabian Sea",
+      "ar": "إطلالات من 180 إلى 360 درجة على دبي وبحر العرب"
+    }
+  ],
+  "projectID": "como-residences",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

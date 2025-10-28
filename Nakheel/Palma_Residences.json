@@ -1,0 +1,255 @@
+{
+  "slug": "Palma_Residences",
+  "id": "nakheel-Palma_Residences",
+  "projectName": {
+    "ar": "",
+    "en": "Palma Residences"
+  },
+  "country": {
+    "ar": "",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "",
+    "en": "Experience beachfront living in Dubai at Nakheel's Palma Residences. Contemporary villas with stunning views of the Arabian Gulf and Dubai skyline. Palma Residences is a collection of townhouses on Palm Jumeirah. With a blend of modern architecture, each residence offers a visual masterpiece from the outside in. Your new home at Palm Residences is thoughtfully designed to suit your lifestyle, with amenities that elevate your living to new heights. Palma Residences is nestled on the eastern end of Palm Jumeirah and connected to the west via the Crescent Road. It offers more than just a convenient address, it also provides a plethora of amenities on its doorstep. Experience the art of comfortable and elegant living at Palma Residences."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parking Spaces"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Beaches"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "Palm Jumeirah"
+  },
+  "bedrooms": "4-bedroom and 5-bedroom units",
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/palma-residences-1240x480a.jpg?sfvrsn=ec174fdb_1",
+    "/images/nakheelcorporatelibraries/developments/palma-residences-1240x480c.jpg?sfvrsn=d990563c_1",
+    "/images/nakheelcorporatelibraries/developments/palma-residences-1240x480b.jpg?sfvrsn=993c3ab6_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/palma-residences-1240x480bb21c557f-816c-4203-ae2b-04b625621f5b.jpg?sfvrsn=80fb7fce_3",
+  "latitude": 25.113321199565092,
+  "launchDate": "null",
+  "location": {
+    "ar": "",
+    "en": "Eastern end of Palm Jumeirah, connected to the west via the Crescent Road."
+  },
+  "longitude": 55.147283898196314,
+  "mapDescription": {
+    "ar": "",
+    "en": "Palma Residences on Palm Jumeirah."
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Park",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.113321199565092,
+        "lon": 55.147283898196314
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Ittihad Park",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.113321199565092,
+        "lon": 55.147283898196314
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Golden Mile Galleria",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Monorail Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.113321199565092,
+        "lon": 55.147283898196314
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Monorail",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Beach",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.113321199565092,
+        "lon": 55.147283898196314
+      },
+      "distance": {
+        "en": "4 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm West Beach",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Club",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.113321199565092,
+        "lon": 55.147283898196314
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Club Vista Mare",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.113321199565092,
+        "lon": 55.147283898196314
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nakheel Mall",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/palma-residences",
+  "projectStatus": {
+    "ar": "",
+    "en": "جاهز"
+  },
+  "propertyTypes": [
+    {
+      "en": "Townhouse",
+      "ar": ""
+    },
+    {
+      "en": "Villa",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "null",
+  "views": [
+    {
+      "en": "Arabian Gulf",
+      "ar": ""
+    },
+    {
+      "en": "Dubai skyline",
+      "ar": ""
+    },
+    {
+      "en": "Sea",
+      "ar": ""
+    }
+  ],
+  "projectID": "palma-residences",
+  "project_name": "Palma Residences",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

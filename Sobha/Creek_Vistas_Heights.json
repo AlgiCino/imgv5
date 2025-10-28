@@ -1,0 +1,263 @@
+{
+  "slug": "creek-vistas-heights",
+  "id": "sobha-creek-vistas-heights",
+  "projectName": {
+    "ar": "مرتفعات فيستا كريك",
+    "en": "Creek Vistas Heights"
+  },
+  "country": {
+    "ar": "الإمارات",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "بالارتقاء إلى ارتفاعات جديدة، تُعد \"كريك فيستاس هايتس\" تحفة معمارية ببرجين توأمين مصممين لضمان إطلالات بانورامية غير منقطعة بزاوية 360 درجة على برج خليفة ووسط مدينة دبي. تتميز هذه المساكن المصممة بعناية بوسائل راحة حصرية في متناول يدك، وتجسد سحراً فريداً لا مثيل له حقاً.",
+    "en": "Reaching onto newer altitudes, Creek Vistas Heights is a structural splendour with twin towers designed to ensure uninterrupted 360° views of Burj Khalifa and Downtown Dubai. Featuring exclusive amenities at your fingertips, these thoughtfully crafted residences embody a unique charm that is truly unparalleled."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "STATE-OF-THE-ART SWIMMING POOL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "FULLY EQUIPPED GYMNASIUM"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "BARBECUE SPACES"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "RELAXATION DECKS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "kids play area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Community Arena"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Arena"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/Creek%20Vista%20Heights%20%283%29.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_7.jpg.webp?itok=xgmvqWvc",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_11.jpg.webp?itok=nZCFLK2R",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_9.jpg.webp?itok=HcXUFAFn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_11.jpg.webp?itok=M2zGM3iR"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/1440x618-5-Creek%20Vista%20Heights.jpg.webp?itok=MIAiE365",
+  "latitude": null,
+  "launchDate": null,
+  "location": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": ""
+      },
+      "distance": {
+        "en": "5 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Education",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": ""
+      },
+      "distance": {
+        "en": "13 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping/Retail",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark/City Center",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": ""
+      },
+      "distance": {
+        "en": "27 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 1887.89,
+  "maxAreaSqmt": 175.4,
+  "maxPriceAED": null,
+  "minAreaSqft": 529.26,
+  "minAreaSqmt": 49.17,
+  "minPriceAED": 1620000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/creek-vistas-heights/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [
+    {
+      "en": "Burj Khalifa",
+      "ar": ""
+    },
+    {
+      "en": "Downtown Dubai",
+      "ar": ""
+    }
+  ],
+  "projectID": "sobha-creek-vistas-heights",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

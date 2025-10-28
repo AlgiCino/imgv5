@@ -1,0 +1,284 @@
+{
+  "projectName": {
+    "en": "Vindera at The Valley",
+    "ar": ""
+  },
+  "projectID": "421055",
+  "country": {
+    "en": "United Arab Emirates",
+    "ar": ""
+  },
+  "city": {
+    "en": "Dubai",
+    "ar": ""
+  },
+  "description": {
+    "en": "Discover Vindera, an exclusive sanctuary in The Valley Phase 2, where Central Park views and lush gardens meet serene forest walks. Immerse yourself in nature’s beauty, from flower farms to vibrant green spaces, all complemented by soul-soothing wellness amenities. Here, every day invites connection, tranquillity, and the simple joy of living surrounded by life’s natural rhythms. At Vindera, families flourish and serenity feels like home.",
+    "ar": ""
+  },
+  "3D_TourLink": null,
+  "amenities": [
+    {
+      "name": {
+        "en": "Fitness Play Area",
+        "ar": ""
+      },
+      "description": {
+        "en": "Fitness Play Area",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Soccer Pitch",
+        "ar": ""
+      },
+      "description": {
+        "en": "Soccer Pitch",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Tennis, Padel and Basketball Courts",
+        "ar": ""
+      },
+      "description": {
+        "en": "Tennis, Padel and Basketball Courts",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Flower Farm",
+        "ar": ""
+      },
+      "description": {
+        "en": "Flower Farm",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Orchard/Fruit Tree Grove",
+        "ar": ""
+      },
+      "description": {
+        "en": "Orchard/Fruit Tree Grove",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Tranquil Lake",
+        "ar": ""
+      },
+      "description": {
+        "en": "Tranquil Lake",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Skatepark",
+        "ar": ""
+      },
+      "description": {
+        "en": "Skatepark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dog park",
+        "ar": ""
+      },
+      "description": {
+        "en": "Dog park",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Jogging Route",
+        "ar": ""
+      },
+      "description": {
+        "en": "Jogging Route",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Sensory Play Area",
+        "ar": ""
+      },
+      "description": {
+        "en": "Sensory Play Area",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [
+    3,
+    4
+  ],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": "https://properties.emaar.com/wp-content/uploads/2025/09/VINDERA_TV_BROCHURE_Draft-3.pdf",
+  "contact": {
+    "phone": "N/A",
+    "whatsapp": "https://wa.link/u9ik8p"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/HERO_1620X832_4-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/HERO_1620X832_1-3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/HERO_1620X832_2-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/HERO_1620X832_3-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/PRO_EXT_1-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/PRO_EXT_2-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/PRO_EXT_3-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/PRO_INT_1-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/PRO_INT_2-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/PRO_INT_3-1024x740.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/09/HERO_1620X832_1-2.jpg",
+  "latitude": 24.9980625,
+  "launchDate": "2025-09-19",
+  "location": {
+    "en": "The Valley Phase 2, Dubai, United Arab Emirates",
+    "ar": ""
+  },
+  "longitude": 55.4248281,
+  "mapDescription": {
+    "en": "XCXF+6WG Dubai - United Arab Emirates",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Dubai Polo & Equestrian Club",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "Leisure",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.0380032,
+        "lon": 55.2532291
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Mall",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1972295,
+        "lon": 55.279747
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "City Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1949849,
+        "lon": 55.2784141
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "Transportation",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.2566932,
+        "lon": 55.3643178
+      }
+    },
+    {
+      "name": {
+        "en": "Global Village",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "Entertainment",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.0670875,
+        "lon": 55.3070781
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 3170000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://properties.emaar.com/en/properties/vindera-at-the-valley/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Townhouse",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [
+    {
+      "en": "Central Park views",
+      "ar": ""
+    }
+  ],
+  "projectCategory": "Project"
+}

@@ -1,0 +1,591 @@
+{
+  "slug": "golf-gate-2",
+  "id": "damac-golf-gate-2",
+  "projectName": {
+    "ar": "غولف جيت 2 داماك هيلز",
+    "en": "Golf Gate 2 DAMAC Hills"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "غولف جيت 2 استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة",
+    "en": "Golf Gate 2 offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE. These luxurious off-plan projects in Dubai promise high returns, with flexible and easy payment plans."
+  },
+  "3D_TourLink": null,
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Luxury clubhouse (30,000 sq. ft)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Infinity pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Upscale dining"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "State-of-the-art facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Trendy wave pool (Malibu Bay)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Beach vibes"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Ocean-like waves"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "World-class golf course (Trump International Golf Club Dubai)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Stables/Equestrian lifestyle"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Petting farm"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Skate park"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fishing lake"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gardens and lakes"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Football field"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Tennis courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Signature cascade waterfall feature"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Podium pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "State-of-the-art gym with golf course views"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Amusement Park"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Retail Outlets"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants/Authentic flavors"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Supermarket"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Spa"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cricket Field"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids' Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Lounge area for residents"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "CCTV Security system"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Outdoor swimming pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Children's Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Central Conditioning"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Concierge Service"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Shared Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Barbecue Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Near School"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Near Hospital"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Near Mall"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Mini Golf"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Space to work"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Observation deck"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Public Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jogging track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Meditation area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports court"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Steam room"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sauna"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dog Park"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fun-filled family BBQ"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "داماك هيلز",
+    "en": "DAMAC Hills"
+  },
+  "bedrooms": [],
+  "brand": {
+    "en": "DAMAC Properties",
+    "ar": "داماك العقارية"
+  },
+  "brochurePdfLink": "Available for download on Tanami Properties or NHD Real Estate websites",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "December 2026",
+  "galleryImages": [],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5rXDVVoaR9OS44nglv9omM/c147abedd9e1f2734b267d7923215edc/653x685-Mob-AR.jpg",
+  "latitude": null,
+  "launchDate": "August 3, 2023",
+  "location": {
+    "ar": "داماك هيلز، دبي",
+    "en": "DAMAC Hills, Dubai"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": "Golf Gate 2 is an apartment building located in the heart of DAMAC Hills, Al Hebiah Third, Dubai, United Arab Emirates. It offers a serene living experience with sweeping views of the Trump International Golf Club. The precise location can be identified by the Plus Code 26CV+H9X."
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 2342,
+  "maxAreaSqmt": 217.59,
+  "maxPriceAED": 860000,
+  "minAreaSqft": 578,
+  "minAreaSqmt": 53.74,
+  "minPriceAED": 818000,
+  "paymentPlan": {
+    "ar": "خطط سداد مرنة وميسرة",
+    "en": "Flexible and Easy Payment Plans"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/golf-gate-2/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": false,
+  "videoLink": null,
+  "views": [],
+  "summary": {
+    "en": "Golf Gate 2 in DAMAC Hills offers a unique investment opportunity in luxurious off-plan apartments. With flexible payment plans and eligibility for a UAE residency visa, it's designed for high returns and a modern lifestyle in a vibrant community.",
+    "ar": "يقدم غولف جيت 2 في داماك هيلز فرصة استثمارية فريدة في شقق فاخرة قيد الإنشاء. مع خطط سداد مرنة وأهلية للحصول على تأشيرة إقامة في الإمارات، تم تصميمه لتحقيق عوائد عالية وأسلوب حياة عصري في مجتمع نابض بالحياة."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Golf Gate 2: Invest in Luxury, Live in DAMAC Hills",
+      "subtitle": "Off-Plan Apartments with High Returns & Residency Visa"
+    },
+    "ar": {
+      "title": "غولف جيت 2: استثمر في الرفاهية، عش في داماك هيلز",
+      "subtitle": "شقق قيد الإنشاء بعوائد عالية وتأشيرة إقامة"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Luxurious off-plan apartments in the vibrant DAMAC Hills community.",
+      "ar": "شقق فاخرة قيد الإنشاء في مجتمع داماك هيلز النابض بالحياة."
+    },
+    {
+      "en": "Flexible and easy payment plans, making investment accessible.",
+      "ar": "خطط سداد مرنة وميسرة، مما يجعل الاستثمار متاحًا."
+    },
+    {
+      "en": "Eligibility for UAE residency visa with real estate investment.",
+      "ar": "أهلية الحصول على تأشيرة إقامة في الإمارات العربية المتحدة مع الاستثمار العقاري."
+    }
+  ],
+  "insights": {
+    "en": "Golf Gate 2 offers a compelling investment in Dubai's growing real estate market, particularly for international investors seeking high-yield off-plan properties with the added benefit of a UAE residency visa. Its location in DAMAC Hills ensures a family-friendly environment with modern amenities and strong potential for capital appreciation.",
+    "ar": "يقدم غولف جيت 2 استثمارًا جذابًا في سوق العقارات المتنامي في دبي، خاصة للمستثمرين الدوليين الذين يبحثون عن عقارات قيد الإنشاء ذات عائد مرتفع مع ميزة إضافية تتمثل في تأشيرة إقامة في الإمارات. يضمن موقعه في داماك هيلز بيئة مناسبة للعائلات مع وسائل راحة حديثة وإمكانات قوية لتقدير رأس المال."
+  },
+  "projectID": "damac-golf-gate-2",
+  "projectCategory": "Community"
+}

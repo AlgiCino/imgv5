@@ -1,0 +1,240 @@
+{
+  "slug": "sobha-hartland-townhouses",
+  "id": "sobha-sobha-hartland-townhouses",
+  "projectName": {
+    "ar": "",
+    "en": "Sobha Garden Houses"
+  },
+  "country": {
+    "ar": "",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "",
+    "en": "Inspired by London Garden Homes, this 4-bed Townhouse at Sobha Hartland is a place the global citizens of Dubai can truly thrive. Ultra chic, with beautiful interiors and prime lifestyle amenities, these garden homes are one of the most prestigious, coveted addresses in Dubai."
+  },
+  "3D_TourLink": "https://hartland2.sobha.cloud/3d/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "2 PRIVATE GARDENS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "PRIVATE GARAGE"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "COMMUNITY TRIANGULAR PARK"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "INTERNATIONAL SCHOOLS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Arena"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "3,233 - 3,302 SQ.FT."
+  },
+  "bedrooms": [
+    4
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/garden-houses_master-brochure_1-1.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "+97180076242"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_6.jpg.webp?itok=ib7a5AYe",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_5.jpg.webp?itok=R17N8jmV",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_2.jpg.webp?itok=cRA11cP9",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_1.jpg.webp?itok=T-FGP4uX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_1.jpg.webp?itok=gz2lztT5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_2.jpg.webp?itok=04BPSuVa",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%20-1.jpg.webp?itok=0ipr_bMg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_6.jpg.webp?itok=Fs8a3-Gq"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/1440x618-townhouse.jpg.webp?itok=ZUG0oblD",
+  "latitude": -1,
+  "launchDate": "null",
+  "location": {
+    "ar": "",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "longitude": -1,
+  "mapDescription": {
+    "ar": "",
+    "en": "null"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": ""
+      },
+      "distance": {
+        "en": "3 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Education",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": ""
+      },
+      "distance": {
+        "en": "14 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": ""
+      },
+      "distance": {
+        "en": "29 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 3302,
+  "maxAreaSqmt": 306.77,
+  "maxPriceAED": -1,
+  "minAreaSqft": 3233,
+  "minAreaSqmt": 300.35,
+  "minPriceAED": -1,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://sobharealty.com/villas-for-sale-in-dubai/sobha-hartland-townhouses/",
+  "projectStatus": {
+    "ar": "",
+    "en": "Sold Out"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    },
+    {
+      "en": "Townhouses",
+      "ar": ""
+    }
+  ],
+  "sellable": false,
+  "videoLink": "null",
+  "views": [],
+  "projectID": "sobha-sobha-hartland-townhouses",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

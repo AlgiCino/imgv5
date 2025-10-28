@@ -1,0 +1,271 @@
+{
+  "slug": "sobha-aquamont",
+  "id": "sobha-sobha-aquamont",
+  "projectName": {
+    "ar": "سوبها أكوامونت",
+    "en": "Sobha Aquamont"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "أم القيوين",
+    "en": "Umm Al Quwain"
+  },
+  "description": {
+    "ar": "يستهل سوبها أكوامونت حقبة جديدة من الحياة الساحلية الراقية في قلب وسط مدينة أم القيوين. يقع هذا الجيب الحصري على الواجهة البحرية على طول شاطئ استثنائي يبلغ طوله 11 كم - مع 7 كم من الشواطئ البكر وحدائق الشاطئ المنسقة - ويوفر إحساسًا نادرًا بالمساحة والصفاء والرقي. يضم مساكن شاطئية مصممة بشكل لا تشوبه شائبة من غرفة نوم واحدة وغرفتي نوم، إلى جانب دوبلكسات واسعة من 3 غرف نوم، كل منزل هو امتداد سلس للمحيط - مصمم لالتقاط إيقاع الأمواج وتدفق الضوء والأفق اللامحدود. يُنظر إلى سوبها أكوامونت على أنه 'الأفق بجانب الشاطئ'، حيث تلتقي الأناقة المعاصرة بالجمال الطبيعي للبحر. تجتمع الإطلالات البانورامية والهندسة المعمارية السائلة والتصميم البديهي معًا لخلق ملاذ من الهدوء، مما يوفر للمقيمين أسلوب حياة راقٍ متجذر في الاتصال والعافية والأناقة الخالدة.",
+    "en": "Sobha Aquamont ushers in a new era of refined coastal living in the heart of Downtown Umm Al Quwain. Set along an extraordinary 11-km shoreline—with 7 km of pristine beaches and curated beach parks—this exclusive waterfront enclave offers a rare sense of space, serenity, and sophistication.Featuring impeccably crafted 1- and 2-bedroom beachfront residences, along with expansive 3-bedroom duplexes, each home is a seamless extension of the ocean—designed to capture the rhythm of the waves, the flow of light, and the boundless horizon.Envisioned as the “Skyline by the Shore,” Sobha Aquamont is where contemporary elegance meets the natural beauty of the sea. Panoramic vistas, fluid architecture, and intuitive design come together to create a sanctuary of calm, offering residents an elevated lifestyle rooted in connection, wellness, and timeless style."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسار الغابة",
+        "en": "JUNGLE TRAIL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "سينما في الهواء الطلق",
+        "en": "OUTDOOR CINEMA"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حديقة النزهات",
+        "en": "PICNIC LAWN"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة الشواء",
+        "en": "BARBECUE AREA"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة استرخاء مظللة",
+        "en": "SHADED RELAXATION ZONE"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة لعب للأطفال",
+        "en": "KIDS PLAY AREA"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية خارجية",
+        "en": "OUTDOOR GYM"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "سطح سرير مبلل",
+        "en": "Wet Bed Deck"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "جاكوزي",
+        "en": "Jacuzzi"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حمام سباحة",
+        "en": "SWIMMING POOL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "وسط مدينة أم القيوين",
+    "en": "Downtown Umm Al Quwain"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-05/Sobha%20Aquamont_Downtown%20UAQ_1.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "https://api.whatsapp.com/send?phone=97180076242&text=Hi Sobha Team, I am interested in your luxury properties. Can you please provide more details?"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery5_0.jpg.webp?itok=oZEHNp6P",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob5.jpg.webp?itok=9VpZAa-V",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery2_0.jpg.webp?itok=TDti8cT-",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob2.jpg.webp?itok=AlLyu9wF",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery1_0.jpg.webp?itok=2cfhvfRO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob1.jpg.webp?itok=MtXlTyqE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery6_0.jpg.webp?itok=U7ltm_dM",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob6.jpg.webp?itok=CGenRuqR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery3_0.jpg.webp?itok=l7MwHY0c",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob3.jpg.webp?itok=gPDdfgkW",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery4_0.jpg.webp?itok=rCG6Nkvo",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob4.jpg.webp?itok=6Q3b2LrB",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery7_0.jpg.webp?itok=tFHto4GO",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob7.jpg.webp?itok=cYwUdaPz",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Gallery8_0.jpg.webp?itok=zW491cXn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/Mob8.jpg.webp?itok=m-Ik-gkQ"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-04/Banner%201440x618%20%E2%80%93%204_3.jpg",
+  "latitude": null,
+  "launchDate": null,
+  "location": {
+    "ar": "وسط مدينة أم القيوين",
+    "en": "Downtown Umm Al Quwain"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "DUBAI",
+        "ar": "دبي"
+      },
+      "distance": {
+        "en": "40 MINS",
+        "ar": "40 دقيقة"
+      },
+      "category": {
+        "en": "City",
+        "ar": "مدينة"
+      }
+    },
+    {
+      "name": {
+        "en": "MARJAN ISLAND",
+        "ar": "جزيرة المرجان"
+      },
+      "distance": {
+        "en": "10 MINS",
+        "ar": "10 دقائق"
+      },
+      "category": {
+        "en": "Island",
+        "ar": "جزيرة"
+      }
+    },
+    {
+      "name": {
+        "en": "SHARJAH",
+        "ar": "الشارقة"
+      },
+      "distance": {
+        "en": "30 MINS",
+        "ar": "30 دقيقة"
+      },
+      "category": {
+        "en": "City",
+        "ar": "مدينة"
+      }
+    }
+  ],
+  "maxAreaSqft": 2211.87,
+  "maxAreaSqmt": 205.48596661,
+  "maxPriceAED": 5010000,
+  "minAreaSqft": 565.1,
+  "minAreaSqmt": 52.498453,
+  "minPriceAED": 1110000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/sobha-aquamont/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    },
+    {
+      "en": "Duplexes",
+      "ar": "دوبلكس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [
+    {
+      "en": "Panoramic",
+      "ar": "بانورامية"
+    },
+    {
+      "en": "Coastal",
+      "ar": "ساحلية"
+    }
+  ],
+  "projectID": "sobha-sobha-aquamont",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

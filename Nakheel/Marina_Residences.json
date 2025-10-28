@@ -1,0 +1,283 @@
+{
+  "slug": "Marina_Residences",
+  "id": "nakheel-Marina_Residences",
+  "projectName": {
+    "ar": "مارينا ريزيدنسز",
+    "en": "Marina Residences"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استمتع بتجربة مارينا ريزيدنسز من نخيل - حياة رائعة على الواجهة المائية في نخلة جميرا مع شقق بغرفتي نوم وثلاث غرف نوم بالإضافة إلى بنتهاوس فاخرة. مارينا ريزيدنسز هو مشروع تطوير مذهل على الواجهة المائية في نخلة جميرا يضم ستة أبراج سكنية، تحتوي على شقق بغرفتي نوم وثلاث غرف نوم بالإضافة إلى بنتهاوس فاخرة. إنه مجمع متعدد المباني في نخلة جميرا، يقع عند طرف جذع نخلة جميرا. الأبراج السكنية الستة المكونة من 15 طابقًا، ثلاثة على كل جانب من الطريق الرئيسي، مبنية حول مرسى يتسع لـ 600 قارب.",
+    "en": "Experience Nakheel's Marina Residences - Spectacular waterside living on Palm Jumeirah with two and three-bedroom apartments and luxurious penthouses."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dog Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parking Spaces"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "نخلة جميرا",
+    "en": "Palm Jumeirah"
+  },
+  "bedrooms": [
+    2,
+    3
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/marina-residences-1240x480b.jpg?sfvrsn=ca9b901_3",
+    "/images/nakheelcorporatelibraries/developments/marina-residences-1240x480c.jpg?sfvrsn=88106499_3",
+    "/images/nakheelcorporatelibraries/developments/marina-residences-1240x480a.jpg?sfvrsn=635c82e3_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/marina-residences-1240x480b.jpg?sfvrsn=ca9b901_3",
+  "latitude": 25.115037318459915,
+  "launchDate": "null",
+  "location": {
+    "ar": "نخلة جميرا",
+    "en": "Marina Residences is situated at the tip of the Palm Jumeirah trunk. The six 15 storey apartment buildings, three on each side of the main road, are built around a 600-berth Anchor Marina. Marina Residences offers exceptional living, the perfect sanctuary on Palm Jumeirah."
+  },
+  "longitude": 55.13614978650672,
+  "mapDescription": {
+    "ar": "موقع مريح مع سهولة الوصول إلى مناطق الجذب الرئيسية في نخلة جميرا.",
+    "en": "A MULTI BUILDING COMPLEX ON PALM JUMEIRAH"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Beach",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm West Beach",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nakheel Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Attraction",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "The View at the Palm",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Transportation",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Monorail",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Club",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Club Vista Mare",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Golden Mile Galleria",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/marina-residences",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": ""
+    },
+    {
+      "en": "Penthouse",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "null",
+  "views": [
+    {
+      "en": "Waterside",
+      "ar": ""
+    },
+    {
+      "en": "Breathtaking Views",
+      "ar": ""
+    }
+  ],
+  "projectID": "marina-residences",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "slug": "Masakin_Al_Furjan",
+  "id": "nakheel-Masakin_Al_Furjan",
+  "projectName": {
+    "ar": "مساكن الفرجان",
+    "en": "Masakin Al Furjan"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اكتشف مساكن الفرجان من نخيل - استمتع بحياة مجتمعية مبهجة في أحد أسعد مجتمعات دبي مع المساحات الخضراء والمرافق. في عام 2022، حصلت مساكن الفرجان على جائزة 'أسعد مجتمع سكني لهذا العام' في دبي. تتكون من سبعة مبانٍ منخفضة الارتفاع و 335 منزلًا. تتخلل المساحات الخضراء الوفيرة المجتمع، مما يوفر للمقيمين ملاذات هادئة للاسترخاء والتواصل مع الطبيعة.",
+    "en": "Discover Nakheel's Masakin Al Furjan - Experience joyful community living in one of Dubai's happiest communities with green spaces and amenities. In 2022, Masakin Al Furjan was awarded as the 'Happiest Residential Community of the Year' in Dubai. It consists of seven low-rise buildings and 335 homes. Abundant green spaces weave through the community, offering residents serene havens to unwind and connect with nature."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Community Pavilion"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Supermarket"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "الفرجان",
+    "en": "Al Furjan"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480b.jpg?sfvrsn=ef94a18f_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480a.jpg?sfvrsn=bd015b50_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/masakin-al-furjan-1240x480b.jpg?sfvrsn=ef94a18f_3",
+  "latitude": 25.030264421662057,
+  "launchDate": "null",
+  "location": {
+    "ar": "تقع مساكن الفرجان على بعد 3 دقائق من محطة مترو الفرجان، و 10 دقائق من ابن بطوطة مول، و 15 دقيقة من دبي مارينا، و 18 دقيقة من نخلة جميرا، و 24 دقيقة من مطار آل مكتوم الدولي (DWC)، و 28 دقيقة من وسط مدينة دبي.",
+    "en": "Masakin Al Furjan is located in one of Dubai's happiest communities, consisting of seven low-rise buildings and 335 homes with abundant green spaces. It is 3 minutes from Al Furjan Metro Station, 10 minutes from Ibn Battuta Mall, 15 minutes from Dubai Marina, 18 minutes from Palm Jumeirah, 24 minutes from Al Maktoum International Airport (DWC), and 28 minutes from Downtown Dubai."
+  },
+  "longitude": 55.14891664232886,
+  "mapDescription": {
+    "ar": "موقع مساكن الفرجان مع نقاط الاهتمام القريبة ومسافاتها.",
+    "en": "Masakin Al Furjan"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Metro Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Furjan Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "10 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Dubai Marina",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "15 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Marina",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "18 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "24 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Maktoum International Airport (DWC)",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Downtown",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "28 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/masakin-al-furjan",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": ""
+    },
+    {
+      "en": "Townhouse",
+      "ar": ""
+    },
+    {
+      "en": "Apartment",
+      "ar": ""
+    },
+    {
+      "en": "Plot",
+      "ar": ""
+    },
+    {
+      "en": "Not Disclosed",
+      "ar": ""
+    },
+    {
+      "en": "Other",
+      "ar": ""
+    },
+    {
+      "en": "Business Center",
+      "ar": ""
+    },
+    {
+      "en": "Holiday Home",
+      "ar": ""
+    },
+    {
+      "en": "Kiosk",
+      "ar": ""
+    },
+    {
+      "en": "Office",
+      "ar": ""
+    },
+    {
+      "en": "Outdoor Area",
+      "ar": ""
+    },
+    {
+      "en": "Retail",
+      "ar": ""
+    },
+    {
+      "en": "School",
+      "ar": ""
+    },
+    {
+      "en": "Warehouse",
+      "ar": ""
+    },
+    {
+      "en": "Pent House",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "null",
+  "views": "Apartments on the ground floor have private gardens, and many of the other apartments in Masakin Al Furjan have garden views. Additionally, the residential apartments feature large balconies that offer unobstructed views of the scenery.",
+  "projectID": "masakin-al-furjan",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

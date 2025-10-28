@@ -1,0 +1,423 @@
+{
+  "slug": "damac-bay-by-cavalli",
+  "id": "damac-damac-bay-by-cavalli",
+  "projectName": {
+    "ar": "داماك باي بتوقيع كافالي",
+    "en": "DAMAC Bay by Cavalli"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اكتشف إبداعاً معمارياً يتألق بحضوره في 42 طابقاً، وتتكامل فيه الرفاهية مع إيقاع البحر وسحره. داماك باي بتوقيع كافالي هو مشروع يتميز بتصاميم داخلية تحمل توقيع علامة كافالي الشهيرة وبأسلوب مستوحى من جمال الشاطئ. يحتضن المشروع شققاً سكنية تتنوع بين غرفة وغرفتين وثلاث غرف نوم، بالإضافة إلى وحدات دوبلكس من 3 و4 و5 غرف نوم وبإطلالات آسرة على البحر. تصاميم كافالي في هذا المشروع تأتيك بإلهام من روائع الحياة البحرية لتقدم لك تجربة معيشية لا مثيل لها على مشارف البحر.",
+    "en": "Discover an architectural masterpiece spanning 42 floors, where luxury integrates with the rhythm and charm of the sea. DAMAC Bay by Cavalli is a project characterized by interior designs bearing the signature of the famous Cavalli brand and a style inspired by the beauty of the beach. The project includes residential apartments ranging from one, two, and three bedrooms, in addition to duplex units of 3, 4, and 5 bedrooms with captivating sea views. Cavalli's designs in this project are inspired by the wonders of marine life to offer you an unparalleled living experience on the shores of the sea."
+  },
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/67444418ce8c642b77e9beeb/6744490ece8c642b77e9c9a6",
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح انفينيتي",
+        "en": "Infinity Pool"
+      },
+      "description": {
+        "ar": "اكتشف رفاهية السباحة في مسبح الانفينيتي، الذي صمم لتستمتع فيه بسباحة حرة وسط مشاهد ساحرة تنعش أوقاتك، وتمنحك لحظات الهدوء التي تحلم بها.",
+        "en": "Discover the luxury of swimming in the infinity pool, designed for you to enjoy free swimming amidst charming scenes that refresh your moments and give you the peaceful moments you dream of."
+      }
+    },
+    {
+      "name": {
+        "ar": "سكاي غاردن",
+        "en": "Sky Garden"
+      },
+      "description": {
+        "ar": "واحتك الغنّاء تنتظرك هنا لتقدم لك الأجواء الهادئة التي تحلم بها. في سكاي غاردن ستحيط بك الإطلالات البانورامية وتغمرك بسحر خاص وسط الغيوم.",
+        "en": "Your lush oasis awaits you here to offer you the peaceful atmosphere you dream of. In the Sky Garden, panoramic views will surround you and immerse you in a special charm amidst the clouds."
+      }
+    },
+    {
+      "name": {
+        "ar": "منصات عائمة مخصصة للعمل",
+        "en": "Floating Work Pods"
+      },
+      "description": {
+        "ar": "اختبر العمل ضمن أجواء فريدة في المنصات العائمة ضمن المسبح. الوجهة المثالية لاجتماعات وجلسات تنجز فيها أعمالك وسط عالم من الهدوء والسكينة.",
+        "en": "Experience working in a unique atmosphere on the floating platforms within the pool. The ideal destination for meetings and sessions where you accomplish your tasks amidst a world of calm and serenity."
+      }
+    },
+    {
+      "name": {
+        "ar": "شاطئ خاص",
+        "en": "Private Beach"
+      },
+      "description": {
+        "ar": "يصبح لحياة الرفاهية رونق متميز عند وجود شاطئ خاص في قلب منزلك، حيث تستمتع بأوقاتك على الرمال الذهبية وتتذوق أشهى الأطعمة في مجموعة المطاعم والمقاهي.",
+        "en": "Luxury living gains a distinct charm with a private beach at the heart of your home, where you enjoy your time on golden sands and savor delicious food in a variety of restaurants and cafes."
+      }
+    },
+    {
+      "name": {
+        "ar": "جناح للأوبرا",
+        "en": "Opera Suite"
+      },
+      "description": {
+        "ar": "اكتشف تجربة جديدة تغمر حواسك على سطح المشروع ضمن جناح الأوبرا، والذي يقدم للسكان عروضاً حية تتمايل على أنغامها النافورة الراقصة",
+        "en": "Discover a new immersive experience on the project's rooftop within the Opera Suite, which offers residents live performances accompanied by the dancing fountain."
+      }
+    }
+  ],
+  "area": {
+    "ar": "دبي هاربر",
+    "en": "Dubai Harbour"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "brand": "Cavalli",
+  "brochurePdfLink": "https://downloads.ctfassets.net/zoq5l15g49wj/5dvAS9qjSLoRZDxXEq8beV/7e9001ddd0fb632886162e152f9b1c07/damac-bay-digital-brochure-ar.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2027-07-31",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/A8hfMZfPZyLDli3xNnZNS/70cc129261cfb84328e2a94eb9036012/Damac_Bay-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/52hwrnmxVAzCb5C4hncFjj/9271cc1f99a70ad776906377200f17ab/Damac_Bay-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1DrLkYqPewg75mMoI5FMBY/741ad1a9faa63ff8d6fadf44817f09cd/Damac_Bay-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2uhx2RPj3tF4JbBiox4xiS/2650b06b08b363c98f0eb8fdfa46f32b/Damac_Bay-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/NJOLA8pIkOQtph0iJvT3z/fbc2e987bf0d5e575dca1a5d8d56fb2a/Damac_Bay-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6nYyUFK6HJlr3vYlsDv6kE/438b02613fb7e562ff8a104e3a29c9e2/Damac_Bay-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5U8VkoQNkMCCo92Za2iLeR/80a556707fcd15983f9bf99d36ba308c/Damac_Bay-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5ibZbaZQo11umIqCThj746/69a3b0cffad0a4e087a51373ab093d6d/Damac_Bay-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2HhNqGo2AhxfjVkpdwxIkm/8526fa28178641710d00c9c4e259071f/Damac_Bay-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4HRMTdO1PZDB45pMYLV7nr/eda682a1719b8af32e0d9016d5525977/Damac_Bay-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/65wkG71GgBvQleL3aswqQB/acb8597ab45c2df37d2093d52dcadc09/Damac_Bay-Gallery-10.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6FhD7dHNJAqa78WITvQLhu/1aa58a7df838764e507f9a0e110fb527/Damac_Bay-Gallery-11-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3idLw45EABQfF8Z89SpNET/0081ad7a59fc53ba7e4f61984df73e14/Damac_Bay-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1H1emPRAoLV06JLGib6OWj/a902bae03e6b4705288531922588070e/Damac_Bay-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3cwlj0H14BhUWNfTA2FOhD/95c9e97fb81bd360bff9a18f76985585/Damac_Bay-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/23nQ72VQVfVaSnoK4a8FYv/8c4ab2879063cfbbcc7b32e930512151/Damac_Bay-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2k7FbqSLNGyeXCRXBJvWNQ/6284c33c39113ca7b122bd7fa0eb6ef2/Damac_Bay-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1zOGPD6OS82RwOd1qrI5pW/d527a2b3f38da9a3755c4dc482fd21ff/Damac_Bay-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/480pZCCGmD21dPYBdUAhsh/34d285767a722cceb17d40b3bc2a66ff/Damac_Bay-Gallery-18-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/pX3bPqf4EVIgUH0I9LgET/2122001840bad9526f8e37202d3ab5ee/Damac_Bay-Gallery-19.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3BMc15bYR5mXPWDIG1cVX6/346ab79ae5713c75fac7b774383cfa9a/Damac_Bay-Homepage_Hero_16x9_1.webp",
+  "latitude": 25.092668,
+  "launchDate": "2023-01-13",
+  "location": {
+    "ar": "دبي هاربر، متصل بأرجاء دبي",
+    "en": "Dubai Harbour, connected to all parts of Dubai"
+  },
+  "longitude": 55.143734,
+  "mapDescription": {
+    "ar": "بالقرب من كل ما تحتاج إليه متصل بأرجاء دبي",
+    "en": "Close to everything you need, connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      },
+      "distance": {
+        "ar": "10 دقائق",
+        "en": "10 minutes"
+      },
+      "category": {
+        "ar": "معلم",
+        "en": "Landmark"
+      }
+    },
+    {
+      "name": {
+        "ar": "دبي مارينا مول",
+        "en": "Dubai Marina Mall"
+      },
+      "distance": {
+        "ar": "5 دقائق",
+        "en": "5 minutes"
+      },
+      "category": {
+        "ar": "تسوق",
+        "en": "Shopping"
+      }
+    },
+    {
+      "name": {
+        "ar": "مول الإمارات",
+        "en": "Mall of the Emirates"
+      },
+      "distance": {
+        "ar": "15 دقيقة",
+        "en": "15 minutes"
+      },
+      "category": {
+        "ar": "تسوق",
+        "en": "Shopping"
+      }
+    },
+    {
+      "name": {
+        "ar": "جميرا فيليج سيركل",
+        "en": "Jumeirah Village Circle"
+      },
+      "distance": {
+        "ar": "20 دقيقة",
+        "en": "20 minutes"
+      },
+      "category": {
+        "ar": "مجتمع",
+        "en": "Community"
+      }
+    },
+    {
+      "name": {
+        "ar": "مطار دبي الدولي",
+        "en": "Dubai International Airport"
+      },
+      "distance": {
+        "ar": "40 دقيقة",
+        "en": "40 minutes"
+      },
+      "category": {
+        "ar": "مطار",
+        "en": "Airport"
+      }
+    },
+    {
+      "name": {
+        "ar": "ابن بطوطة مول",
+        "en": "Ibn Battuta Mall"
+      },
+      "distance": {
+        "ar": "10 دقائق",
+        "en": "10 minutes"
+      },
+      "category": {
+        "ar": "تسوق",
+        "en": "Shopping"
+      }
+    },
+    {
+      "name": {
+        "ar": "عالم آي إم جي للمغامرات",
+        "en": "IMG Worlds of Adventure"
+      },
+      "distance": {
+        "ar": "25 دقيقة",
+        "en": "25 minutes"
+      },
+      "category": {
+        "ar": "مدينة ترفيهية",
+        "en": "Theme Park"
+      }
+    },
+    {
+      "name": {
+        "ar": "سكاي دايف دبي",
+        "en": "Skydive Dubai"
+      },
+      "distance": {
+        "ar": "12 دقيقة",
+        "en": "12 minutes"
+      },
+      "category": {
+        "ar": "ترفيه",
+        "en": "Entertainment"
+      }
+    },
+    {
+      "name": {
+        "ar": "الجامعة الأمريكية في دبي",
+        "en": "American University of Dubai"
+      },
+      "distance": {
+        "ar": "12 دقيقة",
+        "en": "12 minutes"
+      },
+      "category": {
+        "ar": "تعليم",
+        "en": "Education"
+      }
+    },
+    {
+      "name": {
+        "ar": "عين دبي",
+        "en": "Ain Dubai"
+      },
+      "distance": {
+        "ar": "6 دقائق",
+        "en": "6 minutes"
+      },
+      "category": {
+        "ar": "معلم",
+        "en": "Landmark"
+      }
+    },
+    {
+      "name": {
+        "ar": "مدينة دبي الرياضية",
+        "en": "Dubai Sports City"
+      },
+      "distance": {
+        "ar": "20 دقيقة",
+        "en": "20 minutes"
+      },
+      "category": {
+        "ar": "مجتمع رياضي",
+        "en": "Sports Community"
+      }
+    },
+    {
+      "name": {
+        "ar": "نادي إلس في مدينة دبي الرياضية",
+        "en": "Els Club in Dubai Sports City"
+      },
+      "distance": {
+        "ar": "20 دقيقة",
+        "en": "20 minutes"
+      },
+      "category": {
+        "ar": "نادي رياضي",
+        "en": "Sports Club"
+      }
+    },
+    {
+      "name": {
+        "ar": "استاد دبي الدولي للكريكيت",
+        "en": "Dubai International Cricket Stadium"
+      },
+      "distance": {
+        "ar": "20 دقيقة",
+        "en": "20 minutes"
+      },
+      "category": {
+        "ar": "ساحة رياضية",
+        "en": "Sports Arena"
+      }
+    },
+    {
+      "name": {
+        "ar": "برج العرب",
+        "en": "Burj Al Arab"
+      },
+      "distance": {
+        "ar": "20 دقيقة",
+        "en": "20 minutes"
+      },
+      "category": {
+        "ar": "فندق/معلم",
+        "en": "Hotel/Landmark"
+      }
+    },
+    {
+      "name": {
+        "ar": "شاطئ جميرا",
+        "en": "Jumeirah Beach"
+      },
+      "distance": {
+        "ar": "10 دقائق",
+        "en": "10 minutes"
+      },
+      "category": {
+        "ar": "شاطئ",
+        "en": "Beach"
+      }
+    },
+    {
+      "name": {
+        "ar": "مدرسة الإمارات الدولية",
+        "en": "Emirates International School"
+      },
+      "distance": {
+        "ar": "20 دقيقة",
+        "en": "20 minutes"
+      },
+      "category": {
+        "ar": "تعليم",
+        "en": "Education"
+      }
+    }
+  ],
+  "maxAreaSqft": 10054,
+  "maxAreaSqmt": 933.11,
+  "maxPriceAED": 75039000,
+  "minAreaSqft": 1235,
+  "minAreaSqmt": 114.73,
+  "minPriceAED": 3882000,
+  "paymentPlan": {
+    "ar": "خطة سداد 40/60",
+    "en": "40/60 Payment Plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/damac-bay-by-cavalli/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Penthouse",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/y5bdzJndAoZXb2TF59HHA/cfff384cbdd599e94ef7de83f14a3f3e/DAMAC_BAY_Project_video_16x9.mp4",
+  "views": [
+    {
+      "en": "Harbour View",
+      "ar": "إطلالة على الميناء"
+    },
+    {
+      "en": "Sea View",
+      "ar": "إطلالة بحرية"
+    }
+  ],
+  "summary": {
+    "en": "DAMAC Bay by Cavalli is a 42-story architectural masterpiece in Dubai Harbour, offering luxurious apartments and duplexes with captivating sea views. Inspired by marine life, it combines Cavalli's signature designs with world-class amenities for an unparalleled waterfront living experience.",
+    "ar": "داماك باي بتوقيع كافالي هو تحفة معمارية من 42 طابقًا في دبي هاربر، يقدم شققًا ودوبلكس فاخرة بإطلالات بحرية آسرة. مستوحى من الحياة البحرية، يجمع بين تصاميم كافالي المميزة ووسائل الراحة عالمية المستوى لتجربة معيشية لا مثيل لها على الواجهة البحرية."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "DAMAC Bay by Cavalli: Marine-Inspired Luxury in Dubai Harbour",
+      "subtitle": "Waterfront Living with Cavalli's Signature Elegance"
+    },
+    "ar": {
+      "title": "داماك باي بتوقيع كافالي: فخامة مستوحاة من البحر في دبي هاربر",
+      "subtitle": "عيش على الواجهة البحرية بأناقة كافالي المميزة"
+    }
+  },
+  "highlights": [
+    {
+      "en": "42-story architectural masterpiece with Cavalli's signature interior designs inspired by marine life.",
+      "ar": "تحفة معمارية من 42 طابقًا بتصاميم داخلية مميزة من كافالي مستوحاة من الحياة البحرية."
+    },
+    {
+      "en": "Luxurious apartments and duplexes with captivating panoramic sea views in Dubai Harbour.",
+      "ar": "شقق ودوبلكس فاخرة بإطلالات بحرية بانورامية آسرة في دبي هاربر."
+    },
+    {
+      "en": "Exclusive amenities including an infinity pool, sky garden, floating work pods, and a private beach.",
+      "ar": "وسائل راحة حصرية بما في ذلك مسبح إنفينيتي، حديقة سماوية، منصات عمل عائمة، وشاطئ خاص."
+    }
+  ],
+  "insights": {
+    "en": "DAMAC Bay by Cavalli offers a prime investment in Dubai Harbour, combining luxury waterfront living with a prestigious fashion brand. This project is ideal for investors seeking high capital appreciation and strong rental yields in a unique, high-demand location with exceptional design and amenities.",
+    "ar": "يقدم داماك باي بتوقيع كافالي استثمارًا متميزًا في دبي هاربر، حيث يجمع بين الحياة الفاخرة على الواجهة البحرية وعلامة تجارية أزياء مرموقة. هذا المشروع مثالي للمستثمرين الذين يبحثون عن تقدير رأس مال مرتفع وعوائد إيجارية قوية في موقع فريد وعالي الطلب بتصميم ووسائل راحة استثنائية."
+  },
+  "projectID": "damac-damac-bay-by-cavalli",
+  "projectCategory": "Project"
+}

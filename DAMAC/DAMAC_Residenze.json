@@ -1,0 +1,332 @@
+{
+  "slug": "damac-residenze",
+  "id": "damac-damac-residenze",
+  "projectName": {
+    "ar": "داماك ريزيدنزيه",
+    "en": "DAMAC Residenze"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "داماك ريزيدنزيه هو مجموعة حصرية من الوحدات الفاخرة التي تتألق في الطوابق العلوية من مشروع داماك هايتس، الممتد على ارتفاع 84 طابقاً. تتنوع الوحدات في هذا المشروع بين شقق ومنازل بنتهاوس فاخرة مع تصاميم داخلية أنيقة وإطلالات ساحرة. تتناغم ألوان الأزرق الفاتح مع الأرضيات الرخامية واللمسات الإبداعية في انحناءات لطيفة لتمنح سكان هذه الوحدات أجواء هادئة وفريدة، وذلك وسط مشاهد آسرة لنخلة جميرا والبحر وأبراج مارينا. هنا الرفاهية ترتقي إلى آفاق جديدة في موقع استثنائي وعنوان لا مثيل له.",
+    "en": "DAMAC Residenze is an exclusive collection of luxury units shining on the upper floors of the 84-story DAMAC Heights project. The units in this project vary between luxurious apartments and penthouses with elegant interior designs and charming views. Light blue colors harmonize with marble floors and creative touches in gentle curves to give residents of these units a calm and unique atmosphere, amidst captivating views of Palm Jumeirah, the sea, and Marina towers. Here, luxury ascends to new horizons in an exceptional location and an unparalleled address."
+  },
+  "3D_TourLink": "https://www.youtube.com/embed/htHzUPRtK1Q",
+  "amenities": [
+    {
+      "name": {
+        "ar": "حوض سباحة",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة ألعاب رياضية حديثة",
+        "en": "State-of-the-art Gymnasium"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "سبا وساونا",
+        "en": "Spa & Sauna"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "خدمة كونسيرج على مدار الساعة",
+        "en": "24/7 Concierge Service"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "خدمة صف السيارات",
+        "en": "Valet Parking"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مصاعد عالية السرعة",
+        "en": "High-speed Elevators"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منافذ بيع بالتجزئة",
+        "en": "Retail Outlets"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مطاعم ومقاهي",
+        "en": "Restaurants & Cafes"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مرسى دبي",
+    "en": "Dubai Marina"
+  },
+  "bedrooms": [
+    3
+  ],
+  "brand": "DAMAC",
+  "brochurePdfLink": "https://prod-cdn.damacproperties.com/uploads/brochure/damac-residenze-brochure-en.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2018-04-15",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3ayL6Sk0lMxYX7VN2XM15C/a96399266b7d152cd642d9ef2c4471d6/DAMAC_Residenze-01.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1uftgh2fVAhthzSc0Je9xl/dd8618d9e791fbd69f8db5a453bf70d7/DAMAC_Residenze-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5ZN8jSCrE3GjFAJXLFz07e/b348363e54b6e812674edf35b0d2ba5f/DAMAC_Residenze-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5RVKqeooNMB1aZKr2slhBH/56c42fc1e366e99c77245e73aa94ce15/DAMAC_Residenze-04.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2b20ELbHrGKLcHPNTcCNUh/c70c2d7410aeb5ce77fd07bb6dd28261/DAMAC_Residenze-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1Vq98rAJao26b5fWGnjKTf/261dd39a2a2ba8f9d73fc22a5aa544e3/DAMAC_Residenze-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7AM4v2P781besoIpTs9DA7/633b0cb9a0d1789c8595f204d5723e4f/DAMAC_Residenze-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6aetVYAuRaLF8izvsI99kC/6c1c9ec68db6fe4b0fa8f1e7faded622/DAMAC_Residenze-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6Fymknp8C0ZPqP4Q3s7NeE/e70cce583d191904dfa3f8414948cff3/DAMAC_Residenze-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2VNB3yUoU1sUIKCGfHhJYL/c402190fc2002e9b30b10440c838979e/DAMAC_Residenze-10.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5MBvocOWsMkp8rQtswSOG2/487cbe2a42abdfd7d6bd42923c7ee5d8/DAMAC_Residenze-Homepage_Hero_9x16.jpg",
+  "latitude": 25.08726,
+  "launchDate": "2013-02-06",
+  "location": {
+    "ar": "مرسى دبي",
+    "en": "Dubai Marina"
+  },
+  "longitude": 55.145625,
+  "mapDescription": {
+    "ar": "بالقرب من كل ما تحتاج إليه متصل بأرجاء دبي",
+    "en": "Close to everything you need, connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      },
+      "travelTime": "12 Minutes",
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "شاطئ جميرا",
+        "en": "Jumeirah Beach"
+      },
+      "travelTime": "15 Minutes",
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مول الإمارات",
+        "en": "Mall of the Emirates"
+      },
+      "travelTime": "14 Minutes",
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مدينة دبي للإنترنت",
+        "en": "Dubai Internet City"
+      },
+      "travelTime": "09 Minutes",
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مدينة دبي للإعلام",
+        "en": "Dubai Media City"
+      },
+      "travelTime": "08 Minutes",
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "دبي مارينا",
+        "en": "Dubai Marina"
+      },
+      "description": "Enhanced and upscale community with five-star restaurants, coffee shops, boutique hotels, and five-star resorts, offering access to public transportation network including Dubai Tram, metro, and water taxis.",
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "داماك هايتس",
+        "en": "DAMAC Heights"
+      },
+      "description": "Location of DAMAC Residenze",
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "إحداثيات",
+        "en": "Coordinates"
+      },
+      "latitude": 25.0874025,
+      "longitude": 55.1410271,
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 1906,
+  "maxAreaSqmt": 177.070518,
+  "maxPriceAED": 4738800,
+  "minAreaSqft": 1906,
+  "minAreaSqmt": 177.070518,
+  "minPriceAED": 4738800,
+  "paymentPlan": {
+    "ar": "خطة سداد 60/40",
+    "en": "60/40 Payment Plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/damac-residenze/",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Penthouse",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/embed/htHzUPRtK1Q",
+  "views": [
+    {
+      "en": "Water View",
+      "ar": "إطلالة مائية"
+    }
+  ],
+  "summary": {
+    "en": "DAMAC Residenze offers ultra-luxury apartments and penthouses in the iconic DAMAC Heights, boasting breathtaking views of Palm Jumeirah and Dubai Marina. Experience unparalleled elegance and serene living in a prime waterfront location.",
+    "ar": "يقدم داماك ريزيدنزيه شققًا وبنتهاوس فاخرة للغاية في أبراج داماك هايتس الشهيرة، مع إطلالات خلابة على نخلة جميرا ومرسى دبي. استمتع بأناقة لا مثيل لها وحياة هادئة في موقع مائي متميز."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "DAMAC Residenze: Pinnacle of Waterfront Luxury",
+      "subtitle": "Exclusive Living with Panoramic Views in Dubai Marina"
+    },
+    "ar": {
+      "title": "داماك ريزيدنزيه: قمة الفخامة على الواجهة البحرية",
+      "subtitle": "عيش حصري بإطلالات بانورامية في مرسى دبي"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Prime location in Dubai Marina with captivating sea and Palm Jumeirah views.",
+      "ar": "موقع متميز في مرسى دبي مع إطلالات آسرة على البحر ونخلة جميرا."
+    },
+    {
+      "en": "Ultra-luxury apartments and penthouses with elegant interior designs.",
+      "ar": "شقق وبنتهاوس فاخرة للغاية بتصاميم داخلية أنيقة."
+    },
+    {
+      "en": "Access to world-class amenities and exceptional services within DAMAC Heights.",
+      "ar": "الوصول إلى وسائل راحة عالمية وخدمات استثنائية داخل أبراج داماك هايتس."
+    }
+  ],
+  "insights": {
+    "en": "Ideal for discerning investors seeking high capital appreciation and strong rental yields in Dubai Marina's prestigious waterfront properties, offering a blend of luxury and strategic location.",
+    "ar": "مثالي للمستثمرين المميزين الذين يبحثون عن تقدير رأس مال مرتفع وعوائد إيجارية قوية في العقارات المرموقة على الواجهة البحرية لمرسى دبي، مما يوفر مزيجًا من الفخامة والموقع الاستراتيجي."
+  },
+  "projectID": "damac-damac-residenze",
+  "projectCategory": "Project"
+}

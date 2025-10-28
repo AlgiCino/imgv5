@@ -1,0 +1,89 @@
+{
+  "projectName": {
+    "ar": "",
+    "en": "Aykon City"
+  },
+  "projectID": "aykon-city",
+  "country": {
+    "ar": "",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اكتشف أيكون سيتي، التحفة المعمارية متعددة الأبراج من داماك العقارية، والتي تستعد لتصبح أيقونة جديدة في أفق دبي الساحر. يقع المشروع في موقع استراتيجي على شارع الشيخ زايد ويطل على قناة دبي المائية، وهو ليس مجرد مكان للسكن، بل مدينة متكاملة في قلب دبي. يقدم هذا المشروع الرائد مجموعة من الشقق الفندقية والوحدات السكنية المصممة بإتقان، مع إطلالات بانورامية خلابة على أكثر مناطق المدينة حيوية. سيستمتع السكان بمجموعة لا مثيل لها من وسائل الراحة عالمية المستوى، بما في ذلك حدائق البوديوم، وحمامات السباحة، وصالة رياضية حديثة، بالإضافة إلى وجهات ترفيهية ومطاعم حصرية. أيكون سيتي ليس مجرد منزل، بل هو استثمار رئيسي في قلب المدينة الأكثر إثارة في العالم. احجز مكانك في هذه الأعجوبة المعمارية.",
+    "en": "Discover Aykon City, a magnificent multi-tower masterpiece by DAMAC Properties, poised to become a new architectural icon on Dubai's majestic skyline. Located on the prestigious Sheikh Zayed Road and overlooking the Dubai Canal, this is more than just a residence; it's an entire city set within the metropolis of Dubai. This landmark development offers a collection of masterfully designed hotel apartments and residences, featuring stunning panoramic views of the city's most dynamic areas. Residents will enjoy an unparalleled array of world-class amenities, including podium-level gardens, swimming pools, a state-of-the-art gym, and exclusive entertainment and dining venues. Aykon City is not just a home; it's a prime investment in the heart of the world's most exciting city. Secure your place in this architectural wonder."
+  },
+  "brand": "DAMAC",
+  "slug": "",
+  "id": "",
+  "3D_TourLink": "",
+  "amenities": [],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [],
+  "brochurePdfLink": "",
+  "contact": {
+    "phone": "",
+    "whatsapp": ""
+  },
+  "deliveryDate": "",
+  "galleryImages": [],
+  "goldenVisaEligible": false,
+  "heroImage": "",
+  "launchDate": "",
+  "location": {
+    "ar": "",
+    "en": ""
+  },
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [],
+  "sellable": false,
+  "videoLink": "",
+  "views": [],
+  "summary": {
+    "ar": "اكتشف الحياة الأيقونية في أيكون سيتي من داماك. تحفة معمارية ترتفع فوق شارع الشيخ زايد، وتقدم شققاً فاخرة للتملك الحر بإطلالات خلابة على القناة في قلب دبي.",
+    "en": "Discover iconic living at Aykon City by DAMAC. Soaring over Sheikh Zayed Road, this architectural marvel offers freehold luxury apartments with breathtaking canal views in the heart of Dubai."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "highlights": [],
+  "insights": {
+    "en": "",
+    "ar": ""
+  },
+  "latitude": 0,
+  "projectCategory": "Project"
+}

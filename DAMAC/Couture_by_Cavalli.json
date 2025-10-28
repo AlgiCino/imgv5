@@ -1,0 +1,755 @@
+{
+  "slug": "couture-by-cavalli",
+  "id": "damac-couture-by-cavalli",
+  "projectName": {
+    "ar": "كوتور بتوقيع كافالي",
+    "en": "Couture by Cavalli"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "تعرف على مجموعة استثنائية من المنازل الفاخرة التي تتناغم فيها التفاصيل العصرية مع روح الطبيعة في مشروع صمم لمن يعشق أسلوب الحياة الفاخر. اختبر روعة العيش وسط تصاميم عالمية ومنازل حصرية بإطلالات على قناة دبي المائية وحديقة الصفا. يعبّر هذا المشروع باسمه عن أجمل تفاصيله، إذ تحمل تصاميمه توقيع علامة روبرتو كافالي، وتتجسّد فيه التفاصيل الإيطالية الراقية. يضم كوتور بتوقيع كافالي وحدات تتنوع بين شقق من 3 و4 و5 غرف نوم ومنازل بنتهاوس من 6 غرف نوم. هنا سكتشف مفهوماً جديداً لحياة الرفاهية.",
+    "en": "Discover an exceptional collection of luxurious homes where modern details harmonize with the spirit of nature in a project designed for those who love a luxurious lifestyle. Experience the splendor of living amidst international designs and exclusive homes with views of the Dubai Water Canal and Safa Park. This project expresses its finest details by its name, as its designs bear the signature of Roberto Cavalli, embodying refined Italian details. Couture by Cavalli features units ranging from 3, 4, and 5-bedroom apartments and 6-bedroom penthouses. Here, you will discover a new concept of luxury living."
+  },
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/664dd9af00456059ee5700b6/6717458cb575dafe5d780c8a",
+  "amenities": [
+    {
+      "name": {
+        "ar": "صالة سيجار",
+        "en": "Cigar Lounge"
+      },
+      "description": {
+        "ar": "عِش لحظات من الهدوء والسكينة في صالة السيجار، واستمتع بتجربة أنواع السيجار الفاخر وسط الأجواء الراقية. هنا وجهتك للاسترخاء والراحة.",
+        "en": "Experience moments of tranquility and serenity in the cigar lounge, and enjoy a selection of fine cigars amidst a sophisticated atmosphere. Your destination for relaxation and comfort."
+      }
+    },
+    {
+      "name": {
+        "ar": "كلوب هاوس",
+        "en": "Clubhouse"
+      },
+      "description": {
+        "ar": "أجواء دافئة وأوقات طيبة في انتظارك ضمن الكلوب هاوس الفاخر. وجهة مصممة بكل أناقة لتقيم فيها فعالياتك الاجتماعية، وتحيا ذكريات لا تنسى.",
+        "en": "Warm ambiance and good times await you in the luxurious clubhouse. An elegantly designed venue for your social events, where you create unforgettable memories."
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "ارتقِ بلياقتك إلى مستويات جديدة ضمن صالة رياضية حديثة مجهزة بأفضل المعدات، تجربة صممت لتلهمك وتدفعك للوصول إلى أقصى أهدافك الرياضية.",
+        "en": "Elevate your fitness to new levels in a modern gym equipped with the best equipment, an experience designed to inspire you and push you to achieve your maximum athletic goals."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح على السطح",
+        "en": "Rooftop Pool"
+      },
+      "description": {
+        "ar": "استمتع بتجربة سباحة مميزة في مسبح المشروع الذي يستقبلك على السطح. هنا الانتعاش سيغمر جميع نشاطاتك وسط إطلالات آسرة على المدينة.",
+        "en": "Enjoy a unique swimming experience in the project's rooftop pool. Here, refreshment will immerse all your activities amidst captivating city views."
+      }
+    },
+    {
+      "name": {
+        "ar": "بحيرة مخصصة للسباحة",
+        "en": "Swimming Lagoon"
+      },
+      "description": {
+        "ar": "لا تجربة أجمل من الاسترخاء في قلب بحيرة مخصصة للسباحة، حيث تحيط بك التصاميم الساحرة والأجواء الراقية لتقضي أوقاتاً ممتعة ومنعشة أثناء سباحتك.",
+        "en": "There's no better experience than relaxing in the heart of a dedicated swimming lagoon, where charming designs and sophisticated ambiance surround you to spend enjoyable and refreshing moments while swimming."
+      }
+    }
+  ],
+  "area": {
+    "ar": "الخليج التجاري",
+    "en": "Business Bay"
+  },
+  "bedrooms": [
+    3,
+    4,
+    5
+  ],
+  "brand": "Cavalli",
+  "brochurePdfLink": "https://downloads.ctfassets.net/zoq5l15g49wj/3oBUKfPfXPlAQ7T5qQBo7c/93b805abe2dd86b9f3ba1a5b7eeba28c/couture-by-cavalli-floor-plans-27-02-2024-ar.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2027-06-30",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/2urZ2cUEvJuJ1hHw0G6Sb/e30c7336f3f904b0f12aa025fbd0b239/Couture_by_Cavalli-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5pAY1HnGfVCxyVWKrn8WrB/16c8a885d703573d78b170dc475a0501/Couture_by_Cavalli-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1cBOgccIqh3wEM26oPHrom/d5984dcbb61c1677056a1916fe727b5c/Couture_by_Cavalli-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/bAjvGRuR3bU6Y8faGeur4/ceafe1f2afd1f6a87d87a682031d5238/Couture_by_Cavalli-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6q1WWCMZTjR60hUm2ZgEx8/7cf88c1bb2ad3c12acb23f299bf70486/Couture_by_Cavalli-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1mJIyqtpyt1GUB1MNsJtld/60bc8adf644e78db3f6add675ab04619/Couture_by_Cavalli-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7y6etwgOA2EMKwgffZzKDB/38552c3f3d9dff37ea695ed2b3fa4f1c/Couture_by_Cavalli-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6yy0e7OEQLKArkYDtljIvL/5294ff1dc694538dfd4444eab136b2fc/Couture_by_Cavalli-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/noQ3Tv9qy9yJUqFn75tgG/f799e63588a41fe09d62819b20615f89/Couture_by_Cavalli-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7w33NjrVjL5Ob71doQdmLe/5bb912af732acc06abe7ac95e6117e85/Couture_by_Cavalli-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/KKOuKrHVVvpRQRZNzGiIs/2d6ca4c10b5a10e3f14dcb0600ed588a/Couture_by_Cavalli-Gallery-10.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3jeRUGIornhAbWyoDZxPEx/818f2e8c2fa83ad25bd64687dbd01a22/Couture_by_Cavalli-Gallery-11-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2lJOgHJXhU7FHmSEadnI9u/7a6e9fc82b13baed16811e9f10d0fbc1/Couture_by_Cavalli-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/axcsIs4mGsRyztzXB6pw4/3257e1740aa33c9744a92e30b44056bc/Couture_by_Cavalli-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1vLNQQngqbHh0kGxneOejt/1a3aad3a17ad188c16fe78041dd39c0c/Couture_by_Cavalli-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2aGi9OcWfY4keCQHU9IMKu/18881505f7528e2fbde95fc7be2d3850/Couture_by_Cavalli-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7JkbPVxwGPe08IUq2U4d5u/b1df7330677982fa5c9fc2518368ef4f/Couture_by_Cavalli-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/54hV2rJZZ72u8GmJsqygME/4d973b300b05300d6b3d2c57f21bbf7d/Couture_by_Cavalli-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2iLdoz9z9aD3Wq0R6ms5yq/ab460132029a7489e782af5add011be6/Couture_by_Cavalli-Gallery-18-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1grgSjG2WC731rQaALTU9N/fa0d138ff5a6a3532837c84adbc64181/Couture_by_Cavalli-Gallery-19.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/4ktEnjPvHFLUK8p3D27FTa/32f635f7474b15c0baa945a8a08dbf63/Couture_by_Cavalli-Homepage_Hero_16x9-1_1.webp",
+  "latitude": 25.188877,
+  "launchDate": "2024-03-05",
+  "location": {
+    "ar": "يقع كوتور بتوقيع كافالي في منطقة حديقة الصفا على أطراف قناة دبي المائية، وعلى بعد دقائق عن منطقة البرج وسيتي ووك ولا مير وشاطئ جميرا الساحر، كما يمكن الوصول عبره إلى جسر التسامح الشهير سيراً على الأقدام.",
+    "en": "Couture by Cavalli is located in Safa Park area on the banks of the Dubai Water Canal, minutes away from the Burj area, City Walk, La Mer, and the charming Jumeirah Beach. It is also accessible via the famous Tolerance Bridge on foot."
+  },
+  "longitude": 55.243229,
+  "mapDescription": {
+    "ar": "بالقرب من كل ما تحتاج إليه متصل بأرجاء دبي",
+    "en": "Close to everything you need, connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Mercato Mall",
+        "ar": "ميركاتو مول"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "التسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Sunset Mall",
+        "ar": "سنست مول"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "التسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "City Walk",
+        "ar": "سيتي ووك"
+      },
+      "distance": {
+        "en": "6 minutes",
+        "ar": "6 دقائق"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "التسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Mall",
+        "ar": "دبي مول"
+      },
+      "distance": {
+        "en": "8 minutes",
+        "ar": "8 دقائق"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "التسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Souk Al Bahar",
+        "ar": "سوق البحار"
+      },
+      "distance": {
+        "en": "8 minutes",
+        "ar": "8 دقائق"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "التسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Oasis Mall",
+        "ar": "الواحة مول"
+      },
+      "distance": {
+        "en": "15 minutes",
+        "ar": "15 دقيقة"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "التسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Mall of the Emirates",
+        "ar": "مول الإمارات"
+      },
+      "distance": {
+        "en": "20 minutes",
+        "ar": "20 دقيقة"
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": "التسوق"
+      }
+    },
+    {
+      "name": {
+        "en": "Medcare Safa Park Hospital",
+        "ar": "مستشفى ميدكير الصفا"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "category": {
+        "en": "Healthcare",
+        "ar": "الرعاية الصحية"
+      },
+      "coordinates": {
+        "lat": 25.183423295593382,
+        "lon": 55.2426195877761
+      }
+    },
+    {
+      "name": {
+        "en": "Emirates Hospital",
+        "ar": "مستشفى الإمارات"
+      },
+      "distance": {
+        "en": "6 minutes",
+        "ar": "6 دقائق"
+      },
+      "category": {
+        "en": "Healthcare",
+        "ar": "الرعاية الصحية"
+      },
+      "coordinates": {
+        "lat": 25.19815224392977,
+        "lon": 55.236512676799364
+      }
+    },
+    {
+      "name": {
+        "en": "Mediclinic Dubai Mall Clinic",
+        "ar": "عيادة ميديكلينيك دبي مول"
+      },
+      "distance": {
+        "en": "10 minutes",
+        "ar": "10 دقائق"
+      },
+      "category": {
+        "en": "Healthcare",
+        "ar": "الرعاية الصحية"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Aster Clinic",
+        "ar": "عيادة أستر"
+      },
+      "distance": {
+        "en": "20 minutes",
+        "ar": "20 دقيقة"
+      },
+      "category": {
+        "en": "Healthcare",
+        "ar": "الرعاية الصحية"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Prime Medical Center",
+        "ar": "مركز برايم الطبي"
+      },
+      "distance": {
+        "en": "25 minutes",
+        "ar": "25 دقيقة"
+      },
+      "category": {
+        "en": "Healthcare",
+        "ar": "الرعاية الصحية"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Habtoor Palace Hotel",
+        "ar": "فندق حبتور بالاس"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "category": {
+        "en": "Hotels",
+        "ar": "الفنادق"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "JW Marriott Marquis Hotel",
+        "ar": "فندق جي دبليو ماريوت ماركيز"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "category": {
+        "en": "Hotels",
+        "ar": "الفنادق"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "The Oberoi",
+        "ar": "ذا أوبروي"
+      },
+      "distance": {
+        "en": "7 minutes",
+        "ar": "7 دقائق"
+      },
+      "category": {
+        "en": "Hotels",
+        "ar": "الفنادق"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Paramount Hotel Midtown",
+        "ar": "فندق باراماونت ميدتاون"
+      },
+      "distance": {
+        "en": "8 minutes",
+        "ar": "8 دقائق"
+      },
+      "category": {
+        "en": "Hotels",
+        "ar": "الفنادق"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Taj Hotel",
+        "ar": "فندق تاج"
+      },
+      "distance": {
+        "en": "8 minutes",
+        "ar": "8 دقائق"
+      },
+      "category": {
+        "en": "Hotels",
+        "ar": "الفنادق"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Roda Beach Resort",
+        "ar": "روضة منتجع الشاطئ"
+      },
+      "distance": {
+        "en": "18 minutes",
+        "ar": "18 دقيقة"
+      },
+      "category": {
+        "en": "Hotels",
+        "ar": "الفنادق"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Al Ittihad School",
+        "ar": "مدرسة الاتحاد"
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": "5 دقائق"
+      },
+      "category": {
+        "en": "Education",
+        "ar": "التعليم"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Safa British School",
+        "ar": "مدرسة الصفا البريطانية"
+      },
+      "distance": {
+        "en": "10 minutes",
+        "ar": "10 دقائق"
+      },
+      "category": {
+        "en": "Education",
+        "ar": "التعليم"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Horizon International School",
+        "ar": "مدرسة هورايزن الدولية"
+      },
+      "distance": {
+        "en": "10 minutes",
+        "ar": "10 دقائق"
+      },
+      "category": {
+        "en": "Education",
+        "ar": "التعليم"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "English College",
+        "ar": "الكلية الإنجليزية"
+      },
+      "distance": {
+        "en": "15 minutes",
+        "ar": "15 دقيقة"
+      },
+      "category": {
+        "en": "Education",
+        "ar": "التعليم"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "JSS Private School",
+        "ar": "مدرسة جيه اس اس الخاصة"
+      },
+      "distance": {
+        "en": "20 minutes",
+        "ar": "20 دقيقة"
+      },
+      "category": {
+        "en": "Education",
+        "ar": "التعليم"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": "مطار دبي الدولي"
+      },
+      "distance": {
+        "en": "16 minutes",
+        "ar": "16 دقيقة"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "المطار"
+      },
+      "coordinates": {
+        "lat": 25.259712898433683,
+        "lon": 55.364493074004955
+      }
+    },
+    {
+      "name": {
+        "en": "Al Maktoum International Airport",
+        "ar": "مطار آل مكتوم الدولي"
+      },
+      "distance": {
+        "en": "35 minutes",
+        "ar": "35 دقيقة"
+      },
+      "category": {
+        "en": "Airport",
+        "ar": "المطار"
+      },
+      "coordinates": {
+        "lat": 25.188877,
+        "lon": 55.243229
+      }
+    },
+    {
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": "نخلة جميرا"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Sea View",
+        "ar": "إطلالة بحرية"
+      },
+      "coordinates": {
+        "lat": 25.11243,
+        "lon": 55.13897
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Harbour",
+        "ar": "ميناء دبي"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Sea View",
+        "ar": "إطلالة بحرية"
+      },
+      "coordinates": {
+        "lat": 25.08067,
+        "lon": 55.13979
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Financial Centre",
+        "ar": "مركز دبي المالي العالمي"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Business",
+        "ar": "أعمال"
+      },
+      "coordinates": {
+        "lat": 25.20884,
+        "lon": 55.27703
+      }
+    },
+    {
+      "name": {
+        "en": "Burj Khalifa",
+        "ar": "برج خليفة"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": "معلم"
+      },
+      "coordinates": {
+        "lat": 25.197381428894705,
+        "lon": 55.274333488977916
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Bowling Center",
+        "ar": "مركز دبي للبولينج"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Entertainment",
+        "ar": "ترفيه"
+      },
+      "coordinates": {
+        "lat": 25.176542254604577,
+        "lon": 55.25556103789614
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai British School - Jumeira",
+        "ar": "المدرسة البريطانية بدبي - جميرا"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Education",
+        "ar": "تعليم"
+      },
+      "coordinates": {
+        "lat": 25.189486944450028,
+        "lon": 55.25004615829126
+      }
+    },
+    {
+      "name": {
+        "en": "Jumeirah Beach",
+        "ar": "شاطئ جميرا"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Beach",
+        "ar": "شاطئ"
+      },
+      "coordinates": {
+        "lat": 25.194206676239993,
+        "lon": 55.23157596493211
+      }
+    },
+    {
+      "name": {
+        "en": "Kite Beach",
+        "ar": "شاطئ كايت"
+      },
+      "distance": {
+        "en": "Undefined",
+        "ar": "غير محدد"
+      },
+      "category": {
+        "en": "Beach",
+        "ar": "شاطئ"
+      },
+      "coordinates": {
+        "lat": 25.16509634203582,
+        "lon": 55.20742524925439
+      }
+    }
+  ],
+  "maxAreaSqft": 7711,
+  "maxAreaSqmt": 716.36,
+  "maxPriceAED": 4162400,
+  "minAreaSqft": 3920,
+  "minAreaSqmt": 364.19,
+  "minPriceAED": 2190400,
+  "paymentPlan": {
+    "ar": "خطة سداد 40/60*",
+    "en": "40/60 Payment Plan*"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/couture-by-cavalli/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/1aZJBuhAUhFwDTAKkezbHh/954969894ccc4185f35e602c24df3f7b/Cavali_Couture_Project_video_16x9_Arabic__1_.mp4",
+  "views": [
+    {
+      "en": "Luxury View",
+      "ar": "إطلالة فاخرة"
+    }
+  ],
+  "summary": {
+    "en": "Couture by Cavalli offers an exceptional collection of luxurious homes in Safa Park area, Dubai, with designs bearing the signature of Roberto Cavalli. Experience opulent living with views of the Dubai Water Canal and Safa Park, featuring 3-5 bedroom apartments and 6-bedroom penthouses, embodying refined Italian details and a new concept of luxury.",
+    "ar": "يقدم كوتور بتوقيع كافالي مجموعة استثنائية من المنازل الفاخرة في منطقة حديقة الصفا بدبي، بتصاميم تحمل توقيع روبرتو كافالي. اختبر العيش الفاخر مع إطلالات على قناة دبي المائية وحديقة الصفا، ويضم شققًا من 3-5 غرف نوم وبنتهاوس من 6 غرف نوم، تجسد التفاصيل الإيطالية الراقية ومفهومًا جديدًا للرفاهية."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Couture by Cavalli: Italian Elegance on Dubai Water Canal",
+      "subtitle": "Exclusive Homes with Roberto Cavalli's Signature Design"
+    },
+    "ar": {
+      "title": "كوتور بتوقيع كافالي: أناقة إيطالية على قناة دبي المائية",
+      "subtitle": "منازل حصرية بتصميم روبرتو كافالي المميز"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Exclusive homes with designs bearing the signature of Roberto Cavalli and refined Italian details.",
+      "ar": "منازل حصرية بتصاميم تحمل توقيع روبرتو كافالي وتفاصيل إيطالية راقية."
+    },
+    {
+      "en": "Prime location with captivating views of the Dubai Water Canal and Safa Park.",
+      "ar": "موقع متميز مع إطلالات آسرة على قناة دبي المائية وحديقة الصفا."
+    },
+    {
+      "en": "Luxurious amenities including a cigar lounge, clubhouse, rooftop pool, and swimming lagoon.",
+      "ar": "وسائل راحة فاخرة بما في ذلك صالة سيجار، كلوب هاوس، مسبح على السطح، وبحيرة سباحة."
+    }
+  ],
+  "insights": {
+    "en": "Couture by Cavalli offers a unique investment opportunity in Dubai's luxury real estate market, combining a world-renowned fashion brand with prime waterfront living. This project is ideal for discerning investors seeking exclusivity, high-end design, and strong capital appreciation potential.",
+    "ar": "يقدم كوتور بتوقيع كافالي فرصة استثمارية فريدة في سوق العقارات الفاخرة في دبي، حيث يجمع بين علامة تجارية عالمية للأزياء والعيش الفاخر على الواجهة المائية. هذا المشروع مثالي للمستثمرين المميزين الذين يبحثون عن التفرد والتصميم الراقي وإمكانات قوية لتقدير رأس المال."
+  },
+  "projectID": "damac-couture-by-cavalli",
+  "projectCategory": "Building"
+}

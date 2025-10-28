@@ -1,0 +1,104 @@
+{
+  "slug": "sobha-estates",
+  "id": "sobha-sobha-estates",
+  "projectName": {
+    "ar": "سوبها إستيتس",
+    "en": "Sobha Estates"
+  },
+  "country": {
+    "ar": "الإمارات",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "مجمع فلل خاص مسور بممرات تصطف على جانبيها الأشجار في مناظر طبيعية غابية فخمة. سوبها إستيتس هو مجمع فلل حصري خاص مسور يقع داخل سوبها هارتلاند II المرموق، مصمم لأولئك الذين يبحثون عن المزيج المثالي بين الفخامة والخصوصية والطبيعة. يتميز هذا المجمع الاستثنائي بمجموعة من الفلل المصممة بدقة والمكونة من 5 و 6 غرف نوم، تمتد كل منها على مساحة تزيد عن 8000 قدم مربع. تم وضع الفلل بعناية لتوفر إطلالات خلابة على المساحات الخضراء الشاسعة، مما يخلق بيئة تتيح لك حقًا تجربة وفرة الطبيعة بكل مجدها، بما في ذلك منظر طبيعي غابي مع ممرات تصطف على جانبيها الأشجار وشوارع مشتركة. بفضل ثلاثة طوابق واسعة، بما في ذلك شرفة على السطح وساحة مدخل فخمة، توفر كل فيلا تجربة معيشية لا مثيل لها.",
+    "en": "A private gated villa community with tree-lined walkways in grand forest landscapes. Sobha Estates is an exclusive, private gated villa community within the prestigious Sobha Hartland II, designed for those who seek the perfect blend of luxury, privacy, and nature. This exceptional community features a collection of meticulously crafted 5 and 6-bedroom villas, each spanning over 8,000 sq. ft. The villas are thoughtfully positioned to offer breathtaking views of expansive greenery, creating an environment that truly allows you to experience nature’s bounty in its full glory, including a forest landscape with tree-lined walkways and shared streets. With three spacious floors, including a rooftop terrace and a grand entrance court, each villa provides an unparalleled living experience."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [],
+  "area": {
+    "ar": "٨,٤١٣.٣٩ - ٨,٤٩٠.٧٩ قدم مربع",
+    "en": "8,413.39 - 8,490.79 SQ.FT."
+  },
+  "bedrooms": [
+    5,
+    6
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/hartland-ii-oppdoc1.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_9.jpg.webp?itok=dwOByWzf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_18.jpg.webp?itok=5_5qkdFu",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_12.jpg.webp?itok=_83j5Vnf",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_18.jpg.webp?itok=Z6pg1AcX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015365.jpg.webp?itok=fTobuQnr",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015366_0.jpg.webp?itok=31czRYth",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015367_0.jpg.webp?itok=cFYcQIG9"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Sobha%20Hartland%20estates.jpg",
+  "latitude": null,
+  "launchDate": null,
+  "location": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 8490.79,
+  "maxAreaSqmt": 788.94,
+  "maxPriceAED": 25780000,
+  "minAreaSqft": 8413.39,
+  "minAreaSqmt": 781.65,
+  "minPriceAED": 25780000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/villas-for-sale-in-dubai/sobha-estates/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [],
+  "projectID": "sobha-sobha-estates",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

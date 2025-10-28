@@ -1,0 +1,307 @@
+{
+  "slug": "Discovery_Gardens",
+  "id": "nakheel-Discovery_Gardens",
+  "projectName": {
+    "ar": "حدائق ديسكفري",
+    "en": "Discovery Gardens"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "تجربة العيش الأخضر في حدائق ديسكفري، مجتمع مستوحى من الحدائق مع استوديوهات وشقق واسعة محاطة بساحات خضراء ذات طابع خاص. مجتمع سكني مترامي الأطراف مستوحى من العيش في الحدائق، تتألف حدائق ديسكفري من ستة تجمعات مجتمعية ذات طابع خاص، وتضم 300 مبنى مع أكثر من 26,000 شقة فسيحة ومجموعة متنوعة من المرافق بما في ذلك جناح حدائق ديسكفري. بما في ذلك حدائق Zen، المتوسطية، المعاصرة، المغولية، أمريكا الوسطى، وحدائق الصبار، يحتفظ كل مجتمع بطابعه المميز، ويلتقط عناصر مختلفة من تنوع الطبيعة الغني. يمتد هذا التطوير من الشقق الفسيحة متعددة الأحجام على مساحة 26 مليون قدم مربع، ويوفر للمقيمين منزلاً جميلاً، يقع في محيط رائع.",
+    "en": "Experience green living at Discovery Gardens, a garden-inspired community with spacious studios and apartments surrounded by lush, themed courtyards. A sprawling residential community inspired by garden living, Discovery Gardens comprises six themed community clusters, featuring 300 buildings with more than 26,000 spacious apartments and a variety of amenities including the Discovery Gardens Pavilion. Including Zen, Mediterranean, Contemporary, Mogul, Mesoamerican and Cactus courtyard gardens, each community retains its own distinctive character, capturing different elements of nature’s rich diversity. Spanning a massive 26 million square foot plot, this development of spacious, multi sized apartments offers residents a beautiful home, set in exquisite surroundings."
+  },
+  "3D_TourLink": "Not available (only driving/walking tours found)",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Mosques"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Petrol Station"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Recycling Stations"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Clothes Donation Boxes"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Community Pavilion"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "430 قدم مربع (تبدأ من)",
+    "en": "26 million square foot plot"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/discovery-gardens-floor-plan.pdf?sfvrsn=90364265_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2008",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens4f1c4a8d-5652-4285-ad14-2d946f207a88.jpg?sfvrsn=3eebfbd6_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens3aaea588-e528-4229-8ac4-862ab5eba971.jpg?sfvrsn=ca170e3a_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens_1.jpg?sfvrsn=99d6ae62_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardens_2.jpg?sfvrsn=4ead78b5_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/discovery-gardensb691dd42-59e3-46af-8e25-7475e3f305f6.jpg?sfvrsn=a044fb0e_1",
+  "latitude": 25.04134964773267,
+  "launchDate": "July 12, 2004",
+  "location": {
+    "ar": "مجتمع سكني مترامي الأطراف يضم ستة تجمعات مجتمعية ذات طابع خاص. ضمن مسافة ستة كيلومترات من حدائق ديسكفري، يمكن للمقيمين الاستمتاع بمجموعة واسعة من المرافق الموجهة للعائلة.",
+    "en": "Discovery Gardens is a sprawling residential community conveniently located near key Dubai landmarks, including the Discovery Gardens Metro Station, Ibn Battuta Mall, Dubai Marina, Palm Jumeirah, Downtown Dubai, and Al Maktoum International Airport (DWC)."
+  },
+  "longitude": 55.14394791405374,
+  "mapDescription": {
+    "ar": "يقع مجتمع حدائق ديسكفري في موقع استراتيجي بالقرب من المعالم الرئيسية في دبي، ويوفر سهولة الوصول إلى وسائل النقل العام والمعالم السياحية الرئيسية.",
+    "en": "The Location"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Transportation",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.04134964773267,
+        "lon": 55.14394791405374
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Discovery Gardens Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.04134964773267,
+        "lon": 55.14394791405374
+      },
+      "distance": {
+        "en": "7 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.04134964773267,
+        "lon": 55.14394791405374
+      },
+      "distance": {
+        "en": "11 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Marina",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.04134964773267,
+        "lon": 55.14394791405374
+      },
+      "distance": {
+        "en": "14 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "City Center",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.04134964773267,
+        "lon": 55.14394791405374
+      },
+      "distance": {
+        "en": "27 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.04134964773267,
+        "lon": 55.14394791405374
+      },
+      "distance": {
+        "en": "30 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Maktoum International Airport (DWC)",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 430,
+  "minAreaSqmt": 39.95,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/discovery-gardens",
+  "projectStatus": {
+    "ar": "مكتمل",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    },
+    {
+      "en": "Studios",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/default-video-library/project-video---discovery-gardens.mp4?sfvrsn=fcb07046_1",
+  "views": [],
+  "projectID": "discovery-gardens",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "slug": "Jebel_Ali_Village",
+  "id": "nakheel-Jebel_Ali_Village",
+  "projectName": {
+    "ar": "قرية جبل علي",
+    "en": "Jebel Ali Village"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استمتع بالعيش الفاخر وسط المناظر الطبيعية الخضراء المورقة في قرية جبل علي من نخيل، منازل تاون هاوس جديدة للبيع مع مجموعة من المرافق. يجمع هذا المجتمع السكني، الواقع في موقع ذي إرث غني، بسلاسة بين قيم التراث الساحر ومنظور جديد، حيث يوفر منازل واسعة، وتصاميم مفتوحة، ومناظر طبيعية خضراء، ومجموعة لا حصر لها من وسائل الراحة الاستثنائية.",
+    "en": "Experience luxury living amidst lush green landscapes at Jebel Ali Village by Nakheel, brand new townhouses for sale with a host of amenities. Set in a location with a rich legacy, the brand new Jebel Ali Village seamlessly combines the values of a charming heritage with a new perspective. This residential community is set within rolling hills and lush green spaces, and offers a luxurious lifestyle with spacious homes, open plan layouts, green landscapes and a myriad of exceptional amenities."
+  },
+  "3D_TourLink": null,
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Children's Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Green Trails"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Off-Roading Mountain Bike Trails"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Duck Pond"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks and Green Spaces"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jebel Ali Recreation Club"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "Jebel Ali Village, Dubai"
+  },
+  "bedrooms": [
+    3,
+    4
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "https://www.nakheel.com/docs/nakheelcorporatelibraries/default-document-library/welcome-to-jebel-ali-village.pdf?sfvrsn=52ca06fe_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Q4 2025",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-1.jpg?sfvrsn=47fa7567_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-2.jpg?sfvrsn=416f477_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/gallery-3.jpg?sfvrsn=1d7a0a7b_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/villa-gallery-2---jebel-ali-village.jpg?sfvrsn=49161a27_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/town-house-gallery-4---jebel-ali-village.jpg?sfvrsn=ae6fff9_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/townhouse-gallery---jebel-ali-village.jpg?sfvrsn=648f2dc0_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/townhouse-gallery---jebel-ali-village550725a2-39c6-42dd-aedf-cdce927bb126.jpg?sfvrsn=16b30009_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/construction-updates/jebel-ali-village_banner.jpg?sfvrsn=160f8d5a_1",
+  "latitude": 25.0364079,
+  "launchDate": "September 1, 2021",
+  "location": {
+    "ar": "تقع قرية جبل علي في موقع استراتيجي في دبي، مما يوفر سهولة الوصول إلى مناطق الجذب الرئيسية في المدينة والخدمات الأساسية، مما يضمن أسلوب حياة مريح ومتصل جيدًا.",
+    "en": "Jebel Ali Village"
+  },
+  "longitude": 55.1321073,
+  "mapDescription": {
+    "ar": "الموقع",
+    "en": "Jebel Ali Village"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Religious Place",
+        "ar": ""
+      },
+      "distance": {
+        "en": "1 minute",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nearest Mosque",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Religious Place",
+        "ar": ""
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nearest Churches",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Transportation",
+        "ar": ""
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Discovery Gardens Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      },
+      "distance": {
+        "en": "9 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "16 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "28 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 7372,
+  "maxAreaSqmt": 684.88,
+  "maxPriceAED": 14500000,
+  "minAreaSqft": 2882,
+  "minAreaSqmt": 267.74,
+  "minPriceAED": 2350000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "10% Down Payment, 50% During Construction, 40% On Handover (also referred to as 60/40 payment plan), with flexible 4-year installment options."
+  },
+  "projectPageLink": "https://www.nakheel.com/en/construction-progress/jebel-ali-village",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": ""
+    },
+    {
+      "en": "Townhouse",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "An Introduction to Jebel Ali Village | Nakheel (YouTube title, direct URL not found in snippets)",
+  "views": "Lush green landscapes, community pools, parks, gardens, tranquil setting, hillside community, possibly water features/ponds.",
+  "projectID": "jebel-ali-village",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

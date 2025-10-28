@@ -1,0 +1,93 @@
+{
+  "projectName": {
+    "en": "Address Residences Zabeel",
+    "ar": ""
+  },
+  "projectID": "address-residence-zabeel",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "en": "Signature residences with panoramic views",
+    "ar": ""
+  },
+  "3D_TourLink": null,
+  "amenities": [],
+  "area": {
+    "ar": "دبي",
+    "en": ""
+  },
+  "bedrooms": [],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": null,
+  "contact": {
+    "phone": null,
+    "whatsapp": null
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait-320x415.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2024/01/Community-Featured-Image-portrait-320x415.jpg",
+  "latitude": 0,
+  "launchDate": null,
+  "location": {
+    "ar": "دبي",
+    "en": ""
+  },
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://properties.emaar.com/en/our-communities/address-residence-zabeel/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [],
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

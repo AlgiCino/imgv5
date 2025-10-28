@@ -1,0 +1,246 @@
+{
+  "slug": "Veneto",
+  "id": "nakheel-Veneto",
+  "projectName": {
+    "ar": "",
+    "en": "Veneto"
+  },
+  "country": {
+    "ar": "",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "",
+    "en": "Discover Veneto at Dubai Waterfront, offering spacious 3-5 bedroom villas and townhouses with exceptional design, privacy, and a truly exclusive lifestyle. As the ultra chic enclave within Dubai Waterfront, Veneto is a private escape from the hustle and bustle of Dubai, offering a distinctive quality of life that is unequalled within the city. Uncrowded and expansive, the limited number of contemporary villas and low rise townhouses make Veneto a true status address."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Retail Centres"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "Dubai Waterfront"
+  },
+  "bedrooms": [
+    3,
+    4
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "/docs/nakheelcorporatelibraries/nakheel-project-document/veneto.pdf?sfvrsn=586e8888_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/veneto46857bb0-e4c5-4497-bc5e-142121a72f88.jpg?sfvrsn=2ded3bef_1",
+    "/images/nakheelcorporatelibraries/developments/veneto90875de3-c238-46a6-bd11-f86cfbb00ef2.jpg?sfvrsn=a8abe8f4_1",
+    "/images/nakheelcorporatelibraries/developments/veneto22689f18-eabe-4c24-a361-e60ef9af3fd2.jpg?sfvrsn=786862fa_1",
+    "/images/nakheelcorporatelibraries/developments/veneto4b5c177e-8f60-436b-afed-0f8978396fdc.jpg?sfvrsn=7818470d_1",
+    "/images/nakheelcorporatelibraries/developments/veneto355dddf7-8991-430a-b9da-b2accc518e04.jpg?sfvrsn=d64def0c_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/veneto46857bb0-e4c5-4497-bc5e-142121a72f88.jpg?sfvrsn=2ded3bef_1",
+  "latitude": 24.955362104654377,
+  "launchDate": "null",
+  "location": {
+    "ar": "",
+    "en": "Dubai Waterfront, Sheikh Zayed Road"
+  },
+  "longitude": 54.996796841533765,
+  "mapDescription": {
+    "ar": "",
+    "en": "Veneto is located on Sheikh Zayed Road at Dubai Waterfront, offering a distinctive quality of life with easy access to various points of interest including beaches, theme parks, metro stations, shopping malls, and the airport."
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Beach",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "13 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Jebel Ali Beach",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Theme Park",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "19 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Parks and Resorts",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Metro Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "20 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "UAE Exchange Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "21 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "26 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "28 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Maktoum International Airport (DWC)",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 7330,
+  "maxAreaSqmt": 680.97659,
+  "maxPriceAED": 175000,
+  "minAreaSqft": 7330,
+  "minAreaSqmt": 680.97659,
+  "minPriceAED": 175000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/veneto",
+  "projectStatus": {
+    "ar": "",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    },
+    {
+      "en": "Townhouses",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/projects/veneto.mp4?sfvrsn=b4e173a_3",
+  "views": [],
+  "projectID": "veneto",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

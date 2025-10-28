@@ -1,0 +1,326 @@
+{
+  "slug": "Warsan_Village",
+  "id": "nakheel-Warsan_Village",
+  "projectName": {
+    "ar": "قرية ورسان",
+    "en": "Warsan Village"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "قرية ورسان هي مجمع سكني مسوّر وموجه للعائلات في دبي، يتميز بمنازل تاون هاوس حديثة بثلاث غرف نوم ومجموعة متنوعة من المرافق المحيطة، بما في ذلك نادي ورسان وسوق ورسان. كل منزل رائع يضم مناطق معيشة واسعة مع شرفتين مفتوحتين، وفناء خلفي خاص، وغرفة خادمة، وموقف سيارات خاص لسيارتين. وفي الوقت نفسه، يوفر سوق ورسان تجربة معيشية فاخرة مع مشروع تجاري وسكني مزدهر متعدد الاستخدامات موزع على ثمانية مبانٍ. يضم كل منزل طابقين من المحلات التجارية، مع منازل تاون هاوس بثلاث غرف نوم مبنية فوقها. منطقة لعب مخصصة للأطفال تقع في جسر الربط بين كل مبنيين، جنبًا إلى جنب مع تخطيط فعال للبنية التحتية للمجتمع، مما يجعل هذا البيئة مواتية للاسترخاء والوئام الاجتماعي.",
+    "en": "Warsan Village is a gated, family-oriented community in Dubai featuring modern three-bedroom townhouses and a variety of neighbourhood facilities, including Warsan Clubhouse and Souk Warsan. Each stunning home includes spacious living areas with two open terraces, a private backyard, a maid's room and private parking for two cars. Meanwhile, Souk Warsan provides a luxurious living experience with a flourishing retail and apartment mixed-use project spread across eight buildings. Each home comprises two floors of retail, with three-bedroom townhouses built above. A dedicated children's play area located in the link bridge of every two buildings, together with efficient community infrastructure planning, make this an environment conducive to relaxation and social harmony."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Mosques"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Souk Warsan"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Warsan Clubhouse"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Steam & Sauna"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Café"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "المدينة العالمية",
+    "en": "null"
+  },
+  "bedrooms": [
+    3
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "/docs/nakheelcorporatelibraries/nakheel-project-document/warsan-village.pdf?sfvrsn=2f9c0149_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/warsan-village86875ae0-f31b-4cb2-a732-d690e36e4622.jpg?sfvrsn=7bcd648c_1",
+    "/images/nakheelcorporatelibraries/developments/warsan-villagecb912e0c-b02d-4654-b15d-358a4a9e5c63.jpg?sfvrsn=b93e02f_1",
+    "/images/nakheelcorporatelibraries/developments/projects/warsan-village-1240x4802c05ff8c703a47849635f7750af5edb6.jpg?sfvrsn=44a9ea46_3",
+    "/images/nakheelcorporatelibraries/developments/projects/warsan-village-1240x4802aa8196a51d56434781bf07bcbbe45f1c.jpg?sfvrsn=c9bd81b6_5",
+    "/images/nakheelcorporatelibraries/developments/projects/warsan-village-1240x480390bf973486264c8eae2a3ee4d900df3b.jpg?sfvrsn=f31645a6_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/warsan-village86875ae0-f31b-4cb2-a732-d690e36e4622.jpg?sfvrsn=7bcd648c_1",
+  "latitude": 25.1557044,
+  "launchDate": "null",
+  "location": {
+    "ar": "قرية ورسان هي مجمع سكني موجه للعائلات في دبي، يتميز بمنازل تاون هاوس حديثة بثلاث غرف نوم، مع سهولة الوصول إلى شارع الشيخ محمد بن زايد. تعزز جودة الحياة في قرية ورسان مجموعة متنوعة من وجهات التجزئة والترفيه الحالية والقادمة القريبة. يقع بجوار قرية ورسان جناح المدينة العالمية، وهو وجهة للتسوق وتناول الطعام يضم هايبر ماركت ومطاعم ومقاهي ومحلات بيع بالتجزئة، بالإضافة إلى متاجر الخدمات والمرافق.",
+    "en": "The quality of life at Warsan Village is further enhanced by a variety of existing and upcoming retail and entertainment destinations nearby. Adjacent to Warsan Village is International City Pavilion, a shopping and dining destination that features a hypermarket, restaurants, cafés and retail stores, as well as convenience stores and services. Warsan Village is mixed-use development with a range of community services and amenities."
+  },
+  "longitude": 55.4041309,
+  "mapDescription": {
+    "ar": "قرية ورسان",
+    "en": "<a href=\"https://maps.app.goo.gl/7tEn3N7ozbUuYTpCA\" target=\"_blank\" data-sf-ec-immutable=\"\">Warsan Village</a>"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Destination",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": -1,
+        "lon": -1
+      },
+      "distance": {
+        "en": "7 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "International City",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": -1,
+        "lon": -1
+      },
+      "distance": {
+        "en": "10 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dragon Mart",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Park",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": -1,
+        "lon": -1
+      },
+      "distance": {
+        "en": "13 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Safari Park",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": -1,
+        "lon": -1
+      },
+      "distance": {
+        "en": "18 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Metro Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": -1,
+        "lon": -1
+      },
+      "distance": {
+        "en": "19 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Burj Khalifa/ Dubai Mall Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Downtown",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": -1,
+        "lon": -1
+      },
+      "distance": {
+        "en": "22 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": -1,
+  "maxAreaSqmt": -1,
+  "maxPriceAED": -1,
+  "minAreaSqft": -1,
+  "minAreaSqmt": -1,
+  "minPriceAED": -1,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/warsanvillage",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Townhouse",
+      "ar": ""
+    },
+    {
+      "en": "Retail",
+      "ar": ""
+    },
+    {
+      "en": "Apartment",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/projects/warsan-village.mp4?sfvrsn=2858b4ed_1",
+  "views": [
+    {
+      "en": "Private backyards for townhouses",
+      "ar": ""
+    },
+    {
+      "en": "Open terraces for townhouses",
+      "ar": ""
+    },
+    {
+      "en": "Lush green landscaped areas within the community",
+      "ar": ""
+    },
+    {
+      "en": "Views of Souk Warsan and surrounding retail areas",
+      "ar": ""
+    }
+  ],
+  "projectID": "warsan-village",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

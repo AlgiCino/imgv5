@@ -1,0 +1,152 @@
+{
+  "projectName": {
+    "ar": "فيدا رزيدنسز دبي مارينا",
+    "en": "Vida Residences Dubai Marina"
+  },
+  "projectID": "vida-residences-dubai-marina",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "تعد دبي مارينا معلماً نابضاً بالحياة يجسد جاذبية دبي العالمية. كواحدة من أكبر المجتمعات المائية وأكثرها شهرة في المنطقة، تقدم أسلوب حياة مستوحى من الريفيرا، يمزج بين التصميم المعاصر ولمسة من الأناقة. مع رحلات اليخوت والرياضات المائية والمقاهي في الهواء الطلق، يمكن للمقيمين والزوار الانغماس في أجواء المرسى المفعمة بالحيوية وتجربة نمط حياة لا مثيل له. يضم المجتمع مساكن فاخرة، من الشقق على الواجهة البحرية إلى البنتهاوس مع إطلالات شاملة على المرسى وأفق المدينة، وهي مثالية للعائلات والمهنيين والمستثمرين الباحثين عن حياة حضرية راقية. من خلال عرض الهندسة المعمارية الحديثة والمساكن الواسعة، أصبحت دبي مارينا مثالاً للمعيشة الراقية. تضمن بنيتها التحتية المصممة جيدًا الاتصال، وقناة مائية بطول 3.5 كيلومتر مع وصول مزدوج إلى البحر، مما يجعلها وجهة رئيسية للإبحار. تجمع رؤية إعمار لدبي مارينا بين الفخامة والراحة، حيث تقدم مساكن مميزة تجسد حيوية الحياة على الواجهة البحرية وطاقة المدينة. إنها لا توفر مجرد منزل، بل طريقة حياة راقية.",
+    "en": "Dubai Marina is a vibrant landmark that embodies Dubai's cosmopolitan allure. As one of the region’s largest and most iconic waterfront communities, it introduces a Riviera-inspired lifestyle, blending contemporary design with a touch of elegance. With yacht cruises, water sports, and alfresco cafes, residents and visitors can immerse themselves in marina’s lively atmosphere and unparalleled lifestyle experience. The community features luxury residences, from waterfront apartments to penthouses with sweeping marina and skyline views, ideal for families, professionals, and investors seeking refined urban living. Showcasing modern architecture and expansive residences, Dubai Marina has become the epitome of upscale living. Its well-designed infrastructure ensures connectivity, and a 3.5-kilometer water canal with dual sea access, makes it a top sailing destination. Emaar’s vision for Dubai Marina combines luxury with convenience, offering iconic residences that capture the vibrancy of waterfront living and city energy. It provides not just a home, but an elevated way of life."
+  },
+  "3D_TourLink": null,
+  "amenities": [],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [
+    2
+  ],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": null,
+  "contact": {
+    "phone": null,
+    "whatsapp": "https://wa.link/u9ik8p"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_HERO-440x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/RIVIERA-440x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_LIVING_ROOM-440x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_VIEW-440x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_RIVIERA-440x385.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/VIDA_MARINA_HERO-706x385.jpg",
+  "latitude": 25.0872,
+  "launchDate": null,
+  "location": {
+    "ar": "دبي مارينا",
+    "en": "Dubai Marina"
+  },
+  "longitude": 55.1384,
+  "mapDescription": {
+    "ar": "يتم تعزيز الموقع المتميز للمجتمع من خلال شبكة متكاملة من الطرق ووسائل النقل، مما يضمن اتصالاً سلسًا يبقي السكان والزوار على اتصال وثيق بالطاقة النابضة بالحياة في المدينة.",
+    "en": "The community’s prime location is enhanced by an integrated network of roads and transportation, ensuring seamless connectivity that keeps residents and visitors closely connected to the vibrant energy of the city."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Jumeirah Lakes Towers",
+        "ar": "أبراج بحيرات جميرا"
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Emirates Golf Club",
+        "ar": "نادي الإمارات للجولف"
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Recreation",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": "وسط مدينة دبي"
+      },
+      "distance": {
+        "en": "20 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "City Center",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": "مطار دبي الدولي"
+      },
+      "distance": {
+        "en": "25 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Al Maktoum International Airport",
+        "ar": "مطار آل مكتوم الدولي"
+      },
+      "distance": {
+        "en": "30 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 1591,
+  "maxAreaSqmt": 147.81,
+  "maxPriceAED": 7206888,
+  "minAreaSqft": 1577,
+  "minAreaSqmt": 146.51,
+  "minPriceAED": 7142888,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://properties.emaar.com/en/properties/vida-residences-dubai-marina/",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [],
+  "projectCategory": "Building"
+}

@@ -1,0 +1,217 @@
+{
+  "slug": "sobha-solis",
+  "id": "sobha-sobha-solis",
+  "projectName": {
+    "ar": "صبحة سوليس",
+    "en": "Sobha Solis"
+  },
+  "country": {
+    "ar": "الإمارات",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اكتشف \"شوبا سوليس\"، أربعة أبراج سكنية تقدم شققًا من غرفة نوم واحدة إلى ثلاث غرف نوم للبيع في موتور سيتي، مع وسائل راحة عصرية تناسب أسلوب حياتك. استكشف المزيد! مرحبًا بك في واحة حضرية يلتقي فيها الفخامة بالمغامرة. يقع هذا الملاذ المذهل في موتور سيتي، ويقدم مجموعة حصرية من المساكن المكونة من غرفة نوم واحدة إلى ثلاث غرف نوم، مرتبة بأناقة عبر أربعة أبراج متميزة، وجميعها متصلة بمنصة مشتركة مخصصة للسكان. تم تصميم كل شقة بعناية فائقة بتصاميم واسعة ونوافذ كبيرة وشرفات خاصة، مما يغمر منزلك بالضوء الطبيعي ويوفر إطلالات خلابة. استمتع بالمشهد البصري للحدائق المفعمة بالحيوية والخلفية المثيرة لحلبة السباق، كل ذلك من راحة منزلك الهادئ.",
+    "en": "Discover Sobha Solis, four residential towers offering 1 to 3 bedroom apartments for sale in Motor City, with modern amenities to suit your lifestyle. Explore more! Welcome to an urban oasis where luxury meets adventure. Located in Motor City, this stunning sanctuary presents an exclusive collection of 1 to 3-bedroom residences, elegantly arranged across four distinct towers, all connected by a shared podium reserved for residents. Each apartment is thoughtfully designed with expansive layouts, large windows, and private balconies, flooding your home with natural light and offering breathtaking views. Enjoy the visual feast of vibrant gardens and the exhilarating backdrop of the racetrack, all from the comfort of your serene home."
+  },
+  "3D_TourLink": "https://solis-dev.sobha.cloud/3d/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "منصة مشاهدة مضمار السباق الداخلي",
+        "en": "Indoor Racetrack Viewing Deck"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حوض سباحة طويل",
+        "en": "Lap Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "ردهة الأطعمة والمشروبات",
+        "en": "F&B Lounge"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "قاعة المحكمة",
+        "en": "Seating Court"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "نافورة اللعب التفاعلية",
+        "en": "Interactive Play Fountain"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "سينما في الهواء الطلق",
+        "en": "Outdoor Cinema"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة السيارات",
+    "en": "Motor City"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-09/Sobha%20Solis%20Brochure_Final.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "+97180076242"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015376.jpg.webp?itok=cmK6KIjT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015375.jpg.webp?itok=gBh_-IbR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015380.jpg.webp?itok=xPa1vrXj",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-01/Desk_1.jpg.webp?itok=riXetotK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015382.jpg.webp?itok=5OK4dBsp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015369.jpg.webp?itok=gotVWpzS"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/web_2.jpg.webp?itok=9bIxK-a1",
+  "latitude": null,
+  "launchDate": null,
+  "location": {
+    "ar": "مدينة السيارات، دبي",
+    "en": "Motor City, Dubai"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "برج العرب",
+        "en": "BURJ AL ARAB"
+      },
+      "distance": {
+        "ar": "٢٠ دقيقة",
+        "en": "20 MINS"
+      },
+      "category": {
+        "ar": "معلم بارز",
+        "en": "Landmark"
+      }
+    },
+    {
+      "name": {
+        "ar": "نخلة جميرا",
+        "en": "PALM JUMEIRAH"
+      },
+      "distance": {
+        "ar": "٣٠ دقيقة",
+        "en": "30 MINS"
+      },
+      "category": {
+        "ar": "معلم بارز",
+        "en": "Landmark"
+      }
+    },
+    {
+      "name": {
+        "ar": "دبي مول",
+        "en": "THE DUBAI MALL"
+      },
+      "distance": {
+        "ar": "٣٠ دقيقة",
+        "en": "30 MINS"
+      },
+      "category": {
+        "ar": "معلم بارز",
+        "en": "Landmark"
+      }
+    }
+  ],
+  "maxAreaSqft": 1888.85,
+  "maxAreaSqmt": 175.48,
+  "maxPriceAED": 4040000,
+  "minAreaSqft": 535.83,
+  "minAreaSqmt": 49.78,
+  "minPriceAED": 1050000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/sobha-solis/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [
+    {
+      "en": "Vibrant Gardens",
+      "ar": "حدائق نابضة بالحياة"
+    },
+    {
+      "en": "Racetrack",
+      "ar": "مضمار سباق"
+    }
+  ],
+  "projectID": "sobha-sobha-solis",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

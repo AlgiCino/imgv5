@@ -1,0 +1,458 @@
+{
+  "slug": "altitude-de-grisogono",
+  "id": "damac-altitude-de-grisogono",
+  "projectName": {
+    "ar": "ألتيتيود دي جريسوغونو",
+    "en": "Altitude de GRISOGONO"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "أهلاً بك في عالم ألتيتيود دي جريسوغونو، تحفة معمارية تجمع بين فخامة دار المجوهرات السويسرية الراقية وبراعة التصميم الحديث، لترتفع بشموخ في أفق الخليج التجاري بدبي.\n\nاستُوحِيَ تصميم هذا البرج السكني من الجمال الساحر لحجر الأوبال، حيث تنعكس ألوانه وتوهجه في كل زاوية من زوايا المشروع، مما يخلق تجربة سكنية فريدة من نوعها. تقدم شققنا الفاخرة، المصممة بعناية فائقة، مساحات معيشة أنيقة وتصاميم داخلية تعكس أرقى معايير الفخامة والرقي.\n\nيتمتع المشروع بموقعه الاستراتيجي الذي يوفر إطلالات بانورامية لا مثيل لها على قناة دبي المائية وأبرز معالم المدينة. انغمس في أسلوب حياة استثنائي مع مجموعة متكاملة من وسائل الراحة عالمية المستوى التي تشمل مسابح خاصة، ومراكز لياقة بدنية متطورة، ومناطق استرخاء فاخرة، مما يضمن تلبية جميع احتياجاتك. ألتيتيود دي جريسوغونو ليس مجرد منزل، بل هو استثمار في نمط حياة يتجاوز كل التوقعات.",
+    "en": "Welcome to the world of Altitude de GRISOGONO, a masterpiece where the elegance of the prestigious Swiss jewelry house meets modern architectural brilliance, soaring majestically over Dubai's Business Bay.\n\nInspired by the captivating beauty of the opal stone, its enchanting play-of-color is reflected in every facet of the tower, creating a one-of-a-kind living experience. Our meticulously designed luxury apartments offer elegant living spaces and sophisticated interiors that embody the highest standards of luxury and refinement.\n\nEnjoy a prime location offering unparalleled panoramic views of the Dubai Water Canal and the city's iconic skyline. Immerse yourself in an exceptional lifestyle with a comprehensive suite of world-class amenities, including private pools, state-of-the-art fitness centers, and exclusive relaxation areas, ensuring your every need is met. Altitude de GRISOGONO is more than a home; it's an investment in a lifestyle that transcends all expectations."
+  },
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/676d20e249b9cc1bdec97de8/67ebab1fcfba4cb32e13422a",
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "الانتعاش في انتظارك وسط مسبحنا الفاخر، حيث المياه الصافية ترحب بك والإطلالات الآسرة على مد ناظريك. هنا واحة صممت لاسترخائك وراحتك.",
+        "en": "Refreshment awaits you in our luxurious pool, where clear waters welcome you and captivating views stretch before your eyes. Here is an oasis designed for your relaxation and comfort."
+      }
+    },
+    {
+      "name": {
+        "ar": "الممشى",
+        "en": "Promenade"
+      },
+      "description": {
+        "ar": "استمتع بجولة ساحرة على الواجهة البحرية، حيث تلتقي أرقى خيارات المطاعم بتجربة تسوق استثنائية عبر مجموعة مختارة بعناية من العلامات التجارية المميزة، لتعيش لحظات لا تُنسىمليئةبالحيوية",
+        "en": "Enjoy a charming stroll along the waterfront, where the finest dining options meet an exceptional shopping experience through a carefully selected collection of distinctive brands, to live unforgettable moments full of vitality."
+      }
+    },
+    {
+      "name": {
+        "ar": "أسرّة للتشمُّس",
+        "en": "Sun Loungers"
+      },
+      "description": {
+        "ar": "استرخِ على أسرّة تجمع بين الراحة والابتكار، مثالية للاستمتاع بأشعة الشمس وتجديد طاقتك بعد السباحة المنعشة.",
+        "en": "Relax on beds that combine comfort and innovation, perfect for enjoying the sun and recharging after a refreshing swim."
+      }
+    },
+    {
+      "name": {
+        "ar": "سبا",
+        "en": "Spa"
+      },
+      "description": {
+        "ar": "دلّل نفسك بتجربة استرخاء متكاملة في السبا، حيثُ العلاجات التي تجدّد طاقتك والأجواء الهادئة التي تمنحك الراحة الجسدية والنفسية المطلقة.",
+        "en": "Indulge yourself in a complete relaxation experience at the spa, where treatments rejuvenate your energy and tranquil atmospheres provide ultimate physical and mental comfort."
+      }
+    },
+    {
+      "name": {
+        "ar": "كبسولات استرخاء",
+        "en": "Relaxation Pods"
+      },
+      "description": {
+        "ar": "استرخِ بجانب حمام السباحة في كبسولات استرخاء مُجهّزة ومُخصصة لتأمُّل النجوم كل ليلة.",
+        "en": "Relax by the pool in equipped relaxation pods, specially designed for stargazing every night."
+      }
+    }
+  ],
+  "area": {
+    "ar": "الخليج التجاري",
+    "en": "Business Bay"
+  },
+  "bedrooms": [
+    2,
+    3
+  ],
+  "brand": "de GRISOGONO",
+  "brochurePdfLink": "https://downloads.ctfassets.net/zoq5l15g49wj/7Ls8Ko4cUCCa2aDBBnM1Jk/78d455daf5889c939eec437fd3a0f342/Altitude_BROCHURE-AR_V2.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2028-03-31",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3k7IRgPNmfANYHieS231if/f791876dd8a92c40f3f9631141e78881/Altitude_de_GRISOGONO-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/42Jyr1RiAJLqcKLbo6SRJX/8ba2c2f32f442cad54629e8a8070910f/Altitude_de_GRISOGONO-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4Xf0uM0noeJkTELKBFBRgy/7d70e5063c7eb31c563d8bfc20cd64ca/Altitude_de_GRISOGONO-Gallery-03-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/11DszuFQKEjjlUpbccdUuJ/d62007004c226d72d3e17f8443389dd9/Altitude_de_GRISOGONO-Gallery-04.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2U3sTKOUfVo6aadi4FtzlY/f8369ab4023400b942dd5d87732a7370/Altitude_de_GRISOGONO-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2xpflOXO9i0AfEUbQXTzb/b7d2077ed29ec834326ade81c535d06a/Altitude_de_GRISOGONO-Gallery-06-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7418bfy6A8PXRVaMJCbWAN/6959f441d8a4d839ecb52cf47a853476/Altitude_de_GRISOGONO-Gallery-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7k0kZMkvP0xUHMMW7u5MZ4/feeadfc6544bcf30b068e895fbad24e8/Altitude_de_GRISOGONO-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/GCdDDfaDMWBM0qpaLjVAs/bc861e30fc75b7f0bc9a14af6bc54b34/Altitude_de_GRISOGONO-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5VV8eusfAC7SE0OTyiePf3/0b89bb126097b31353a275180e275511/Altitude_de_GRISOGONO-Gallery-10.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5hsXUFBTqsf6So9ZtviWn8/d6956467e5fc262625c38e5b5f4d4cd3/Altitude_de_GRISOGONO-Gallery-11-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/uNaqNPGHTIzmzT4YuNvnu/4da1979f0968b28250299333a712fcf1/Altitude_de_GRISOGONO-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/59TgwcQc2j0wGxXpXbdNhD/3c28088bad8ab13beb4d63c7707845b1/Altitude_de_GRISOGONO-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6ElUhX8qcQJiVvUqJPA66H/4cd09e2a521fd00e802d7b5bc9f0b871/Altitude_de_GRISOGONO-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5YDN5cmgi5KxSHBiag35nL/f53a79511c223df3e1834a5504407ca2/Altitude_de_GRISOGONO-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/25nAV8uamS8p8JHkVZvNmZ/8683d04bc6a6e1bc89d937089580075c/Altitude_de_GRISOGONO-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/61YuJkPhwjM7XH8OxziwIP/eb2ff7c1b32452ad2aaf96f3476b7cf8/Altitude_de_GRISOGONO-Gallery-17-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4BqodmlMmmcIBtcCLym5db/7e9327142632d9b2705300184e87aa6a/Altitude_de_GRISOGONO-Gallery-18.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1hbOhQJTIy0XcgmumTKA1y/1082f06e1eb592447ca5d595605e5c51/Altitude_de_GRISOGONO-Gallery-19.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/uKc2Wg8DNzA8woG22QzYq/05bf80cd920a521b5dc84e3e160f3ac3/Altitude_de_GRISOGONO-Gallery-00.jpg",
+  "launchDate": "2024-01-23",
+  "location": {
+    "ar": "الخليج التجاري",
+    "en": "Business Bay"
+  },
+  "longitude": 55.281266,
+  "mapDescription": {
+    "ar": "القرب من كل ما تحتاج إليه متصل بأرجاء دبي",
+    "en": "Close to everything you need, connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "ألتيتيود دي جريسوغونو",
+        "en": "Altitude de GRISOGONO"
+      },
+      "distance": {
+        "ar": "0 دقائق",
+        "en": "0 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.182357,
+        "lon": 55.281266
+      }
+    },
+    {
+      "name": {
+        "ar": "برج خليفة",
+        "en": "Burj Khalifa"
+      },
+      "distance": {
+        "ar": "5 دقائق",
+        "en": "5 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.197381428894705,
+        "lon": 55.274333488977916
+      }
+    },
+    {
+      "name": {
+        "ar": "سيتي ووك",
+        "en": "City Walk"
+      },
+      "distance": {
+        "ar": "5 دقائق",
+        "en": "5 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.208426496848617,
+        "lon": 55.2624605585018
+      }
+    },
+    {
+      "name": {
+        "ar": "حديقة الصفا",
+        "en": "Safa Park"
+      },
+      "distance": {
+        "ar": "10 دقائق",
+        "en": "10 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.185425393795864,
+        "lon": 55.24686535092018
+      }
+    },
+    {
+      "name": {
+        "ar": "مستشفى الإمارات",
+        "en": "Emirates Hospital"
+      },
+      "distance": {
+        "ar": "5 دقائق",
+        "en": "5 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.19815224392977,
+        "lon": 55.236512676799364
+      }
+    },
+    {
+      "name": {
+        "ar": "واحة مول",
+        "en": "Oasis Mall"
+      },
+      "distance": {
+        "ar": "10 دقائق",
+        "en": "10 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.17465379992265,
+        "lon": 55.240499514949846
+      }
+    },
+    {
+      "name": {
+        "ar": "مدرسة هارتلاند الدولية دبي",
+        "en": "Hartland International School Dubai"
+      },
+      "distance": {
+        "ar": "15 دقيقة",
+        "en": "15 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.17878368195943,
+        "lon": 55.303600860066254
+      }
+    },
+    {
+      "name": {
+        "ar": "شاطئ كايت",
+        "en": "Kite Beach"
+      },
+      "distance": {
+        "ar": "15 دقيقة",
+        "en": "15 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.16509634203582,
+        "lon": 55.20742524925439
+      }
+    },
+    {
+      "name": {
+        "ar": "إطار دبي",
+        "en": "Dubai Frame"
+      },
+      "distance": {
+        "ar": "15 دقيقة",
+        "en": "15 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.235500965353026,
+        "lon": 55.30035156037258
+      }
+    },
+    {
+      "name": {
+        "ar": "قصر زعبيل",
+        "en": "Zabeel Palace"
+      },
+      "distance": {
+        "ar": "10 دقائق",
+        "en": "10 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.212902087446867,
+        "lon": 55.302570593310925
+      }
+    },
+    {
+      "name": {
+        "ar": "مطار دبي الدولي",
+        "en": "Dubai International Airport"
+      },
+      "distance": {
+        "ar": "20 دقائق",
+        "en": "20 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.25669,
+        "lon": 55.36431
+      }
+    },
+    {
+      "name": {
+        "ar": "دبي مارينا",
+        "en": "Dubai Marina"
+      },
+      "distance": {
+        "ar": "20 دقائق",
+        "en": "20 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.08213797964455,
+        "lon": 55.14024298659429
+      }
+    },
+    {
+      "name": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      },
+      "distance": {
+        "ar": "20 دقائق",
+        "en": "20 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.11243,
+        "lon": 55.13897
+      }
+    },
+    {
+      "name": {
+        "ar": "مدرسة جبل علي",
+        "en": "Jebel Ali School"
+      },
+      "distance": {
+        "ar": "25 دقائق",
+        "en": "25 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.00976,
+        "lon": 55.25511
+      }
+    },
+    {
+      "name": {
+        "ar": "نادي دبي للبولو والفروسية",
+        "en": "Dubai Polo & Equestrian Club"
+      },
+      "distance": {
+        "ar": "25 دقائق",
+        "en": "25 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 24.82135,
+        "lon": 55.24535
+      }
+    },
+    {
+      "name": {
+        "ar": "دبي أوتودروم",
+        "en": "Dubai Autodrome"
+      },
+      "distance": {
+        "ar": "25 دقائق",
+        "en": "25 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.04806,
+        "lon": 55.23734
+      }
+    },
+    {
+      "name": {
+        "ar": "سيتي سنتر معيصم",
+        "en": "City Centre Me'aisem"
+      },
+      "distance": {
+        "ar": "25 دقائق",
+        "en": "25 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.04034,
+        "lon": 55.19681
+      }
+    },
+    {
+      "name": {
+        "ar": "محمية رأس الخور للحياة البرية",
+        "en": "Ras Al Khor Wildlife Sanctuary"
+      },
+      "distance": {
+        "ar": "20 دقائق",
+        "en": "20 minutes"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.19454,
+        "lon": 55.36412
+      }
+    }
+  ],
+  "maxAreaSqft": 4243,
+  "maxAreaSqmt": 394.19,
+  "maxPriceAED": 10233000,
+  "minAreaSqft": 1336,
+  "minAreaSqmt": 124.11,
+  "minPriceAED": 3334000,
+  "paymentPlan": {
+    "ar": "خطة سداد 40/60",
+    "en": "40/60 Payment Plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/altitude-de-grisogono/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/74M6IoNAeWTuuFXiNZe031/6c563f86ff25ccba05ce2958a19ccb79/ALTITUDE_Hero_video_16x9.mp4",
+  "views": [
+    {
+      "ar": "إطلالة مميزة",
+      "en": "Premium View"
+    }
+  ],
+  "summary": {
+    "ar": "اكتشف ألتيتيود دي جريسوغونو في قلب الخليج التجاري. شقق فاخرة مستوحاة من بريق حجر الأوبال، تتميز بإطلالات بانورامية على قناة دبي المائية. عنوانك الفاخر الذي يلامس السماء.",
+    "en": "Discover Altitude de GRISOGONO in the heart of Business Bay. Luxury apartments inspired by the brilliance of opal, featuring panoramic views of the Dubai Water Canal. Your new high-fashion address touching the sky."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Altitude de GRISOGONO: Elevated Luxury in Business Bay",
+      "subtitle": "Panoramic Waterfront Living Inspired by Opal's Radiance"
+    },
+    "ar": {
+      "title": "ألتيتيود دي جريسوغونو: فخامة راقية في الخليج التجاري",
+      "subtitle": "عيش فاخر على الواجهة المائية مستوحى من إشراقة الأوبال"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Inspired by the captivating beauty of opal stone and de GRISOGONO's exquisite design.",
+      "ar": "مستوحى من الجمال الآسر لحجر الأوبال وتصميم دي جريسوغونو الرائع."
+    },
+    {
+      "en": "Prime location in Business Bay with panoramic views of the Dubai Water Canal.",
+      "ar": "موقع متميز في الخليج التجاري مع إطلالات بانورامية على قناة دبي المائية."
+    },
+    {
+      "en": "Luxurious apartments with elegant interiors and world-class amenities.",
+      "ar": "شقق فاخرة بتصاميم داخلية أنيقة ووسائل راحة عالمية المستوى."
+    }
+  ],
+  "insights": {
+    "en": "Altitude de GRISOGONO offers a premium investment in Dubai's Business Bay, combining luxury design, strategic waterfront location, and high potential for capital appreciation and rental income.",
+    "ar": "يمثل ألتيتيود دي جريسوغونو استثمارًا متميزًا في الخليج التجاري بدبي، حيث يجمع بين التصميم الفاخر والموقع الاستراتيجي على الواجهة المائية، وإمكانات عالية لتقدير رأس المال والدخل الإيجاري."
+  },
+  "projectID": "damac-altitude-de-grisogono",
+  "projectCategory": "Building",
+  "latitude": 0
+}

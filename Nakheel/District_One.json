@@ -1,0 +1,311 @@
+{
+  "slug": "District_One",
+  "id": "nakheel-District_One",
+  "projectName": {
+    "ar": "منطقة ون",
+    "en": "District One"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "تقدم منطقة ون مزيجاً فريداً من خيارات المعيشة لأولئك الذين يقدرون التفرد والفخامة. اختر من بين الفيلات المصممة بشكل جميل، والمساكن المذهلة على الواجهة المائية، والقصور الفاخرة التي توفر نمط حياة من الرفاهية التي لا مثيل لها. إذا كنت تفضل أن تضفي الحياة على مخططك الخاص، تقدم منطقة ون قطع أراضٍ مصممة خصيصاً تمنحك الفرصة لبناء منزلك تماماً كما تصورت. استمتع بالمناطق الخضراء المورقة، والمرافق الحديثة، والوصول الحصري إلى البحيرة الكريستالية المذهلة، وكل ذلك على بعد دقائق من معالم دبي الشهيرة. اختبر المزيج المثالي من الفخامة والهدوء والطاقة الحيوية للحياة الحضرية في منطقة ون.",
+    "en": "District One offers a unique blend of living options for those who appreciate exclusivity and luxury. Choose from beautifully designed villas, stunning waterfront residences and opulent mansions that provide a lifestyle of unmatched luxury. If you prefer to breathe life on your own blueprint, District One offers bespoke plots giving you the opportunity to build your home exactly as you envisioned. Enjoy lush green surroundings, modern amenities and exclusive access to the stunning Crystal Lagoon, all within minutes of Dubai’s iconic landmarks. Experience the perfect combination of luxury, tranquility and the vibrant energy of city living at District One."
+  },
+  "3D_TourLink": [
+    "https://www.youtube.com/watch?v=kY1v9wB22t4",
+    "https://www.youtube.com/watch?v=J_g58Cqg26s"
+  ],
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Running Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Children's Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fitness Centre"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "White sand beaches"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Supermarket"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Pharmacy"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Nursery"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة محمد بن راشد آل مكتوم - منطقة ون",
+    "en": "Mohammed Bin Rashid Al Maktoum City"
+  },
+  "bedrooms": "تتوفر خيارات متنوعة لوحدات سكنية تتراوح من غرفة نوم واحدة إلى 8 غرف نوم. تتضمن الشقق غرف نوم واحدة وغرفتين وثلاث غرف نوم، والفيلات من 4 و5 و6 غرف نوم، والقصور من 7 و8 غرف نوم. كما يقدم مشروع 'ديستريكت ون ويست' فيلات وقصور من 4 إلى 7 غرف نوم، و'لاجون فيوز' شقق وبنتهاوس وفيلات من غرفة نوم واحدة إلى 4 غرف نوم.",
+  "brand": "Nakheel",
+  "brochurePdfLink": [
+    "https://ldnrealtors.com/wp-content/uploads/2021/01/District-One-Mansions-Brochure.pdf",
+    "https://gulflife.ae/wp-content/uploads/2023/09/District-One-West-Phase-1-Brochure.pdf",
+    "https://gulflife.ae/wp-content/uploads/2024/02/District-One-West-Phase-2-Brochure.pdf"
+  ],
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "تتفاوت تواريخ التسليم حسب مراحل المشروع ومكوناته: تم الانتهاء من المراحل الأولية لـ 'ديستريكت ون' في يوليو 2018 والربع الثاني من عام 2020 لوحدات 'ديستريكت ون ريزيدنسز'. أما 'فلل ديستريكت ون' فكان التسليم المتوقع في الربع الرابع من عام 2023 ونوفمبر 2023. بالنسبة للمشاريع قيد التطوير، فمن المتوقع تسليم 'لاجون فيوز' في الربع الثالث من عام 2025، و'ديستريكت ون ريزيدنسز' في الربع الثالث من عام 2025. أما 'ديستريكت ون ويست' المرحلة الأولى فمن المقرر تسليمها في مارس 2027، والربع الأول من عام 2027، ويونيو 2027. والمرحلة الثانية من 'ديستريكت ون ويست' فمن المتوقع تسليمها في الربع الأول من عام 2028.",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/d1-03.jpg?sfvrsn=fdd1311b_5",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/d1-02.jpg?sfvrsn=514f4d8f_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/d1-01.jpg?sfvrsn=a91794b4_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/district-one8eda6661-df53-47ca-b970-9c2a1076b34f.jpg?sfvrsn=456d1639_1",
+  "latitude": 25.03465565999243,
+  "launchDate": "تم إطلاق مشروع 'ديستريكت ون' ككل في يناير 2014 من قبل مطوريه، ميدان صبحا. بدأت مبيعات 'ديستريكت ون ويست' في 1 أغسطس 2023. كما تم إطلاق برج 'ديستريكت ون ريزيدنسز' الأعلى في 11 ديسمبر 2018. ومشروع 'ديستريكت ون ويست 2' تم إطلاقه في الربع الأول من عام 2024.",
+  "location": {
+    "ar": "اختبر راحة لا مثيل لها في منطقة ون، أحد أكثر المجتمعات طلباً في دبي. استمتع بوصول حصري إلى الشواطئ الرملية البيضاء، ومسار خلاب لركوب الدراجات والجري، ومجموعة من المرافق التي توفر الراحة، مثل سوبر ماركت، صيدلية، حضانة، صالة ألعاب رياضية، ومناطق لعب الأطفال.",
+    "en": "Located along the world’s largest man-made crystal lagoon at Mohammed Bin Rashid Al Maktoum City - District One, one of Dubai’s most prestigious communities. Close to Business Bay, Meydan Grandstand and Racecourse, The Meydan Hotel, Dubai Design District, Downtown Dubai, and Dubai International Airport."
+  },
+  "longitude": 55.17415430146091,
+  "mapDescription": {
+    "ar": "الموقع",
+    "en": "The Location"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "8 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Business Bay",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "9 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Meydan Grandstand and Racecourse",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Hotel",
+        "ar": ""
+      },
+      "distance": {
+        "en": "11 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "The Meydan Hotel",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "12 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Design District",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "City Center",
+        "ar": ""
+      },
+      "distance": {
+        "en": "16 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "18 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-collections/district-one",
+  "projectStatus": {
+    "ar": "مجتمع راسخ",
+    "en": "قيد التطوير"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    },
+    {
+      "en": "Mansions",
+      "ar": ""
+    },
+    {
+      "en": "Waterfront Residences",
+      "ar": ""
+    },
+    {
+      "en": "Plots",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/nakheel-collection-video-library/mbrmediterraneandistrictone.mp4?sfvrsn=a1fbaba8_1",
+  "views": [
+    {
+      "en": "Crystal Lagoon",
+      "ar": "البحيرة الكريستالية"
+    },
+    {
+      "en": "Lush Greenery",
+      "ar": "المناطق الخضراء المورقة"
+    }
+  ],
+  "projectID": "district-one",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

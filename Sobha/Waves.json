@@ -1,0 +1,315 @@
+{
+  "slug": "sobha-waves",
+  "id": "sobha-sobha-waves",
+  "projectName": {
+    "ar": "",
+    "en": "Waves"
+  },
+  "country": {
+    "ar": "",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "",
+    "en": "Enjoy the sunrises and sunsets in a quintessentially unique setting, with uninterrupted 360-degree views from every home. Standing tall against the boardwalk that spans 1.8 km, this 35-storey modern architectural marvel transcends expectations in style. Located in Mohammed Bin Rashid Al Maktoum City, Sobha Hartland Waves leaves a truly indelible mark."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "BARBECUE AREA"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "INFINITY POOL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "SMART GYM"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "CUSTOMISABLE BEDROOMS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Arena"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "Mohammed Bin Rashid Al Maktoum City"
+  },
+  "bedrooms": [
+    1,
+    2
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/sobha-waves-brochure.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "https://api.whatsapp.com/send?phone=97180076242&text=Hi Sobha Team, I am interested in your luxury properties. Can you please provide more details?"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_11.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_6.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_6.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310%20%281%29_0.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_13.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250%20%281%29.jpg.webp",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249%20%281%29.jpg.webp"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Waves.jpg",
+  "latitude": -1,
+  "launchDate": "null",
+  "location": {
+    "ar": "",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "longitude": -1,
+  "mapDescription": {
+    "ar": "",
+    "en": "null"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": ""
+      },
+      "distance": {
+        "en": "3 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Education",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BUSINESS BAY",
+        "ar": ""
+      },
+      "distance": {
+        "en": "13 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Business District",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": ""
+      },
+      "distance": {
+        "en": "14 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": ""
+      },
+      "distance": {
+        "en": "16 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
+        "ar": ""
+      },
+      "distance": {
+        "en": "7 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Nature",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "MEYDAN RACECOURSE",
+        "ar": ""
+      },
+      "distance": {
+        "en": "11 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Sports",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI FRAME",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI OPERA",
+        "ar": ""
+      },
+      "distance": {
+        "en": "19 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Culture",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": ""
+      },
+      "distance": {
+        "en": "28 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 1042.38,
+  "maxAreaSqmt": 96.84,
+  "maxPriceAED": -1,
+  "minAreaSqft": 528.72,
+  "minAreaSqmt": 49.117,
+  "minPriceAED": 1780000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-waves/",
+  "projectStatus": {
+    "ar": "",
+    "en": "null"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "null",
+  "views": [
+    {
+      "en": "Waterfront",
+      "ar": ""
+    },
+    {
+      "en": "360-degree views",
+      "ar": ""
+    }
+  ],
+  "projectID": "sobha-sobha-waves",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

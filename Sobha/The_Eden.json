@@ -1,0 +1,105 @@
+{
+  "slug": "eden",
+  "id": "sobha-eden",
+  "projectName": {
+    "ar": "عدن",
+    "en": "The Eden"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "تحليق فوق دبي مع إطلالات بانورامية خلابة على أفق المدينة ووصول سلس إلى المرافق العالمية. يقع \"ذا إيدن\" في قلب مجمع \"سُبحا سنترال\"، ويقدم أسلوب حياة حضريًا راقيًا حيث تلتقي الطبيعة بأفق المدينة. يضم شققًا من غرفة نوم واحدة وغرفتي نوم، وقد تم تصميم كل وحدة سكنية لالتقاط إطلالات لا تنقطع على أفق دبي والمنصة ذات المناظر الطبيعية الخلابة أدناه، مما يجلب الهدوء والوضوح إلى الحياة اليومية. يتمتع \"ذا إيدن\" بموقع استراتيجي ضمن المخطط الرئيسي لـ \"سُبحا سنترال\"، ويوفر للسكان اتصالًا داخليًا سلسًا بالمجتمع الأوسع من خلال ردهات مصاعد متكاملة بذكاء. يربط هذا الوصول المباشر والمحمي من العوامل الجوية السكان بمركز تسوق متكامل، وسينما متعددة الشاشات، وصالة رياضية حديثة، وقاعة صلاة كبرى، وعيادة طبية، وسوبر ماركت، ومجموعة من المرافق الحيوية الأخرى المصممة لتعزيز الحياة اليومية براحة لا مثيل لها.",
+    "en": "Soaring above Dubai with unobstructed skyline views and seamless access to world-class amenities. Rising at the heart of the Sobha Central cluster, The Eden offers a refined urban lifestyle where nature and skyline converge. Featuring 1 and 2-bedroom apartments, each residence is designed to capture uninterrupted views of Dubai’s skyline and the beautifully landscaped podium below bringing calm and clarity to everyday living. Strategically positioned within the Sobha Central masterplan, The Eden offers residents seamless internal connectivity to the wider community through intelligently integrated lift lobbies. This direct, weather-protected access links residents to a full-scale shopping mall, multiplex cinema, state-of-the-art gym, grand prayer hall, medical clinic, supermarket, and a host of other essential lifestyle amenities all designed to enhance everyday living with unmatched convenience."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [
+    1,
+    2
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-06/Sobha%20Central%20Brochure%20-%20The%20Eden.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2065.jpg.webp?itok=weX4Mpdv",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2052.jpg.webp?itok=prXAKvQW",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2060.jpg.webp?itok=7woLBm52",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2061.jpg.webp?itok=Me8InXfm",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2062.jpg.webp?itok=BFbV-tur",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2051.jpg.webp?itok=Dt5w4L3l",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2063.jpg.webp?itok=DQSQVHfX",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-05/1006x608%20%E2%80%93%2064.jpg.webp?itok=vKBLi8kb"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-06/Banner%201440x618%20%E2%80%93%209_0.jpg.webp?itok=QBPM2iak",
+  "latitude": null,
+  "launchDate": null,
+  "location": {
+    "ar": "شارع الشيخ زايد",
+    "en": "Sheikh Zayed Road"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 1202.01,
+  "maxAreaSqmt": 111.67,
+  "maxPriceAED": 3590000,
+  "minAreaSqft": 568.33,
+  "minAreaSqmt": 52.8,
+  "minPriceAED": 1760000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/eden/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [],
+  "projectID": "sobha-eden",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

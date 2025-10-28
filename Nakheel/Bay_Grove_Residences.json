@@ -1,0 +1,306 @@
+{
+  "slug": "Dubai_Islands",
+  "id": "nakheel-Dubai_Islands",
+  "projectName": {
+    "ar": "مساكن باي غروف",
+    "en": "Bay Grove Residences"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "جزر دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "حيث يقربك منزلك إلى الحياة على حافة البحر. اكتشف المعيشة على شاطئ البحر في مساكن باي غروف، الواقعة ضمن العنوان المائي الأكثر طلبًا في جزر دبي. تقدم المرحلة النهائية أربعة مبانٍ سكنية، توفر وحدات من غرفة نوم واحدة إلى أربع غرف نوم وبنتهاوس مميز. تم تصميم كل منزل بعناية لتأطير إطلالات بانورامية على المدينة والبحر من خلال نوافذ ممتدة من الأرض حتى السقف تغمر الديكورات الداخلية بالضوء الطبيعي. تعزز مساكن باي غروف نمط حياة متوازنًا ومثرًا. يتمتع السكان بوصول مباشر إلى شاطئ كريستال، وحدائق منصة طبيعية مورقة، ومسبح إنفينيتي مذهل. من مناطق اللعب الداخلية والخارجية إلى مركز لياقة بدنية حديث، ومسابح للعائلات والأطفال، ونادي اجتماعي نابض بالحياة في قلب المجتمع — تم تصميم كل مساحة لتعزيز الحياة اليومية وربط الناس بالطبيعة.",
+    "en": "Where your home is the connection to the environment, to yourself, in harmony. Bay Grove invites you to explore its vibrant residential ecosystem."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "بار الوجبات الخفيفة على مستوى الشاطئ",
+        "en": "Beach Level Snack Bar"
+      },
+      "description": {
+        "ar": "استمتع بالمرطبات والوجبات الخفيفة مباشرة على الشاطئ.",
+        "en": "Enjoy refreshments and light bites right by the beach."
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة الألعاب الرياضية",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "صالة ألعاب رياضية مجهزة بالكامل لتجربة تمرين شاملة.",
+        "en": "Fully equipped gymnasium for a comprehensive workout experience."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح الأطفال",
+        "en": "Children’s Pool"
+      },
+      "description": {
+        "ar": "منطقة سباحة آمنة وممتعة للأطفال.",
+        "en": "A safe and fun swimming area for children."
+      }
+    },
+    {
+      "name": {
+        "ar": "حدائق المنصة",
+        "en": "Podium Gardens"
+      },
+      "description": {
+        "ar": "حدائق طبيعية مورقة توفر مساحات خضراء هادئة.",
+        "en": "Lush landscaped gardens offering serene green spaces."
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة لعب الأطفال",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "مناطق داخلية وخارجية مخصصة للأطفال للعب.",
+        "en": "Dedicated indoor and outdoor areas for children to play."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "مسبح منعش للمقيمين للاستمتاع به.",
+        "en": "A refreshing pool for residents to enjoy."
+      }
+    },
+    {
+      "name": {
+        "ar": "اليوغا",
+        "en": "Yoga"
+      },
+      "description": {
+        "ar": "مساحة مخصصة لليوغا وأنشطة العافية.",
+        "en": "Space dedicated to yoga and wellness activities."
+      }
+    }
+  ],
+  "area": {
+    "ar": "جزر دبي",
+    "en": "Dubai Islands"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "https://dubaiholding.box.com/s/j9sctws8nfklxwsokbu6n3rssesuojf1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-05.jpg?sfvrsn=b6ca50cd_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-04.jpg?sfvrsn=d1dc0520_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-03.jpg?sfvrsn=640e3769_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-01.jpg?sfvrsn=905ed9f3_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-int-02.jpg?sfvrsn=b94d3266_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-03.jpg?sfvrsn=7579a27a_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-05.jpg?sfvrsn=693ac79_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-01.jpg?sfvrsn=aa7620d8_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-04.jpg?sfvrsn=d266b2ef_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/gallery-images-1920x1080-ext-02.jpg?sfvrsn=beaf1fad_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/bay-grove-residences9617b604-2d85-4253-aa5a-de2e2c356486.jpg?sfvrsn=e0931b5b_1",
+  "latitude": 25.30534093437127,
+  "launchDate": "null",
+  "location": {
+    "ar": "تقع في العنوان المائي الأكثر طلبًا في جزر دبي، وتوفر سهولة الوصول إلى معالم المدينة.",
+    "en": "Located within Dubai Islands' most sought-after waterfront address, offering convenient access to city attractions."
+  },
+  "longitude": 55.31961018650657,
+  "mapDescription": {
+    "ar": "موقع استراتيجي بالقرب من مطار دبي الدولي، برواز دبي، ووسط مدينة دبي.",
+    "en": "Strategic location near Dubai International Airport, The Dubai Frame, and Downtown Dubai."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "المطار",
+        "en": "Airport"
+      },
+      "distance": {
+        "ar": "20 دقيقة من مطار دبي الدولي",
+        "en": "20 minutes from Dubai International Airport"
+      },
+      "category": {
+        "ar": "مواصلات",
+        "en": "Transportation"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    },
+    {
+      "name": {
+        "ar": "برواز دبي",
+        "en": "The Dubai Frame"
+      },
+      "distance": {
+        "ar": "22 دقيقة من برواز دبي",
+        "en": "22 minutes from The Dubai Frame"
+      },
+      "category": {
+        "ar": "معلم",
+        "en": "Landmark"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    },
+    {
+      "name": {
+        "ar": "مركز التجارة العالمي",
+        "en": "World Trade Centre"
+      },
+      "distance": {
+        "ar": "24 دقيقة من مركز دبي التجاري العالمي",
+        "en": "24 minutes from Dubai World Trade Centre"
+      },
+      "category": {
+        "ar": "أعمال",
+        "en": "Business"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    },
+    {
+      "name": {
+        "ar": "وسط مدينة دبي",
+        "en": "Downtown Dubai"
+      },
+      "distance": {
+        "ar": "24 دقيقة من وسط مدينة دبي",
+        "en": "24 minutes from Downtown Dubai"
+      },
+      "category": {
+        "ar": "وسط المدينة",
+        "en": "City Center"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    },
+    {
+      "name": {
+        "ar": "الخليج التجاري",
+        "en": "Business Bay"
+      },
+      "distance": {
+        "ar": "33 دقيقة من الخليج التجاري",
+        "en": "33 minutes from Business Bay"
+      },
+      "category": {
+        "ar": "منطقة أعمال",
+        "en": "Business District"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    },
+    {
+      "name": {
+        "ar": "مركز دبي المالي",
+        "en": "Dubai Financial Centre"
+      },
+      "distance": {
+        "ar": "34 دقيقة من مركز دبي المالي",
+        "en": "34 minutes from Dubai Financial Centre"
+      },
+      "category": {
+        "ar": "منطقة مالية",
+        "en": "Financial District"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/new-launches/baygrove-residences",
+  "projectStatus": {
+    "ar": "على الخارطة",
+    "en": "New Launches"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    },
+    {
+      "en": "Duplexes",
+      "ar": "دوبلكس"
+    },
+    {
+      "en": "Penthouses",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "null",
+  "views": [
+    {
+      "en": "Panoramic City Views",
+      "ar": "إطلالات بانورامية على المدينة"
+    },
+    {
+      "en": "Sea Views",
+      "ar": "إطلالات بحرية"
+    }
+  ],
+  "projectID": "bay-grove-residences",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

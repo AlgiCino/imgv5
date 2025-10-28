@@ -1,0 +1,104 @@
+{
+  "slug": "the-tranquil",
+  "id": "sobha-the-tranquil",
+  "projectName": {
+    "ar": "الهادئ",
+    "en": "The Tranquil"
+  },
+  "country": {
+    "ar": "الإمارات",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "يقع \"ذا ترانكويل\" في قلب \"شوبا سنترال\"، ويعيد تعريف مفهوم الحياة الحضرية العصرية بأجواء من الهدوء والتوازن. يوفر خيارات من المساكن المكونة من غرفة نوم واحدة وغرفتي نوم، وتتميز المنازل بتصميمات واسعة ونوافذ تمتد من الأرض إلى السقف. يربط هذا البرج بسلاسة المعالم الشهيرة مثل وسط مدينة دبي، ومارينا دبي، ومركز دبي المالي العالمي، ونخلة جميرا، ويعد شارع الشيخ زايد حيث لا يتوقف تدفق طاقة المدينة أبدًا. في مستوى المنصة، تخلق حديقة حضرية مورقة بيئة نابضة بالحياة لمرافق نمط حياة راقٍ. يجمع \"ذا ترانكويل\" بين الراحة والرقي، ويضم متاجر بوتيك، ومساحات تركز على العافية، ومساحات خضراء واسعة، ومناطق ترفيهية. إنه أكثر من مجرد مجموعة من المساكن، إنه مجتمع متكامل مصمم لتقديم الراحة وسهولة الوصول وطريقة حياة راقية حقًا.",
+    "en": "Nestled in the heart of Sobha Central, The Tranquil redefines modern urban living with an ambience of calm and balance. Offering a choice of 1- and 2-bedroom residences, homes feature generous layouts and floor-to-ceiling windows. This tower seamlessly connects the iconic landmarks such as Downtown Dubai, Dubai Marina, DIFC, and the Palm Jebel Ali, and SZR is where the city’s energy never stops flowing.At the podium level, a lush urban park creates a vibrant setting for elevated lifestyle amenities.Blending convenience with sophistication, The Tranquil brings together boutique retail, wellness-focused spaces, expansive greenery, and leisure zones. More than a collection of residences, it is a complete community designed to offer comfort, accessibility, and a truly refined way of life."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2025-09/The%20Tranquil%20at%20Sobha%20Central%20%281%29.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "https://api.whatsapp.com/send?phone=97180076242&text=Hi Sobha Team, I am interested in your luxury properties. Can you please provide more details?"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2091.jpg.webp?itok=t5GyOiGK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2053.jpg.webp?itok=MSBR-zEG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2090.jpg.webp?itok=Wou8tZMS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2052.jpg.webp?itok=-Qc6IM0w",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2098.jpg.webp?itok=hibvqxTK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2060.jpg.webp?itok=Oe_lRf-Z",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2089.jpg.webp?itok=qSgSGFVh",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2051.jpg.webp?itok=N5gcusLg",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2088.jpg.webp?itok=xUYD0en2",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/350x483%20%E2%80%93%2050.jpg.webp?itok=uFmJUGUT"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/Banner%201020x1080.jpg.webp?itok=g0GyCMh2",
+  "latitude": null,
+  "launchDate": null,
+  "location": {
+    "ar": "شوبا سنترال، طريق الشيخ زايد",
+    "en": "Sobha Central, Sheikh Zayed Road"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": null,
+  "maxAreaSqmt": null,
+  "maxPriceAED": null,
+  "minAreaSqft": 495.47,
+  "minAreaSqmt": 46.03,
+  "minPriceAED": 1850000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/the-tranquil/",
+  "projectStatus": {
+    "ar": "على الخارطة",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "",
+  "views": [],
+  "projectID": "sobha-the-tranquil",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

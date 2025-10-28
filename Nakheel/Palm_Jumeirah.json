@@ -1,0 +1,299 @@
+{
+  "slug": "Palm_Jumeirah",
+  "id": "nakheel-Palm_Jumeirah",
+  "projectName": {
+    "ar": "",
+    "en": "Palm Jumeirah"
+  },
+  "country": {
+    "ar": "",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "",
+    "en": "Master developed by Nakheel, Palm Jumeirah is a symbol of Dubai’s vibrant growth and ambition. Stretching five kilometres into the Arabian Gulf, Palm Jumeirah takes on the shape of the date palm tree. It is one of the world’s largest man made islands, and a spectacular feat of engineering covering 560 hectares of land. It is home to approximately 25,000 people and features luxury residences and waterfront homes, retail destinations, leisure attractions and world class marinas."
+  },
+  "3D_TourLink": "https://www.youtube.com/watch?v=k_l296B_18c",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Palm Monorail"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Nakheel Marinas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Beach Clubs"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "360° Observation Deck"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Lifestyle Malls"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Hotels & Resorts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Leisure Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants & Cafés"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sub-sea Tunnel"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "Palm Jumeirah"
+  },
+  "bedrooms": "Studio to 10 Bedrooms",
+  "brand": "Nakheel",
+  "brochurePdfLink": "https://www.scribd.com/document/559418659/Palm-Jumeirah-Brochure-PDF",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Q4 2025 - Q4 2031 (for off-plan projects)",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/projects/palm-jumeirah4629cdc3-258c-48cc-b860-2c9f1c74cf6a.jpg?sfvrsn=968fc423_1",
+    "/images/nakheelcorporatelibraries/developments/projects/palm-jumeirah3ac958ba-2cab-47e6-81f2-7fd933e9e840.jpg?sfvrsn=f0e70ea6_1",
+    "/images/nakheelcorporatelibraries/developments/projects/palm-jumeirahd5c941eb-64a9-42fa-8218-0bf74d94a376.jpg?sfvrsn=de950100_1",
+    "/images/nakheelcorporatelibraries/developments/palm-jumeirahe6a8226b-c8f2-4ee8-82d9-2015b61bdde8.jpg?sfvrsn=d0e3b214_1",
+    "/images/nakheelcorporatelibraries/developments/palm-jumeirah190d7ee8-1b0a-4dd3-9ea4-523de16fa3cc.jpg?sfvrsn=44556319_1",
+    "/images/nakheelcorporatelibraries/amenities/palm-jumeirah_1.jpg?sfvrsn=7b46249c_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/projects/palm-jumeirah4629cdc3-258c-48cc-b860-2c9f1c74cf6a.jpg?sfvrsn=968fc423_1",
+  "latitude": 25.116605681099326,
+  "launchDate": "2001",
+  "location": {
+    "ar": "",
+    "en": "Palm Jumeirah is a vibrant and ever-growing destination with three main areas: the trunk, crescent and fronds. The trunk houses residential apartments, hotels, restaurants, cafés, marinas, private beaches, retail malls and attractions. Halfway down the island's spine, roads lead off to residential gated communities. At the tip of the spine, a tunnel takes you to the crescent lined with luxury beachfront resorts and residences."
+  },
+  "longitude": 55.13517310604294,
+  "mapDescription": {
+    "ar": "",
+    "en": "Palm Jumeirah"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Monorail Station",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Monorail",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nakheel Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Destination Pin",
+        "ar": ""
+      },
+      "name": {
+        "en": "The View at The Palm",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Beach",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm West Beach",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Club",
+        "ar": ""
+      },
+      "name": {
+        "en": "Club Vista Mare",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Park",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Ittihad Park",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 35000,
+  "maxAreaSqmt": 3250,
+  "maxPriceAED": 412500000,
+  "minAreaSqft": 375,
+  "minAreaSqmt": 34.8,
+  "minPriceAED": 700000,
+  "paymentPlan": [
+    {
+      "project": "Passo by Beyond",
+      "plan": "10% down payment, 50% during construction, 40% on handover"
+    },
+    {
+      "project": "Vitalia",
+      "plan": "10% down payment, 25% during construction, 65% on handover"
+    },
+    {
+      "project": "Como Residences",
+      "plan": "20% down payment, 60% during construction, 20% on handover"
+    }
+  ],
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-collections/palmjumeirah",
+  "projectStatus": {
+    "ar": "",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    },
+    {
+      "en": "Villas",
+      "ar": ""
+    },
+    {
+      "en": "Penthouses",
+      "ar": ""
+    },
+    {
+      "en": "Residential",
+      "ar": ""
+    },
+    {
+      "en": "Hotel",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/property-detail/palm-jumeirah.mp4?sfvrsn=fe2032cd_1",
+  "views": [
+    {
+      "en": "Arabian Gulf",
+      "ar": ""
+    },
+    {
+      "en": "Sea",
+      "ar": ""
+    },
+    {
+      "en": "Dubai skyline",
+      "ar": ""
+    },
+    {
+      "en": "Panoramic views",
+      "ar": ""
+    },
+    {
+      "en": "Breathtaking views",
+      "ar": ""
+    }
+  ],
+  "projectID": "palm-jumeirah",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

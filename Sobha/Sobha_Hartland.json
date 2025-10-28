@@ -1,0 +1,299 @@
+{
+  "slug": "Sobha_Hartland",
+  "id": "sobha-Sobha_Hartland",
+  "projectName": {
+    "ar": "",
+    "en": "Sobha Hartland"
+  },
+  "country": {
+    "ar": "",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "",
+    "en": "Experience an unmatched Dubai lifestyle at Sobha Hartland, a waterfront community featuring luxury apartments & villas. Experience inspired living in an 8 million sq. ft. waterfront community of luxurious apartments, villas, and townhouses in Sobha Hartland, Dubai. Sobha Hartland epitomises a lifestyle of comfort and luxury, standing as one of Dubai's premier communities offering a captivating living experience. This exclusive enclave presents a diverse range of upscale residences, including lavish apartments, high-end villas, and opulent townhouses, all designed to elevate the standard of living. Boasting world-class amenities, Sobha Hartland is a testament to sophisticated living in the heart of Dubai."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Live"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Learn"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Entertainment"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dine"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": "8 Million Sq. Ft. Total Land Area"
+  },
+  "bedrooms": [
+    4,
+    5,
+    6
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img.jpg.webp?itok=Fc8Etbg8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/3rd%20fold%20main%20img%20mobile.jpg.webp?itok=HuZM3aqR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/210%20x%20283.jpg.webp?itok=2uXfiXOR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20497.jpg.webp?itok=cGFG3ug3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/337%20x%20479.jpg.webp?itok=OeaYeMA_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/asset-1.jpg.webp?itok=5JNgidMN",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Live_5.jpg.webp?itok=bp6a0gZU",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015254.jpg.webp?itok=4aQuEctS",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Entertainment_4.jpg.webp?itok=uc0HUGfs",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Dine_8.jpg.webp?itok=jnm8qHHl",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banne%20mobile_0.jpg.webp?itok=8f6W3qwY"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/banner%20web_0.jpg.webp?itok=ynQJhgfk",
+  "latitude": 25.1633,
+  "launchDate": "null",
+  "location": {
+    "ar": "",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "longitude": 55.2894,
+  "mapDescription": {
+    "ar": "",
+    "en": "RIGHT IN the Centre of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1972,
+        "lon": 55.2743
+      },
+      "distance": {
+        "en": "null",
+        "ar": ""
+      },
+      "name": {
+        "en": "Burj Khalifa",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping/Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1983,
+        "lon": 55.2796
+      },
+      "distance": {
+        "en": "null",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Nature",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.2039,
+        "lon": 55.3343
+      },
+      "distance": {
+        "en": "null",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ras Al Khor Nature Reserve",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Area/Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.0744,
+        "lon": 55.1394
+      },
+      "distance": {
+        "en": "null",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Marina",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Area/Landmark",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1,
+        "lon": 55.15
+      },
+      "distance": {
+        "en": "null",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Sport/Recreation",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.0886,
+        "lon": 55.1509
+      },
+      "distance": {
+        "en": "null",
+        "ar": ""
+      },
+      "name": {
+        "en": "Emirates Golf Club",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Nature/Attraction",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.2155,
+        "lon": 55.34
+      },
+      "distance": {
+        "en": "null",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ras Al Khor Flamingo Hide Viewing Area",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 8000000,
+  "maxAreaSqmt": 743224,
+  "maxPriceAED": 999999999,
+  "minAreaSqft": 1000,
+  "minAreaSqmt": 92.903,
+  "minPriceAED": 1000000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://sobharealty.com/our-communities/sobha-hartland/",
+  "projectStatus": {
+    "ar": "",
+    "en": "null"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    },
+    {
+      "en": "Villas",
+      "ar": ""
+    },
+    {
+      "en": "Townhouses",
+      "ar": ""
+    }
+  ],
+  "sellable": false,
+  "videoLink": "null",
+  "views": [
+    {
+      "en": "Downtown skyline",
+      "ar": ""
+    },
+    {
+      "en": "Creek",
+      "ar": ""
+    },
+    {
+      "en": "Canal",
+      "ar": ""
+    }
+  ],
+  "projectID": "sobha-hartland",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

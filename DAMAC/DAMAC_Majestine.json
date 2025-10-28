@@ -1,0 +1,144 @@
+{
+  "slug": "damac-majestine",
+  "id": "damac-majestine",
+  "projectName": {
+    "ar": "داماك ماجستين",
+    "en": "DAMAC Majestine"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "عِش أسلوب حياة عصري في داماك ماجستين، المشروع الذي تلتقي فيه الرفاهية بوسائل الراحة. اكتشف مساحات معيشية مجهزة بكل إتقان مع أثاث فاخر وتفاصيل مصممة وفق أعلى المستويات. يتألق المشروع بإطلالات آسرة على أفق منطقة الخليج التجاري وقناة دبي المائية، ويحتضن مجموعة من الوحدات التي تتنوع بين استوديو وشقق من غرفة وغرفتين وثلاث غرف نوم، تتميز جميعها بتصاميم داخلية أنيقة ومطابخ مجهزة بالكامل وحمامات فسيحة. اكتمل بناء داماك ماجستين بالكامل وأصبح جاهزاً لاستقبال زواره وتحقيق أحلامهم من موقعه في قلب مدينة دبي.",
+    "en": "Live a modern lifestyle at DAMAC Majestine, where luxury meets convenience. Discover living spaces meticulously equipped with luxurious furniture and details designed to the highest standards. The project boasts captivating views of the Business Bay skyline and the Dubai Water Canal, and features a range of units from studios to one, two, and three-bedroom apartments, all with elegant interior designs, fully equipped kitchens, and spacious bathrooms. DAMAC Majestine is fully completed and ready to welcome its visitors and fulfill their dreams from its location in the heart of Dubai."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "صالة رياضية",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "حافظ على لياقتك وحيويتك في صالة رياضية مجهزة بأحدث المعدات والتقنيات في عالم اللياقة، لتقدم لك تجربة تدفعك إلى الارتقاء بتمارينك دوماً.",
+        "en": "Maintain your fitness and vitality in a gym equipped with the latest equipment and technologies in the world of fitness, offering an experience that pushes you to elevate your workouts always."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح",
+        "en": "Pool"
+      },
+      "description": {
+        "ar": "استمتع بسباحة منعشة في مسبح صمم لتتمكن من ضبط الحرارة فيه كما تفضل. هنا وجهتك الأمثل لتحظى بأوقات من الراحة والهدوء طوال أيام السنة.",
+        "en": "Enjoy a refreshing swim in a pool designed so you can adjust the temperature as you prefer. This is your ideal destination for moments of comfort and tranquility all year round."
+      }
+    },
+    {
+      "name": {
+        "ar": "غرفة بخار وساونا",
+        "en": "Steam room and Sauna"
+      },
+      "description": {
+        "ar": "عِش تجربة فريدة من نوعها وسط أجواء هادئة ودافئة. انطلق في رحلة من الاسترخاء تعيد لك نشاطك وحيويتك.",
+        "en": "Live a unique experience amidst calm and warm atmospheres. Embark on a journey of relaxation that restores your activity and vitality."
+      }
+    }
+  ],
+  "area": {
+    "ar": "بزنس باي",
+    "en": "Business Bay"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "brand": "DAMAC",
+  "brochurePdfLink": "https://downloads.ctfassets.net/zoq5l15g49wj/1Ue0nmws6x73esQxRJUEhm/2c1b75eb797275f25af4961e465e22a4/MAJESTINE_BROCHURE_AR.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2018-12-31",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/bQiR32XimXyqmtiRs7QoC/7aac7583288f8a654cb4c53a73266a26/DAMAC_Majestine-Gallery-00.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/1RKuF30Gz8uRLsdRODSNep/a156932dff705e6a6094a00dd0390db9/DAMAC_Majestine-Homepage_Hero_16x9.jpg",
+  "latitude": 25.186472,
+  "launchDate": "2014-05-01",
+  "location": {
+    "ar": "بزنس باي",
+    "en": "Business Bay"
+  },
+  "longitude": 55.282063,
+  "mapDescription": {
+    "ar": "بالقرب من كل ما تحتاجه. متصل بأرجاء دبي.",
+    "en": "Close to everything you need. Connected to all of Dubai."
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 1620,
+  "maxAreaSqmt": 150.50286,
+  "maxPriceAED": 2515000,
+  "minAreaSqft": 470,
+  "minAreaSqmt": 43.66441,
+  "minPriceAED": 909000,
+  "paymentPlan": {
+    "ar": "متوفر عند الطلب",
+    "en": "Available on request"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/damac-majestine/",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Studio",
+      "ar": "استوديو"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/03N06QSXTJR0uZcNjCn8z/9211d0adb3e1837684d7e4b97f8b6712/Damac_Majestine_Hero_video__16x9_.mp4",
+  "views": [
+    {
+      "en": "Business Bay skyline",
+      "ar": "أفق منطقة الخليج التجاري"
+    },
+    {
+      "en": "Dubai Water Canal",
+      "ar": "قناة دبي المائية"
+    }
+  ],
+  "projectID": "damac-majestine",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

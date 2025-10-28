@@ -1,0 +1,369 @@
+{
+  "slug": "Jumeirah_Islands",
+  "id": "nakheel-Jumeirah_Islands",
+  "projectName": {
+    "ar": "جزر الجميرا",
+    "en": "Jumeirah Islands"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "جزر الجميرا هي مجموعة فاخرة من 46 جزيرة تضم بحيرات خلابة. إنها مجتمع سكني مسور حصري ومتكامل يقع في موقع متميز في دبي. مع إطلالات خلابة على البحيرة، يوفر كل منزل بيئات خارجية مريحة وهادئة. تم بناء هذه المنازل الجميلة وفقًا لأعلى المعايير، وهي المكان المثالي للعائلات للاسترخاء والاستجمام في مساحات داخلية عصرية فاخرة، وحدائق خاصة كبيرة، وشرفات وتراسات واسعة على السطح. يوفر الحي سهولة الوصول إلى الوجهات التجارية والترفيهية الرئيسية في دبي، بما في ذلك ابن بطوطة مول الشهير. ابحث عن ملاذك الخاص بجانب البحيرة، مما يجعلك أقرب إلى الطبيعة في جزر الجميرا.",
+    "en": "Jumeirah Islands is a luxury collection of 46 islands with scenic lakes. It is an exclusive, integrated residential gated community in a prime location in Dubai. With stunning lake views, each home offers comfortable and tranquil outdoor environments. Built to exceptional standards, these beautiful homes are the perfect place for families to relax and unwind in luxurious modern indoor spaces, large private gardens, verandas and spacious roof terraces. The neighbourhood offers easy access to Dubai’s key business and leisure destinations, including the popular Ibn Battuta Mall."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Community Pavilion"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jogging Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants & Cafés"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fitness Centre"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Clubhouse"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "جزر الجميرا",
+    "en": "Jumeirah Islands"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/jumeirah-islands.jpg?sfvrsn=940fd57e_3",
+    "/images/nakheelcorporatelibraries/developments/jumeirah-islands3030676e-6991-4a39-ac8f-3a842cd247f9.jpg?sfvrsn=5a0e57e7_1",
+    "/images/nakheelcorporatelibraries/developments/jumeirah-islands5c273dba-3178-457d-a8a6-87d206293c55.jpg?sfvrsn=7186302d_1",
+    "/images/nakheelcorporatelibraries/developments/projects/visual-collection.jpg?sfvrsn=bd19e871_3",
+    "/images/nakheelcorporatelibraries/developments/projects/visual-collection2.jpg?sfvrsn=11fddf09_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://nakheel-aut.sitefinity.cloud/images/nakheelcorporatelibraries/general/nakheel-view.jpg",
+  "latitude": 25.056950071417084,
+  "launchDate": "null",
+  "location": {
+    "ar": "جزر الجميرا هو مجتمع رئيسي يوفر معيشة فاخرة بجانب البحيرة في دبي، مع سهولة الوصول إلى الوجهات التجارية والترفيهية الرئيسية.",
+    "en": "Jumeirah Islands is one of Dubai’s most prestigious communities, with convenient amenities and easy access to Dubai’s key business and leisure destinations."
+  },
+  "longitude": 55.15565910428631,
+  "mapDescription": {
+    "ar": "تقع جزر الجميرا في موقع استراتيجي مع سهولة الوصول إلى النقاط الرئيسية في المدينة.",
+    "en": "The Location"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Metro Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "10 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "DMCC Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Tram Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "10 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Jumeirah Lake Towers Tram Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "14 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Marina",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "14 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Marina",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Island",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "18 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "30 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": -1,
+  "maxAreaSqmt": -1,
+  "maxPriceAED": -1,
+  "minAreaSqft": -1,
+  "minAreaSqmt": -1,
+  "minPriceAED": -1,
+  "paymentPlan": {
+    "ar": "خطط سداد مرنة متاحة عند الاستفسار.",
+    "en": "Flexible payment plans available upon inquiry."
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/jumeirah-islands",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": ""
+    },
+    {
+      "en": "Townhouse",
+      "ar": ""
+    },
+    {
+      "en": "Apartment",
+      "ar": ""
+    },
+    {
+      "en": "Plot",
+      "ar": ""
+    },
+    {
+      "en": "Not Disclosed",
+      "ar": ""
+    },
+    {
+      "en": "Other",
+      "ar": ""
+    },
+    {
+      "en": "Business Center",
+      "ar": ""
+    },
+    {
+      "en": "Holiday Home",
+      "ar": ""
+    },
+    {
+      "en": "Kiosk",
+      "ar": ""
+    },
+    {
+      "en": "Office",
+      "ar": ""
+    },
+    {
+      "en": "Outdoor Area",
+      "ar": ""
+    },
+    {
+      "en": "Retail",
+      "ar": ""
+    },
+    {
+      "en": "School",
+      "ar": ""
+    },
+    {
+      "en": "Warehouse",
+      "ar": ""
+    },
+    {
+      "en": "Pent House",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/default-video-library/project-video---jumeirah-islands.mp4?sfvrsn=f72cc62f_1",
+  "views": [
+    {
+      "en": "Lake View",
+      "ar": ""
+    }
+  ],
+  "projectID": "jumeirah-islands",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

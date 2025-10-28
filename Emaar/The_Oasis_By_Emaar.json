@@ -1,0 +1,285 @@
+{
+  "projectName": {
+    "en": "The Oasis By Emaar",
+    "ar": ""
+  },
+  "projectID": "the-oasis-by-emaar",
+  "country": {
+    "en": "United Arab Emirates",
+    "ar": ""
+  },
+  "city": {
+    "en": "Dubai",
+    "ar": ""
+  },
+  "description": {
+    "en": "Discover unparalleled luxury living at The Oasis by Emaar, an exclusive sanctuary nestled amidst lush greenery and tranquil waterways. Our meticulously crafted residences, including mansions and villas, are designed by world-renowned architects and adorned with interiors by acclaimed designers. Enjoy seamless indoor-outdoor living, complemented by an abundance of world-class amenities. The Oasis by Emaar is more than just refined waterfront living; it's the epitome of elegance and comfort, with every moment a celebration of life. Enjoy the luxury of personalised services that cater to your every need, making every day an occasion for indulgence and relaxation. Unwind in style amidst meticulously crafted interiors that inspire and invigorate. Your journey to unparalleled sophistication begins now at Emaar's The Oasis. Welcome home to a lifestyle of effortless luxury and timeless charm.",
+    "ar": ""
+  },
+  "3D_TourLink": "https://properties.emaar.com/en/communities-vr-tour/?community=THE OASIS",
+  "amenities": [
+    {
+      "name": {
+        "en": "Community Parks",
+        "ar": ""
+      },
+      "description": {
+        "en": "Enjoy beautifully landscaped parks within the community, providing residents with serene spaces to relax and unwind.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Jogging Track",
+        "ar": ""
+      },
+      "description": {
+        "en": "Stay active with dedicated jogging tracks, perfect for morning runs or leisurely strolls amidst picturesque surroundings.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Local Mosques",
+        "ar": ""
+      },
+      "description": {
+        "en": "Convenient access to local mosques ensures residents can fulfil their spiritual needs within the community.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Beaches",
+        "ar": ""
+      },
+      "description": {
+        "en": "Access to pristine beaches allows residents to enjoy the sun, sand, and sea, enhancing the leisure opportunities within The Oasis.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Central Location",
+        "ar": ""
+      },
+      "description": {
+        "en": "Situated in a central location, The Oasis provides easy access to key destinations, ensuring residents can explore Dubai’s vibrant offerings with ease.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "World Class Health Facilities",
+        "ar": ""
+      },
+      "description": {
+        "en": "Access to world-class health facilities ensures residents have access to top-notch medical care within proximity.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "54 km Bicycle Route",
+        "ar": ""
+      },
+      "description": {
+        "en": "Cycling enthusiasts can explore the community and beyond with a dedicated 54 km bicycle route, promoting an active and healthy lifestyle.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Ample Parking Options",
+        "ar": ""
+      },
+      "description": {
+        "en": "Ample parking options within the community ensure residents and guests can park their vehicles conveniently.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Huge Range of Sporting Facilities",
+        "ar": ""
+      },
+      "description": {
+        "en": "Enjoy a wide range of sporting facilities within the community, catering to residents’ diverse interests and promoting an active lifestyle.",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "4 International Golf Courses",
+        "ar": ""
+      },
+      "description": {
+        "en": "In Close Proximity",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "en": "100 million sq ft",
+    "ar": ""
+  },
+  "bedrooms": [
+    4,
+    5
+  ],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": null,
+  "contact": {
+    "phone": null,
+    "whatsapp": "https://wa.link/u9ik8p"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_1620-x-832-1620x832.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/08/PALMIERA_HERO_3-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/04/HERO_1620X832_1-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/05/HERO_1620X832_1-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/08/HERO_1620X832_2-2-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2024/09/HERO_1620X832_1-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_3-706x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/03/HERO_1620X832_1-6-706x385.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/OASIS_1620-x-832-1620x832.jpg",
+  "latitude": 24.896797,
+  "launchDate": null,
+  "location": {
+    "en": "The Oasis is strategically located with easy access to key destinations such as Burj Khalifa, Downtown Dubai, Dubai International Airport, Sheikh Zayed Road, and The Dubai Mall.",
+    "ar": ""
+  },
+  "longitude": 55.457805,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Al Maktoum International Airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "18 Minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 24.896797,
+        "lon": 55.457805
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Hills Estate, Dubai Hills Mall & Dubai Hills Golf Course",
+        "ar": ""
+      },
+      "distance": {
+        "en": "20 Minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping & Leisure",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.07474,
+        "lon": 55.26388
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Marina & Dubai Marina Mall",
+        "ar": ""
+      },
+      "distance": {
+        "en": "28 Minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping & Leisure",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.07545,
+        "lon": 55.13847
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai & Dubai Mall",
+        "ar": ""
+      },
+      "distance": {
+        "en": "35 Minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping & Leisure",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1972,
+        "lon": 55.2794
+      }
+    }
+  ],
+  "maxAreaSqft": 8260,
+  "maxAreaSqmt": 767.39898,
+  "maxPriceAED": 0,
+  "minAreaSqft": 7940,
+  "minAreaSqmt": 737.66512,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://properties.emaar.com/en/our-communities/the-oasis/",
+  "projectStatus": {
+    "en": "Under Development",
+    "ar": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    },
+    {
+      "en": "Mansions",
+      "ar": ""
+    },
+    {
+      "en": "Townhouses",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [],
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

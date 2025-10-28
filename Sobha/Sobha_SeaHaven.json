@@ -1,0 +1,239 @@
+{
+  "slug": "sobha-seahaven",
+  "id": "sobha-sobha-seahaven",
+  "projectName": {
+    "ar": "صبحة سيهافن",
+    "en": "Sobha SeaHaven"
+  },
+  "country": {
+    "ar": "الإمارات",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "صبحة سي هيفن وجهة فاخرة تطل على البحر في ميناء دبي، وتضم شققًا فائقة الفخامة بغرفة نوم واحدة إلى أربع غرف نوم. بفضل المرافق الحصرية والمناظر الطبيعية الخضراء المورقة، تعد ملاذًا للفخامة والسكينة والجمال. يقع صبحة سي هيفن في قلب بوابة بحرية، مما يسهل الرسو وتجربة الوجهات الأكثر تميزًا. يوفر إطلالات خلابة على معالم دبي المحبوبة، بما في ذلك عين دبي، نخلة جميرا، ميناء دبي، أفق المارينا، وبرج العرب.",
+    "en": "Sobha SeaHaven is a premium sea-facing destination at Dubai Harbour with ultra-luxury 1–4-bedroom apartments. With exclusive amenities and lush landscaping, it is a retreat of luxury, peace, and beauty. Sobha SeaHaven is situated at the hub of a maritime gateway, making it easier to drop anchor and experience the most exclusive destinations. It offers stunning views of Dubai's beloved landmarks, including Ain Dubai, Palm Jumeirah, Dubai Harbour, Marina Skyline, and Burj Al Arab."
+  },
+  "3D_TourLink": "https://seahaven.sobharealty.com/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح ترفيهي لا متناهي يطل على الميناء",
+        "en": "infinity leisure pool overlooking the harbour"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مساحة تجزئة",
+        "en": "RETAIL SPACE"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مرسى ويخت",
+        "en": "Marina & Yacht"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "نادي صحي مع ساونا وبخار",
+        "en": "Health club with Sauna & steam"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مقهى مع منطقة لتناول الطعام",
+        "en": "Café with Dining area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة ألعاب رياضية داخلية وخارجية",
+        "en": "INDOOR & OUTDOOR GYM"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة يوغا",
+        "en": "YOGA ZONE"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "غرفة ألعاب داخلية",
+        "en": "Indoor Game Room"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة عائلية مع منطقة للشواء",
+        "en": "Family Zone with barbecue area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منصة المسبح وأسرّة التشمس",
+        "en": "Pool Deck & Day Beds"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "سينما داخلية وخارجية",
+        "en": "Indoor & outdoor Cinema"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "ميناء دبي",
+    "en": "Dubai Harbour"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/seahaven-opp-doc.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": "December 2026",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327.jpg.webp?itok=3c4f981W",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_2.jpg.webp?itok=8jkuf3dB",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015316.jpg.webp?itok=dK7G8HnG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_2.jpg.webp?itok=IjVPFIjA",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_1.jpg.webp?itok=Dvd62mDE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310.jpg.webp?itok=Q7jDNUm4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312.jpg.webp?itok=XQCUp5B5",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314.jpg.webp?itok=-k_8Vz59"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Sobha%20Seaheaven.jpg.webp?itok=ndbfrUWS",
+  "latitude": 25.0888,
+  "launchDate": "December 5, 2022",
+  "location": {
+    "ar": "دبي هاربر",
+    "en": "Dubai Harbour"
+  },
+  "longitude": 55.1408,
+  "mapDescription": {
+    "ar": "",
+    "en": "Sobha SeaHaven is a premium sea-facing destination at Dubai Harbour, offering ultra-luxury 1–4-bedroom apartments with panoramic views of the Arabian Gulf, Palm Jumeirah, Ain Dubai, and Burj Al Arab. It is located near Dubai International Marine Club."
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 2458.05,
+  "maxAreaSqmt": 228.36,
+  "maxPriceAED": 158590000,
+  "minAreaSqft": 860.68,
+  "minAreaSqmt": 79.96,
+  "minPriceAED": 4600000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "80% during construction, 20% on handover (20% down payment)"
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/sobha-seahaven/",
+  "projectStatus": {
+    "ar": "",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=F0S12T4k_XQ",
+  "views": [
+    {
+      "en": "Palm Jumeirah",
+      "ar": "نخلة جميرا"
+    },
+    {
+      "en": "Dubai Harbour",
+      "ar": "ميناء دبي"
+    },
+    {
+      "en": "Marina Skyline",
+      "ar": "أفق المارينا"
+    },
+    {
+      "en": "Ain Dubai",
+      "ar": "عين دبي"
+    },
+    {
+      "en": "Burj Al Arab",
+      "ar": "برج العرب"
+    }
+  ],
+  "projectID": "sobha-sobha-seahaven",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

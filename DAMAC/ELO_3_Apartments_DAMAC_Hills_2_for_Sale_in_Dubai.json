@@ -1,0 +1,750 @@
+{
+  "slug": "elo-3",
+  "id": "damac-elo-3",
+  "projectName": {
+    "ar": "شقق إيلو 3 داماك هيلز 2 للبيع في دبي",
+    "en": "ELO 3 Apartments DAMAC Hills 2 for Sale in Dubai"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "إيلو 3 استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة",
+    "en": "ELO 3 offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE. These luxurious off-plan projects in Dubai promise high returns, with flexible and easy payment plans."
+  },
+  "3D_TourLink": "Not found in snippets",
+  "amenities": [
+    {
+      "name": {
+        "ar": "حمامات السباحة",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حوض سباحة للأطفال",
+        "en": "Kids Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "المسبح اللامتناهي",
+        "en": "Infinity Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "بار بجانب المسبح",
+        "en": "Poolside Bar"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "بار بجانب المسبح",
+        "en": "Swim-up Bar"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مراكز اللياقة البدنية",
+        "en": "Fitness Centers"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مناطق لعب الأطفال",
+        "en": "Children's Play Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة لعب الأطفال",
+        "en": "Children's Play Zone"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حدائق مُنسَّقة",
+        "en": "Landscaped Gardens"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "المساحات الخضراء",
+        "en": "Green Spaces"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منتزهات",
+        "en": "Parklands"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مسرح في الهواء الطلق",
+        "en": "Outdoor Theatre"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "سينما في الهواء الطلق",
+        "en": "Outdoor Cinema"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "جدار التسلق",
+        "en": "Climbing Wall"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة الشواء",
+        "en": "BBQ Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مرافق الشواء",
+        "en": "BBQ Facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مطاعم",
+        "en": "Restaurants"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منافذ البيع بالتجزئة",
+        "en": "Retail Outlets"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "أمن على مدار الساعة طوال أيام الأسبوع",
+        "en": "24/7 Security"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "نظام المنزل الذكي",
+        "en": "Smart Home System"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "ملاعب رياضية (تنس، باديل، كرة طائرة، كرة قدم)",
+        "en": "Sports Courts (Tennis, Padel, Volleyball, Football)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مزارع المداعبة",
+        "en": "Petting Farms"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مدينة الماء (شاطئ ماليبو، مسبح الأمواج، منطقة الرذاذ، الزلاقات المائية، النهر الكسول)",
+        "en": "Water Town (Malibu Beach, Wave Pool, Splash Pad, Water Slides, Lazy River)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "بحيرة الصيد",
+        "en": "Fishing Lake"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مسارات الجري",
+        "en": "Jogging Tracks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مسارات الدراجات",
+        "en": "Cycling Tracks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مناطق اليوغا والتأمل",
+        "en": "Yoga and Meditation Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "قاعة الولائم",
+        "en": "Banquet Hall"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "موقف سيارات مغطى",
+        "en": "Covered Parking Space"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "داماك هيلز 2",
+    "en": "DAMAC Hills 2"
+  },
+  "bedrooms": [
+    "1 Bedroom",
+    "2 Bedrooms"
+  ],
+  "brand": {
+    "en": "DAMAC Properties",
+    "ar": "داماك العقارية"
+  },
+  "brochurePdfLink": "https://www.scribd.com/document/671048600/D2-ELO-3-Brochure-Final",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Q3 2027 (August 2027)",
+  "galleryImages": [],
+  "goldenVisaEligible": false,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/05cwlAz28n5EGdTz2YUlq/37d5f6f80f6c8ec51ce0c1f7cf17916d/653x685-AR__6_.jpg",
+  "latitude": 24.98758,
+  "launchDate": "September 1, 2024",
+  "location": {
+    "ar": "داماك هيلز 2، دبي",
+    "en": "DAMAC Hills 2, Dubai"
+  },
+  "longitude": 55.38479,
+  "mapDescription": {
+    "ar": "يقع مشروع إيلو 3 في داماك هيلز 2، دبي (مدينة هند 4). يتمتع المجمع باتصال جيد عبر أربعة طرق سريعة رئيسية تشمل طريق القدرة (D63)، وطريق جبل علي - لهباب (E77)، والطريق E66 (طريق العين - دبي السريع)، وشارع حصة، مما يضمن سهولة الوصول إلى المناطق الرئيسية في دبي والإمارات المجاورة.",
+    "en": "ELO 3 is located in Damac Hills 2, Dubai (Madinat Hind 4). The community is well-connected via four major highways including Al Qudra Road (D63), Jebel Ali – Lehbab Road (E77), E66 (Al Ain - Dubai Hwy), and Hessa Street, ensuring easy access to key areas of Dubai and surrounding Emirates."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Al Maktoum International Airport (30 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Airport (35 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Mall of the Emirates (35 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Palm Jumeirah (35 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Burj Al Arab (35 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Mall (40 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Burj Khalifa (40 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Supermarket (3 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Saudi German Clinic (5 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Aster Medical Centre (15 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Outlet Mall (15-23 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Global Village (24-25 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Al Qudra Lake & Desert (25-27 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "First Avenue Mall (15 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Trump International Golf Club (25 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Cityland Mall (20 mins)",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Camel Racing Club",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Miracle Garden",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Arabian Ranches",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Nad Al Sheba Palace",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Al Sahra Resort",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "The Desert Ranch",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Hamdan",
+        "ar": ""
+      },
+      "category": {
+        "ar": "",
+        "en": ""
+      },
+      "distance": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 1084,
+  "maxAreaSqmt": 100.71,
+  "maxPriceAED": 1500000,
+  "minAreaSqft": 525,
+  "minAreaSqmt": 48.77,
+  "minPriceAED": 580000,
+  "paymentPlan": {
+    "ar": "خطط سداد مرنة وميسرة",
+    "en": "Flexible and Easy Payment Plans"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/elo-3/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "views": [
+    {
+      "en": "Panoramic views of picturesque parklands",
+      "ar": "مناظر بانورامية للمتنزهات الخلابة"
+    },
+    {
+      "en": "Green landscapes",
+      "ar": "المناظر الطبيعية الخضراء"
+    },
+    {
+      "en": "Cityscape views",
+      "ar": "مناظر المدينة"
+    }
+  ],
+  "summary": {
+    "en": "ELO 3 in DAMAC Hills 2 offers a unique investment opportunity in luxurious off-plan apartments. With flexible payment plans and eligibility for a UAE residency visa, it's designed for high returns and a modern lifestyle in a vibrant community.",
+    "ar": "يقدم إيلو 3 في داماك هيلز 2 فرصة استثمارية فريدة في شقق فاخرة قيد الإنشاء. مع خطط سداد مرنة وأهلية للحصول على تأشيرة إقامة في الإمارات، تم تصميمه لتحقيق عوائد عالية وأسلوب حياة عصري في مجتمع نابض بالحياة."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "ELO 3: Invest in Luxury, Live in DAMAC Hills 2",
+      "subtitle": "Off-Plan Apartments with High Returns & Residency Visa"
+    },
+    "ar": {
+      "title": "إيلو 3: استثمر في الرفاهية، عش في داماك هيلز 2",
+      "subtitle": "شقق قيد الإنشاء بعوائد عالية وتأشيرة إقامة"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Luxurious off-plan apartments in the vibrant DAMAC Hills 2 community.",
+      "ar": "شقق فاخرة قيد الإنشاء في مجتمع داماك هيلز 2 النابض بالحياة."
+    },
+    {
+      "en": "Flexible and easy payment plans, making investment accessible.",
+      "ar": "خطط سداد مرنة وميسرة، مما يجعل الاستثمار متاحًا."
+    },
+    {
+      "en": "Eligibility for UAE residency visa with real estate investment.",
+      "ar": "أهلية الحصول على تأشيرة إقامة في الإمارات العربية المتحدة مع الاستثمار العقاري."
+    }
+  ],
+  "insights": {
+    "en": "ELO 3 offers a compelling investment in Dubai's growing real estate market, particularly for international investors seeking high-yield off-plan properties with the added benefit of a UAE residency visa. Its location in DAMAC Hills 2 ensures a family-friendly environment with modern amenities and strong potential for capital appreciation.",
+    "ar": "يقدم إيلو 3 استثمارًا جذابًا في سوق العقارات المتنامي في دبي، خاصة للمستثمرين الدوليين الذين يبحثون عن عقارات قيد الإنشاء ذات عائد مرتفع مع ميزة إضافية تتمثل في تأشيرة إقامة في الإمارات. يضمن موقعه في داماك هيلز 2 بيئة مناسبة للعائلات مع وسائل راحة حديثة وإمكانات قوية لتقدير رأس المال."
+  },
+  "projectID": "damac-elo-3",
+  "projectCategory": "Community"
+}

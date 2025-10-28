@@ -1,0 +1,181 @@
+{
+  "projectName": {
+    "en": "Bayview by Address Resorts at Emaar Beachfront",
+    "ar": ""
+  },
+  "projectID": "bayview-by-address-resorts",
+  "country": {
+    "en": "United Arab Emirates",
+    "ar": ""
+  },
+  "city": {
+    "en": "Dubai",
+    "ar": ""
+  },
+  "description": {
+    "en": "Discover Bayview by Address Resorts at Emaar Beachfront, and experience the panoramic views, luxury interiors, and amenities. Visit us online for more info. Ethereal waves adorn stylishly crafted façades reflecting the Arabian Gulf’s rippling waters. A luxury vocabulary inspired by the splendour and glamour of Dubai, translated in the smallest details, inside and out. Exquisite facilities inspired by Emaar’s mastery of fine living in branded apartments and penthouses, luxuriously furnished and tailored to your needs. Bayview by Address Resort at Emaar Beachfront carries the future in its details and promises a life that will fulfil your dreams of luxurious living by the sea and unparalleled modern opulence; a one-of-a-kind opportunity to celebrate the Dubai Life in the city’s most exclusive coastal development. Penthouses are the crowning achievements of richly rewarding lives. Placed at the very top of the gracefully designed towers, you will find the highest heights of Emaar Beachfront’s lifestyle. The Bayview by Address Resorts 5-bedroom penthouses are the epitome of premier sky-rise living, a canvas of dazzling opulence on the Arabian Gulf's horizon. Four unique penthouse residences defy all expectations with 360-degree views and the design of contemporary beach estates. The finest interiors and materials blend flawlessly with elegant design, to create a haven for ultimate luxury in the ultimate destination.",
+    "ar": ""
+  },
+  "3D_TourLink": null,
+  "amenities": [
+    {
+      "name": {
+        "en": "Infinity Pool",
+        "ar": ""
+      },
+      "description": {
+        "en": "Infinity Pool",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Wet Deck",
+        "ar": ""
+      },
+      "description": {
+        "en": "Wet Deck",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Shaded Pool Deck",
+        "ar": ""
+      },
+      "description": {
+        "en": "Shaded Pool Deck",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Sun Loungers",
+        "ar": ""
+      },
+      "description": {
+        "en": "Sun Loungers",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Shaded Kids’ Pool Area & Play Area",
+        "ar": ""
+      },
+      "description": {
+        "en": "Shaded Kids’ Pool Area & Play Area",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Raised Lawn",
+        "ar": ""
+      },
+      "description": {
+        "en": "Raised Lawn",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Shaded Communal Areas",
+        "ar": ""
+      },
+      "description": {
+        "en": "Shaded Communal Areas",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BBQ Pods",
+        "ar": ""
+      },
+      "description": {
+        "en": "BBQ Pods",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Ground-Level Boutiques & Cafes",
+        "ar": ""
+      },
+      "description": {
+        "en": "Ground-Level Boutiques & Cafes",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Landscaped Garden",
+        "ar": ""
+      },
+      "description": {
+        "en": "Landscaped Garden",
+        "ar": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": "https://properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_BROCHURE.pdf",
+  "contact": {
+    "phone": null,
+    "whatsapp": "https://wa.link/u9ik8p"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_1-1620x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_3.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_4.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/BAYVIEW_HERO_5.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/PRO_EXT_2-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/PRO_EXT_2-670x500.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/PRO_EXT_3-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/PRO_EXT_3-670x500.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/PRO_EXT_4-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/06/PRO_EXT_4-670x500.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "",
+  "latitude": null,
+  "longitude": null,
+  "location": {
+    "ar": "",
+    "en": ""
+  },
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "minPriceAED": null,
+  "projectPageLink": "",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [],
+  "views": [],
+  "projectCategory": "Project",
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "projectName": {
+    "en": "Baystar by Vida",
+    "ar": ""
+  },
+  "projectID": "baystar-by-vida-at-rashid-yachts-marina",
+  "country": {
+    "en": "United Arab Emirates",
+    "ar": ""
+  },
+  "city": {
+    "en": "Dubai",
+    "ar": ""
+  },
+  "description": {
+    "en": "Discover a home where the city’s pulse softens into the sea’s embrace. Baystar by Vida is a testament to branded marina-living that takes on a lyrical quality. Reflecting VIDA’s signature ethos—Baystar is an upscale, playful luxury abode that balances modern sophistication with a calm, soothing ambience. A sanctuary where dreams anchor, horizons become your canvas, and the soul of the sea lives at your doorstep. Baystar by Vida offers 1–4 bedroom waterfront apartments homes at Rashid Yachts & Marina with stunning views and VIDA’s signature lifestyle. Where elegant seafront living meets modern comfort.",
+    "ar": ""
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Infinity Pool",
+        "ar": ""
+      },
+      "description": {
+        "en": "Infinity Pool with Spectacular views of the Marina",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Gym Facilities",
+        "ar": ""
+      },
+      "description": {
+        "en": "Exclusive Gym Facilities",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Kids’ Play Areas",
+        "ar": ""
+      },
+      "description": {
+        "en": "Vibrant Kids’ Play Areas",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Landscaped Gardens",
+        "ar": ""
+      },
+      "description": {
+        "en": "Expansive Landscaped Gardens",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Multipurpose Rooms",
+        "ar": ""
+      },
+      "description": {
+        "en": "Versatile Multipurpose Rooms",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Retail Outlets",
+        "ar": ""
+      },
+      "description": {
+        "en": "Elegant Retail Outlets",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Yacht berths",
+        "ar": ""
+      },
+      "description": {
+        "en": "400 Wet Berths",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "District Parks",
+        "ar": ""
+      },
+      "description": {
+        "en": "6 Interconnected District Parks",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Floating Yacht Club",
+        "ar": ""
+      },
+      "description": {
+        "en": "Floating Yacht Club Hospitality on the Water",
+        "ar": ""
+      }
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": "https://properties.emaar.com/wp-content/uploads/2025/07/BAYSTAR-BY-VIDA_RYM_BROCHURE-1.pdf",
+  "contact": {
+    "phone": "N/A",
+    "whatsapp": "https://wa.link/u9ik8p"
+  },
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/HERO_1620X832_1-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/HERO_1620X832_2-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/HERO_1620X832_3-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/PRO_EXT_1-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/PRO_EXT_2-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/PRO_INT_1-2-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/PRO_INT_2-1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/PRO_INT_3-1-1024x740.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/07/HERO_1620X832_1-2.jpg",
+  "latitude": 25.2703875,
+  "location": {
+    "en": "Rashid Yachts & Marina",
+    "ar": ""
+  },
+  "longitude": 55.2877656,
+  "mapDescription": {
+    "en": "Baystar by Vida rises along Dubai’s shoreline with bold elegance and signature VIDA flair. Where the city meets the marina, green spaces, boutique retail, and striking architecture create a vibrant new rhythm of seafront living—crafted for tomorrow’s dreamers. Welcome to Rashid Yachts & Marina — a visionary haven along the Arabian Gulf, where daring design meets azure horizons. Sweeping marina vistas unfold alongside a promenade lined with curated retail and dining destinations, whilst yachts gently berth at your doorstep, moments become a celebration of opulent waterfront living. Every residence is brought to life with intricate detail and striking expression, offering a marina living experience beyond the ordinary. Rashid Yachts & Marina redefines Dubai’s seafront coastal legacy — a realm of fearless ambition and infinite discovery.",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Qe2 Hotel",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "Hotel",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.2621669,
+        "lon": 55.2810185
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "City Area",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1954375,
+        "lon": 55.2781875
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai Mall",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.1967091,
+        "lon": 55.2795961
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "N/A",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.2483125,
+        "lon": 55.3539219
+      }
+    }
+  ],
+  "minPriceAED": 2100000,
+  "projectPageLink": "https://properties.emaar.com/en/properties/baystar-by-vida-at-rashid-yachts-marina/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    },
+    {
+      "en": "Homes",
+      "ar": ""
+    }
+  ],
+  "views": [
+    {
+      "en": "Marina views",
+      "ar": ""
+    },
+    {
+      "en": "Sea views",
+      "ar": ""
+    },
+    {
+      "en": "Burj Khalifa views",
+      "ar": ""
+    }
+  ],
+  "projectCategory": "Project",
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  }
+}

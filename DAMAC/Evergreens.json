@@ -1,0 +1,351 @@
+{
+  "slug": "evergreens",
+  "id": "damac-evergreens",
+  "projectName": {
+    "ar": "إيفرغرينز",
+    "en": "Evergreens"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "إيفرغرينز استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة",
+    "en": "Evergreens offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE. These luxurious off-plan projects in Dubai promise high returns, with flexible and easy payment plans."
+  },
+  "3D_TourLink": "No 3D tour link available in search results.",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Landscaped Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gymnasium"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Retail Facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Children's Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Malibu Beach (artificial beach)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Wave Surfing Simulator / Wave pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Outdoor Cinema"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants / Dining Outlets"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Poolside Cabanas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swim-up Pool Bar"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Climbing Wall"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Spa and Sauna"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "BBQ Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids' Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Water Park / Water Town attractions (including splash pad, slippery slides, lazy river)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dance Studio"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Multi-sports amenities (Tennis, Padel, Volleyball, Football courts)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fishing Lake"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Golf courses (within Damac Hills 2 community)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Seating areas and Sun loungers"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Ample Parking"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "24/7 Security"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Smart Home System"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "داماك هيلز 2",
+    "en": "DAMAC Hills 2"
+  },
+  "bedrooms": "1 and 2-bedroom apartments",
+  "brand": {
+    "en": "DAMAC Properties",
+    "ar": "داماك العقارية"
+  },
+  "brochurePdfLink": "https://prod-cdn.damacproperties.com/uploads/brochure/d2-evergreens-v2-en.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Q4 2026 (December 2026)",
+  "galleryImages": "Image names/placeholders mentioned, but no direct URLs available in search results.",
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/2NFLwkvZi9w04y7Uc13ud7/3d55b8084862312f08b4095926759f8e/44_Evergreens_-_AR.jpg",
+  "latitude": 24.991407,
+  "launchDate": "July 3, 2024",
+  "location": {
+    "ar": "داماك هيلز 2، دبي",
+    "en": "DAMAC Hills 2, Dubai"
+  },
+  "longitude": 55.384879,
+  "mapDescription": {
+    "ar": "",
+    "en": "Evergreens is located in Damac Hills 2, Dubai, overlooking parklands. It offers easy access to major highways like Al Qudra Road, connecting residents to key city destinations and is positioned close to the community entrance."
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 917,
+  "maxAreaSqmt": 85.19,
+  "maxPriceAED": 1400000,
+  "minAreaSqft": 541,
+  "minAreaSqmt": 50.26,
+  "minPriceAED": 550000,
+  "paymentPlan": {
+    "ar": "خطط سداد مرنة وميسرة",
+    "en": "Flexible and Easy Payment Plans"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/evergreens/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "No direct video links available in search results.",
+  "views": "Stunning views of lush parklands and the community from private balconies",
+  "summary": {
+    "en": "Evergreens in DAMAC Hills 2 offers a unique investment opportunity in luxurious off-plan apartments. With flexible payment plans and eligibility for a UAE residency visa, it's designed for high returns and a modern lifestyle in a vibrant community.",
+    "ar": "يقدم إيفرغرينز في داماك هيلز 2 فرصة استثمارية فريدة في شقق فاخرة قيد الإنشاء. مع خطط سداد مرنة وأهلية للحصول على تأشيرة إقامة في الإمارات، تم تصميمه لتحقيق عوائد عالية وأسلوب حياة عصري في مجتمع نابض بالحياة."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Evergreens: Invest in Luxury, Live in DAMAC Hills 2",
+      "subtitle": "Off-Plan Apartments with High Returns & Residency Visa"
+    },
+    "ar": {
+      "title": "إيفرغرينز: استثمر في الرفاهية، عش في داماك هيلز 2",
+      "subtitle": "شقق قيد الإنشاء بعوائد عالية وتأشيرة إقامة"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Luxurious off-plan apartments in the vibrant DAMAC Hills 2 community.",
+      "ar": "شقق فاخرة قيد الإنشاء في مجتمع داماك هيلز 2 النابض بالحياة."
+    },
+    {
+      "en": "Flexible and easy payment plans, making investment accessible.",
+      "ar": "خطط سداد مرنة وميسرة، مما يجعل الاستثمار متاحًا."
+    },
+    {
+      "en": "Eligibility for UAE residency visa with real estate investment.",
+      "ar": "أهلية الحصول على تأشيرة إقامة في الإمارات العربية المتحدة مع الاستثمار العقاري."
+    }
+  ],
+  "insights": {
+    "en": "Evergreens offers a compelling investment in Dubai's growing real estate market, particularly for international investors seeking high-yield off-plan properties with the added benefit of a UAE residency visa. Its location in DAMAC Hills 2 ensures a family-friendly environment with modern amenities and strong potential for capital appreciation.",
+    "ar": "يقدم إيفرغرينز استثمارًا جذابًا في سوق العقارات المتنامي في دبي، خاصة للمستثمرين الدوليين الذين يبحثون عن عقارات قيد الإنشاء ذات عائد مرتفع مع ميزة إضافية تتمثل في تأشيرة إقامة في الإمارات. يضمن موقعه في داماك هيلز 2 بيئة مناسبة للعائلات مع وسائل راحة حديثة وإمكانات قوية لتقدير رأس المال."
+  },
+  "projectID": "damac-evergreens",
+  "projectCategory": "Building"
+}

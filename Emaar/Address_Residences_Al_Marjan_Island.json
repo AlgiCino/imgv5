@@ -1,0 +1,248 @@
+{
+  "projectName": {
+    "ar": "عنوان ريزيدنسز جزيرة المرجان",
+    "en": "Address Residences Al Marjan Island"
+  },
+  "projectID": "address-marjan-377409",
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "رأس الخيمة",
+    "en": "Ras Al Khaimah"
+  },
+  "description": {
+    "ar": "اكتشف الحياة الفاخرة في عنوان ريزيدنسز في جزيرة المرجان، رأس الخيمة. استكشف العقارات الرائعة التي توفر الراحة والأناقة والإطلالات الخلابة. انغمس في أسلوب حياة مثالي على جزيرة محاطة بأفق الإمارات العربية المتحدة المهيب وبحر العرب الفيروزي. هنا، يُعاد تعريف الفخامة: ملاذ هادئ مع كل وسائل الراحة الحديثة على عتبة داركم. غروب الشمس المذهل والصباحات المليئة بالمناظر الخلابة للبحر والمناظر الطبيعية. شواطئ خاصة واسعة ومناظر طبيعية خضراء ومسابح لا متناهية تمتزج مع المياه. سيمفونية من وسائل الراحة الفاخرة لتستمتع بها. إنه مكان يتم فيه تنسيق كل لحظة لتقديم تجربة معيشية لا مثيل لها، حيث يجسد كل تفصيل وعدًا بحياة جيدة. جرب التوازن المثالي بين الفخامة الحديثة والجمال الهادئ في عنوان ريزيدنسز جزيرة المرجان، وهو ملاذ هادئ يقع في جزيرة فيو الخلابة في رأس الخيمة. استمتع بكل يوم مع إطلالات بحرية رائعة ومناظر طبيعية هادئة واسترخِ في المساء مع غروب الشمس المذهل. تتميز هذه الوجهة الفاخرة بشواطئ واسعة ومساحات خضراء نابضة بالحياة ومسابح لا متناهية مدهشة تمتزج مع المياه الزرقاء الصافية. استمتع بمجموعة من وسائل الراحة من الدرجة الأولى المصممة لراحتك ومتعتك. يعكس كل جانب من جوانب هذا المشروع التزامًا بأسلوب حياة من الرقي والأناقة.",
+    "en": "Discover luxury living at Address Residences in Al Marjan Island, Ras Al Khaimah. Explore exquisite properties offering comfort, elegance, and stunning views. Indulge in an idyllic lifestyle on an island surrounded by the majestic UAE skyline and the turquoise Arabian Sea. Here, the definition of luxury is reimagined: a peaceful haven with every modern amenity at your doorstep. Spectacular sunsets and mornings filled with breathtaking views of the sea and landscapes. Expansive private beaches, verdant landscaping, and infinity pools that blend with the water. A Symphony of luxury amenities for you to enjoy. It’s a place where every moment is curated to offer an unparalleled living experience, where every detail embodies the promise of a life well-lived. Experience the perfect balance of modern luxury and serene beauty at Address Residences Al Marjan Island, a peaceful retreat located on the picturesque View Island in Ras Al Khaimah. Embrace each day with magnificent sea views and tranquil landscapes and relax in the evenings with stunning sunsets. This luxurious destination features wide beaches, vibrant green spaces, and striking infinity pools that merge with the clear blue waters. Enjoy a range of top-tier amenities crafted for your comfort and enjoyment. Every aspect of Address Al Each element of this development reflects a commitment to a lifestyle of sophistication and refinement."
+  },
+  "3D_TourLink": null,
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح إنفينيتي سكني",
+        "en": "Residential Infinity Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "ممشى على الشاطئ",
+        "en": "Beach Promenade"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة لعب للأطفال",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية حديثة",
+        "en": "State-of-the-Art Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "ملعب تنس البادل",
+        "en": "Padel Tennis Court"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "كرة طائرة ورياضات مائية",
+        "en": "Volleyball and Water Sports"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مطاعم متخصصة",
+        "en": "Speciality Restaurants"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "منصة يوجا",
+        "en": "Yoga Deck"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "إجمالي مساحة الأرض 77,000 متر مربع",
+    "en": "77,000 Sqm Total Plot Area"
+  },
+  "bedrooms": [
+    2,
+    3
+  ],
+  "brand": "Address Hotels + Resorts",
+  "brochurePdfLink": "https://properties.emaar.com/wp-content/uploads/2023/11/ADH_RAK_AL_MARJAN_ISLAND_BROCHURE-1.pdf",
+  "contact": {
+    "phone": null,
+    "whatsapp": "https://wa.link/u9ik8p"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/ADH_RAK_HERO_D_1620x832-440x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/ADH_RAK_MAIN_PAGE_1620x832-440x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/ADH_RAK_FEATURES_A_1200x655-440x385.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/ADH_RAK_FEATURES_C_1200x655-440x385.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2023/11/ADH_RAK_HERO_E_1620x832.jpg",
+  "latitude": 25.6940055382,
+  "launchDate": null,
+  "location": {
+    "ar": "جزيرة المرجان، رأس الخيمة، الإمارات العربية المتحدة",
+    "en": "Al Marjan Island, Ras Al Khaimah, United Arab Emirates"
+  },
+  "longitude": 55.7360652712,
+  "mapDescription": {
+    "ar": "يقع عنوان المرجان في MPVP+JC الجزيرة الحمراء - رأس الخيمة - الإمارات العربية المتحدة.",
+    "en": "Address Marjan is located at MPVP+JC Al Jazirah Al Hamra - Ras al Khaimah - United Arab Emirates."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": "مطار دبي الدولي"
+      },
+      "distance": "",
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.2568455158,
+        "lon": 55.3641273423
+      }
+    },
+    {
+      "name": {
+        "en": "Ras Al Khaimah International Airport",
+        "ar": "مطار رأس الخيمة الدولي"
+      },
+      "distance": "",
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.6165155117,
+        "lon": 55.9419479958
+      }
+    },
+    {
+      "name": {
+        "en": "Al Hamra Village",
+        "ar": "قرية الحمراء"
+      },
+      "distance": "",
+      "category": {
+        "en": "Village",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.6930286997,
+        "lon": 55.7828449621
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Ras Al Khaimah",
+        "ar": "وسط مدينة رأس الخيمة"
+      },
+      "distance": "",
+      "category": {
+        "en": "Downtown",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.8318385099,
+        "lon": 55.9289017881
+      }
+    }
+  ],
+  "maxAreaSqft": 2769,
+  "maxAreaSqmt": 257.25,
+  "maxPriceAED": 8707888,
+  "minAreaSqft": 1729,
+  "minAreaSqmt": 160.63,
+  "minPriceAED": 5671888,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://properties.emaar.com/en/properties/address-marjan/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    },
+    {
+      "en": "Townhouses",
+      "ar": "تاون هاوس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [
+    {
+      "en": "Arabian Sea",
+      "ar": "بحر العرب"
+    },
+    {
+      "en": "Al Marjan Island",
+      "ar": "جزيرة المرجان"
+    },
+    {
+      "en": "Urban Skyline",
+      "ar": "أفق المدينة"
+    },
+    {
+      "en": "Tranquil landscapes",
+      "ar": "مناظر طبيعية هادئة"
+    },
+    {
+      "en": "Sunsets",
+      "ar": "غروب الشمس"
+    }
+  ],
+  "projectCategory": "Community"
+}

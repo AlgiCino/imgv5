@@ -1,0 +1,144 @@
+{
+  "projectName": {
+    "en": "Aurea at Rashid Yachts & Marina",
+    "ar": ""
+  },
+  "projectID": "aurea-at-rashid-yachts-and-marina",
+  "country": {
+    "en": "United Arab Emirates",
+    "ar": ""
+  },
+  "city": {
+    "en": "Dubai",
+    "ar": ""
+  },
+  "description": {
+    "en": "Aurea at Rashid Yachts & Marina, elegant marinafront living with panoramic views, luxury amenities, and seamless waterfront lifestyle in Dubai. Rising gracefully along the thriving promenade of Rashid Yachts & Marina, Aurea is where you can experience chic Marina living. Savor seamless access to historic landmarks and contemporary amenities, where vibrant energy meets serene waterfront. Framed by sweeping marina vistas, Downtown Dubai’s skyline, and lush green parks, Aurea is surrounded by yacth berths, parks, curated dining, retail, and leisure experiences that transform everyday life into something extraordinary.",
+    "ar": ""
+  },
+  "amenities": [
+    {
+      "name": {
+        "en": "Infinity Edge Pool",
+        "ar": ""
+      },
+      "description": {
+        "en": "Infinity Edge Pool",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Exclusive Gym Facilities",
+        "ar": ""
+      },
+      "description": {
+        "en": "Exclusive Gym Facilities",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Vibrant Kids’ Play Areas",
+        "ar": ""
+      },
+      "description": {
+        "en": "Vibrant Kids’ Play Areas",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Expansive & Lush Amenities Podium",
+        "ar": ""
+      },
+      "description": {
+        "en": "Expansive & Lush Amenities Podium",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Versatile Multipurpose Rooms",
+        "ar": ""
+      },
+      "description": {
+        "en": "Versatile Multipurpose Rooms",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Elegant Retail Outlets",
+        "ar": ""
+      },
+      "description": {
+        "en": "Elegant Retail Outlets",
+        "ar": ""
+      }
+    }
+  ],
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": "https://properties.emaar.com/wp-content/uploads/2025/10/AUREA_RYM_BROCHURE-4.pdf",
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/HERO_1620X832_3-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/HERO_1620X832_2-1.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/HERO_1620X832_1-2.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/PRO_EXT_1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/PRO_EXT_2-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/PRO_EXT_3-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/PRO_INT_1-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/PRO_INT_2-1024x740.jpg",
+    "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/PRO_INT_3-1024x740.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2025/10/HERO_1620X832_3-2.jpg",
+  "latitude": 25.2732375,
+  "location": {
+    "en": "Rashid Yachts & Marina",
+    "ar": ""
+  },
+  "longitude": 55.2857969,
+  "minPriceAED": 2300000,
+  "projectPageLink": "https://properties.emaar.com/en/properties/aurea-at-rashid-yachts-and-marina/",
+  "projectStatus": {
+    "en": "Off-plan",
+    "ar": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "views": [
+    {
+      "en": "panoramic marina views",
+      "ar": ""
+    },
+    {
+      "en": "city views",
+      "ar": ""
+    }
+  ],
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "projectCategory": "Building",
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  }
+}

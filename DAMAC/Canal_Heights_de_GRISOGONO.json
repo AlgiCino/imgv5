@@ -1,0 +1,187 @@
+{
+  "slug": "canal-heights",
+  "id": "damac-canal-heights",
+  "projectName": {
+    "ar": "كانال هايتس دي جريسوغونو",
+    "en": "Canal Heights de GRISOGONO"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اكتشف وجهة تختبر فيها رفاهية العيش على الواجهة البحرية، صممت بإبداع علامة دي جريسوغونو العالمية وبإلهام من اللؤلؤ الأزرق. اختر بيت أحلامك من ضمن مجموعة من الشقق تتنوع بين وحدات استوديو وغرفة وغرفتي نوم. كما يأتيك كانال هايتس دي جريسوغونو بتجارب من وحي الطبيعة عبر طيف من المرافق التي تمنحك أجواء من السكينة والهدوء على مدار العام، وتتنوع بين مطعم فاخر ومسبح انفينيتي ومسبح على شكل صدفة بحرية. يتمتع هذا المشروع بموقعه على قناة دبي المائية ليشكّل جوهرة فريدة تقدم لك أسلوب الحياة الذي تتمناه من توازن وانسجام.",
+    "en": "Discover a destination where you can experience the luxury of waterfront living, creatively designed by the global brand de GRISOGONO and inspired by the blue pearl. Choose your dream home from a collection of apartments ranging from studios to one and two-bedroom units. Canal Heights de GRISOGONO also brings you nature-inspired experiences through a spectrum of facilities that provide a serene and calm atmosphere year-round, varying from a fine dining restaurant and an infinity pool to a shell-shaped swimming pool. This project enjoys its location on the Dubai Water Canal, forming a unique gem that offers you the balanced and harmonious lifestyle you desire."
+  },
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/67444e88ce8c642b77e9e5b2/67444f07ce8c642b77e9e6ef",
+  "amenities": [
+    {
+      "name": {
+        "ar": "متحف للآلئ",
+        "en": "Pearl Museum"
+      },
+      "description": {
+        "ar": "انطلق في رحلة عبر الزمن واكتشف عالم اللآلئ الساحر، تجربة فريدة تجمع بين ألق الماضي ومتعة المغامرة في أعماق المياه.",
+        "en": "Embark on a journey through time and discover the enchanting world of pearls, a unique experience combining the splendor of the past with the thrill of adventure in the depths of the water."
+      }
+    },
+    {
+      "name": {
+        "ar": "مطعم",
+        "en": "Restaurant"
+      },
+      "description": {
+        "ar": "تذوق ما لذ وطاب ودلل حواسك مع تجربة طعام راقية في مطعمنا الفاخر. اكتشف قائمة متنوعة من الأطباق والمأكولات واستمتع بأجوائنا الاستثنائية.",
+        "en": "Savor delicious food and treat your senses to a refined dining experience in our luxurious restaurant. Discover a diverse menu of dishes and cuisines and enjoy our exceptional ambiance."
+      }
+    },
+    {
+      "name": {
+        "ar": "مقهى على السطح",
+        "en": "Rooftop Cafe"
+      },
+      "description": {
+        "ar": "استمتع بالمشاهد البانورامية على المدينة وأنت تتذوق مأكولاتك ومشروباتك المفضلة في مقهى السطح. وجهة تجمع بين جمال المشهد ومتعة المذاق.",
+        "en": "Enjoy panoramic city views as you savor your favorite food and drinks at the rooftop cafe. A destination that combines scenic beauty with delicious taste."
+      }
+    },
+    {
+      "name": {
+        "ar": "حجرات مقببة لليوغا",
+        "en": "Yoga Domes"
+      },
+      "description": {
+        "ar": "عِش وسط أجواء تمنحك التوازن الداخلي لأيامك في الحجرات المقببة المصممة لممارسة اليوغا. مكان يقدم لك مساحة من الصفاء والسكينة للقيام بتمارينك بكل هدوء.",
+        "en": "Live amidst an atmosphere that brings inner balance to your days in the domed chambers designed for yoga practice. A place that offers you a space of serenity and tranquility to perform your exercises peacefully."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح",
+        "en": "Pool"
+      },
+      "description": {
+        "ar": "تجربة سباحة فريدة تنتظرك في المسبح الذي يتألق جمالاً بأرضيته الزاهية. هنا ستكتشف مفهوماً جديداً للانتعاش وسط أجواء تنبض بالحياة.",
+        "en": "A unique swimming experience awaits you in the pool that shines with its vibrant floor. Here you will discover a new concept of refreshment amidst a lively atmosphere."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح على شكل صدفة بحرية",
+        "en": "Shell-shaped Pool"
+      },
+      "description": {
+        "ar": "اكتشف روعة السباحة في المسبح المصمم على شكل صدفة بحرية، حيث تبحث عن اللآلئ المخبئة وتعيش مغامرة جديدة مع بداية كل يوم.",
+        "en": "Discover the joy of swimming in the shell-shaped pool, where you search for hidden pearls and embark on a new adventure every day."
+      }
+    }
+  ],
+  "area": {
+    "ar": "بزنس باي",
+    "en": "Business Bay"
+  },
+  "bedrooms": [
+    2,
+    3,
+    4
+  ],
+  "brand": "de GRISOGONO",
+  "brochurePdfLink": "https://downloads.ctfassets.net/zoq5l15g49wj/7qL5C7D33mhBUW9JtJ50AR/9a58ee88ce81e768a5d0fade50668a0a/ar-canal_heights_digital-brochure.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2027-06-30",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/2GOzI0AOKnmcwhKs2K2f8y/1eed0d33e257cc53b7fb355275223ed1/Canal_Heights-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3d3H8Ee2XrN1LeJicPmPKX/83b41c792fa2bcf3c790566f1caf4b8b/Canal_Heights-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6o3iLvnb92o0RXQkhsldRK/db3bd99b4dc76c73d8c48d46fa379ac5/Canal_Heights-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7sAwzvDhfn1HbGsopQQlJ4/7c3faaf3f72ee98612af9be6299333b5/Canal_Heights-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1RSjAyMGaH7QXuBTRQrNba/dc5cceacca3057cb047c0a63ea97f2c2/Canal_Heights-Gallery-04.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2oybUxViDyQHYBlNeo6tY9/01de46e8be98b2abdae1017d72ae7b19/Canal_Heights-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5wDMgPkZtxNF2nPGlD7cWH/b8489a6af98c8c42fe11c4b6632374c5/Canal_Heights-Gallery-06-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2oyuJovKSJK89UGPKtzfNE/538caf318671416026d0074df575f546/Canal_Heights-Gallery-07.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/28mk0oGpFr7ILNwI8VuxaW/250cf632166143a7cdd7d6009c7cffe8/Canal_Heights-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5Lrlj4njnCSn2HWqoDrPal/966681c04f87ffbb34c51f57ac43e2ae/Canal_Heights-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6DZXm0KwwqmmVXnWzr22UH/868d972f933ea711c29ad55b1c652909/Canal_Heights-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5fmOYLqTkwhptQ50fZMly3/ba458fd607c0afc042c16f70f0384f75/Canal_Heights-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/LyaYtcE4tdf9SVHyEynZy/1d4ea22f60e61a3440513f8366fa7e93/Canal_Heights-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5rtessG8DgSLcWgPF7RbMl/d9d93c1a5bf166b8298c9196d19a6a0a/Canal_Heights-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3Vy4jN5EOIxqFS8ylrkpmM/4718139b34aaab14d5da9c7bb5b28a38/Canal_Heights-Gallery-14.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/46cUjDRKmtxUPXv3O5zVl/5bb61e94d097f603f8d6d2d91a1138a6/Canal_Heights-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2jeIXbgYZXKjuiOsUV6WJu/6d62b33d5dbcbfb695e94eeb3c2b417c/Canal_Heights-Gallery-16-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1K4aVlVmyaXdJCcpQkGNz6/4815b2167bd0e62b59015bba21d0d0cc/Canal_Heights-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4WjNsWVfO9MCrcKtgdZlxE/2489f6b92870b2504006745df59312b5/Canal_Heights-Gallery-18.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3VkbkR33jbCjnhKneNXn7F/872cad678abcd72d6ab8f0232d980fe0/Homepage_Hero_16x9-1__13__1.webp",
+  "latitude": 25.183729,
+  "launchDate": "2023-03-31",
+  "location": {
+    "ar": "يقع كانال هايتس دي جريسوغونو في منطقة الخليج التجاري على أحد أطراف قناة دبي المائية. متصل بدبي وبالقرب من كل ما تحتاج إليه.",
+    "en": "Canal Heights de GRISOGONO is located in the Business Bay area on one of the banks of the Dubai Water Canal. Connected to Dubai and close to everything you need."
+  },
+  "longitude": 55.278555,
+  "mapDescription": {
+    "ar": "بالقرب من كل ما تحتاجه متصل بدبي",
+    "en": "Close to everything you need, connected to Dubai"
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 4382,
+  "maxAreaSqmt": 407.09,
+  "maxPriceAED": 17543000,
+  "minAreaSqft": 1333,
+  "minAreaSqmt": 123.83,
+  "minPriceAED": 3538000,
+  "paymentPlan": {
+    "ar": "١٪",
+    "en": "1%"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/canal-heights/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/3O6QxtDJbsqYQTKK2EbgFo/9c9269b75664f082d70ce77a0f29ad14/Compressed_CANAL_HEIGHTS_DP_website_Hero_video_16x9_73041162.mp4",
+  "views": [
+    {
+      "en": "Waterfront View",
+      "ar": "إطلالة على الواجهة البحرية"
+    },
+    {
+      "en": "City View",
+      "ar": "إطلالة على المدينة"
+    }
+  ],
+  "projectID": "damac-canal-heights",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

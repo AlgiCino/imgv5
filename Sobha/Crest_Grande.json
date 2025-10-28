@@ -1,0 +1,254 @@
+{
+  "slug": "crest-grande",
+  "id": "sobha-crest-grande",
+  "projectName": {
+    "ar": "كريست غراند",
+    "en": "Crest Grande"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استمتع بنمط حياة مستوحى من ميامي وسط صخب المدينة. يقدم مشروع كريست غراند من سوبها إطلالات خلابة على أفق دبي وبرج خليفة، ويوفر تجربة حياة جزيرة عالمية غامرة تحيط بها الممرات المائية الهادئة والطبيعة البكر.",
+    "en": "Live a Miami-inspired lifestyle with waterfront apartments at Sobha’s Crest Grande apartments. Enjoy a Miami-inspired way of life amidst the hustle and bustle of the city. Offering stunning views of the Dubai Skyline and the Burj Khalifa, Sobha Crest Grande offers an immersive cosmopolitan island lifestyle surrounded by calming waterways and untouched nature."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "INDOOR & OUTDOOR GYM"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "ADULTS & KIDS SWIMMING POOL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "RETAIL & RESTAURANTS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "BBQ spaces"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/27.%20Crest%20Grande%20%281%29.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "+97180076242"
+  },
+  "deliveryDate": "June 2026",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2097.jpg.webp?itok=dAiJJqjY",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2096.jpg.webp?itok=2PStd_Ld",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2095.jpg.webp?itok=Y967mEsw",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2094.jpg.webp?itok=RWApF5mn",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2093.jpg.webp?itok=EUiVECT4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2025-09/1006x608%20%E2%80%93%2092.jpg.webp?itok=MBgNwLXZ"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/2024-11/Crest%20grand_0.jpg",
+  "latitude": 25.177121,
+  "launchDate": "September 1, 2022",
+  "location": {
+    "ar": "يقع المشروع في مدينة محمد بن راشد، ويقدم نمط حياة مستوحى من ميامي مع إطلالات خلابة على أفق دبي وبرج خليفة، وتحيط به الممرات المائية الهادئة والطبيعة البكر.",
+    "en": "Mohammed Bin Rashid City, with stunning views of the Dubai Skyline and the Burj Khalifa, offering a cosmopolitan island lifestyle surrounded by calming waterways and untouched nature."
+  },
+  "longitude": 55.30743,
+  "mapDescription": {
+    "ar": "يقع في مدينة محمد بن راشد، بالقرب من المعالم الرئيسية.",
+    "en": "Crest Grande is located in Sobha Hartland, Mohammed Bin Rashid City, Dubai, within the Waterfront District, at the intersection of Ras Al Khor Rd and Al Ain Rd. It offers easy access to major landmarks such as Downtown Dubai, Burj Khalifa, Ras Al Khor Wildlife Sanctuary, Dubai Marina, and Dubai International Airport."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": ""
+      },
+      "distance": {
+        "en": "5 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": ""
+      },
+      "distance": {
+        "en": "17 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": ""
+      },
+      "distance": {
+        "en": "16 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": ""
+      },
+      "distance": {
+        "en": "27 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "SHEIKH ZAYED ROAD",
+        "ar": ""
+      },
+      "distance": {
+        "en": "21 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "MALL OF THE EMIRATES",
+        "ar": ""
+      },
+      "distance": {
+        "en": "20 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 2709.17,
+  "maxAreaSqmt": 251.69,
+  "maxPriceAED": 5650000,
+  "minAreaSqft": 726.67,
+  "minAreaSqmt": 67.51,
+  "minPriceAED": 4140000,
+  "paymentPlan": {
+    "ar": "خطة دفع 60/40 (60% أثناء الإنشاء، 40% بعد التسليم لمدة سنتين)",
+    "en": "60/40 payment plan (60% during construction, 40% post-handover for 2 years)"
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/crest-grande/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء (مكتمل بنسبة 84.17% اعتبارًا من 7 مايو 2025)",
+    "en": "Under Construction (84.17% Completed as of May 7, 2025)"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=R9R9S71Kz1g",
+  "views": [
+    {
+      "en": "Dubai Skyline",
+      "ar": ""
+    },
+    {
+      "en": "Burj Khalifa",
+      "ar": ""
+    }
+  ],
+  "projectID": "sobha-crest-grande",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

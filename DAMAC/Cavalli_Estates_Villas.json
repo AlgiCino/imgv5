@@ -1,0 +1,233 @@
+{
+  "slug": "cavalli-estates",
+  "id": "damac-cavalli-estates",
+  "projectName": {
+    "ar": "فلل كافالي إستيتس",
+    "en": "Cavalli Estates Villas"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "كافالي إستيتس تقدم فلل فاخرة للغاية في داماك هيلز، دبي. استثمر في هذه العقارات قيد الإنشاء بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات. استمتع بعوائد استثمارية عالية وخطط سداد مرنة.",
+    "en": "Cavalli Estates offers ultra-luxury villas in DAMAC Hills, Dubai. Invest in these off-plan properties with cryptocurrency and secure a UAE residency visa. Enjoy high returns on investment and flexible payment plans."
+  },
+  "3D_TourLink": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVlYNvUHF1smiyztcX3ibNprdw7jT8J5boj67BB-2iwlFU_3psZ0oszwoGHfLqoKIW6h2xomywda9xWiVSSXtds_FeFzw_TNqoNoKTYCZTRvRhEm-q3HMTJwr3719Jo5gC80AVuOk=",
+  "amenities": [
+    {
+      "name": {
+        "ar": "مسبح خاص",
+        "en": "Private Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حديقة خاصة",
+        "en": "Private Garden"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مناطق معيشة واسعة",
+        "en": "Spacious Living Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "غرفة خادمة",
+        "en": "Maid's Room"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مواقف مغطاة للسيارات",
+        "en": "Covered Parking"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "الوصول إلى مرافق داماك هيلز",
+        "en": "Access to DAMAC Hills Amenities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "داماك هيلز",
+    "en": "DAMAC Hills"
+  },
+  "bedrooms": [
+    5,
+    6,
+    7
+  ],
+  "brand": "Cavalli",
+  "brochurePdfLink": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgHW1fhsPGXpaFYFeYgpuX_WyS8fSIxzXpfj2wo2aiwYQgOWPMo2DAKirImqi6mD5bSaD3MVs__lAmfzPnetnLtKgznGqrK2je406X_cZeHUOmVCEQySDG-P26SAmExhkEVBxRSDAQ--zQokrHedIam0D72IfJWptf01h7cIbU7zN-ZfJmTRlOEPuSzIz8xyRhpqt2g244RqMueJ2aPw==",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Q1 2025",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/4DcqpyDMXlSYhox9BiynBz/a739531d0ca37e90fd3a9204a7ae89f8/3BR_01_-_DAMAC_Bay_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7yii6OkhdLpQpvS3ggSlVB/22cd2decdbe7d419530845778395ca48/3BR_05_-_DAMAC_Bay_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3sy3PjDFu8jWRFnusmHftO/dcc0a3edad9c018bb8500872c9e8b9cf/3BR_03_-_DAMAC_Bay_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7bQTZFBshsmu5iiefNTTVw/f0779d044d598f4c76b326e7041b3cd1/5BR_06_-_DAMAC_Bay_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4DcqpyDMXlSYhox9BiynBz/a739531d0ca37e90fd3a9204a7ae89f8/3BR_01_-_DAMAC_Bay_2.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7yii6OkhdLpQpvS3ggSlVB/22cd2decdbe7d419530845778395ca48/3BR_05_-_DAMAC_Bay_2.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/7yii6OkhdLpQpvS3ggSlVB/22cd2decdbe7d419530845778395ca48/3BR_05_-_DAMAC_Bay_2.jpg",
+  "latitude": 25.0479,
+  "launchDate": "2022",
+  "location": {
+    "ar": "داماك هيلز، دبي",
+    "en": "DAMAC Hills, Dubai"
+  },
+  "longitude": 55.2343,
+  "mapDescription": {
+    "ar": "يقع ضمن مجتمع داماك هيلز المرموق، ويوفر الوصول إلى وسائل راحة عالمية المستوى ومساحات خضراء مورقة.",
+    "en": "Located within the prestigious DAMAC Hills community, offering access to world-class amenities and lush green spaces."
+  },
+  "mapPointsOfInterest": {
+    "Golf Clubs": [
+      "Trump International Golf Club"
+    ],
+    "Attractions": [
+      "Dubai Miracle Garden",
+      "Global Village",
+      "Dubai Autodrome",
+      "IMG World"
+    ],
+    "Shopping & Retail": [
+      "Mall of the Emirates",
+      "First Avenue Mall",
+      "City Centre Me'aisem",
+      "Spinneys Supermarket",
+      "Carrefour Supermarket"
+    ],
+    "Schools": [
+      "GEMS Metropole School",
+      "Fairgreen International School",
+      "Jebel Ali School"
+    ],
+    "Healthcare": [
+      "Mediclinic Parkview Hospital",
+      "Aster Clinic"
+    ],
+    "Community Amenities": [
+      "Malibu Bay wave swimming pool",
+      "Skate Park",
+      "Petting Farm",
+      "Dog Park",
+      "Stables",
+      "Football field",
+      "Tennis courts",
+      "Parks and landscaped gardens",
+      "BBQ areas",
+      "Fishing lakes",
+      "Community Centre"
+    ],
+    "Major Destinations Nearby": [
+      "Jumeirah Village Circle",
+      "Downtown Dubai",
+      "Palm Jumeirah",
+      "Dubai International Airport"
+    ]
+  },
+  "maxAreaSqft": 18000,
+  "maxAreaSqmt": 1672,
+  "maxPriceAED": 32000000,
+  "minAreaSqft": 11317,
+  "minAreaSqmt": 1051,
+  "minPriceAED": 19000000,
+  "paymentPlan": {
+    "ar": "خطط سداد مرنة وميسرة",
+    "en": "Flexible and Easy Payment Plans"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/cavalli-estates/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": "فيلا"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=eE6oF2W2964",
+  "views": [
+    {
+      "en": "Golf Course View",
+      "ar": "إطلالة على ملعب الجولف"
+    },
+    {
+      "en": "Community View",
+      "ar": "إطلالة على المجتمع"
+    }
+  ],
+  "summary": {
+    "en": "Cavalli Estates offers luxurious 5, 6, and 7-bedroom villas in DAMAC Hills, Dubai. Experience opulent living with private amenities and access to a vibrant community, ideal for those seeking an exclusive lifestyle and high investment returns.",
+    "ar": "تقدم فلل كافالي إستيتس فلل فاخرة من 5 و 6 و 7 غرف نوم في داماك هيلز، دبي. استمتع بالعيش الفاخر مع وسائل الراحة الخاصة والوصول إلى مجتمع نابض بالحياة، مثالي لأولئك الذين يبحثون عن أسلوب حياة حصري وعوائد استثمارية عالية."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Cavalli Estates: Ultra-Luxury Villas in DAMAC Hills",
+      "subtitle": "Experience Opulent Living with Exclusive Amenities"
+    },
+    "ar": {
+      "title": "فلل كافالي إستيتس: فلل فاخرة للغاية في داماك هيلز",
+      "subtitle": "استمتع بالعيش الفاخر مع وسائل الراحة الحصرية"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Spacious 5, 6, and 7-bedroom ultra-luxury villas.",
+      "ar": "فلل فاخرة للغاية وواسعة من 5 و 6 و 7 غرف نوم."
+    },
+    {
+      "en": "Private swimming pools and lush gardens for exclusive living.",
+      "ar": "مسابح خاصة وحدائق مورقة لعيش حصري."
+    },
+    {
+      "en": "Located in DAMAC Hills with access to world-class golf courses and community facilities.",
+      "ar": "يقع في داماك هيلز مع إمكانية الوصول إلى ملاعب الجولف العالمية ومرافق المجتمع."
+    }
+  ],
+  "insights": {
+    "en": "Cavalli Estates offers a strong investment opportunity in Dubai's luxury villa market, combining a prestigious brand with a prime location in DAMAC Hills, promising significant capital appreciation and a high-demand rental market.",
+    "ar": "تقدم فلل كافالي إستيتس فرصة استثمارية قوية في سوق الفلل الفاخرة في دبي، حيث تجمع بين علامة تجارية مرموقة وموقع متميز في داماك هيلز، مما يعد بتقدير كبير لرأس المال وسوق إيجاري عالي الطلب."
+  },
+  "projectID": "damac-cavalli-estates",
+  "projectCategory": "Project"
+}

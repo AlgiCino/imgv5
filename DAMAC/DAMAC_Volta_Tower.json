@@ -1,0 +1,396 @@
+{
+  "slug": "volta",
+  "id": "damac-volta",
+  "projectName": {
+    "ar": "داماك فولتا تاور",
+    "en": "DAMAC Volta Tower"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "فولتا هو برج استثنائي يتربع على موقع متميز في شارع الشيخ زايد، وصمم لكل من يتبع أسلوب حياة حيوي ويرغب بأن يستمتع بلحظات أيامه الهادئة في الوقت ذاته. يحتضن هذا البرج العصري مساحات صممت خصيصاً لتتحدى معها ذاتك وقدراتك، وذلك وسط أجواء تدفعك نحو الحيوية والنشاط. يضم المشروع مجموعة من الشقق الفاخرة التي تتنوع بين غرفة وغرفتين و3 و4 غرف نوم. تتمتع هذه الوحدات بشرفات نصف دائرية تتيح لك إطلالات بانورامية آسرة على برج خليفة وشارع الشيخ زايد وأفق مدينة دبي الساحر. فولتا هو عنوانك وبوابتك إلى مستقبل أجمل.",
+    "en": "Volta is an exceptional tower located on a prime spot on Sheikh Zayed Road, designed for those who lead a dynamic lifestyle and wish to enjoy peaceful moments at the same time. This modern tower embraces spaces specially designed to challenge your self and capabilities, amidst an atmosphere that pushes you towards vitality and activity. The project includes a collection of luxurious apartments ranging from one, two, three, and four bedrooms. These units feature semi-circular balconies offering captivating panoramic views of Burj Khalifa, Sheikh Zayed Road, and Dubai's enchanting skyline. Volta is your address and your gateway to a brighter future."
+  },
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/6744179cba15da9bc5cb8b78/67442957ba15da9bc5cbcba1",
+  "amenities": [
+    {
+      "name": {
+        "ar": "جدار للتسلق",
+        "en": "Climbing Wall"
+      },
+      "description": {
+        "ar": "انطلق نحو القمة وعِش تحديات جديدة مع جدار التسلق. اكتشف قدراتك وغيّر روتين تمارينك في تجربة مثالية صممت لمحبي اللياقة والمغامرة.",
+        "en": "Reach new heights and embrace new challenges with the climbing wall. Discover your capabilities and change your workout routine in a perfect experience designed for fitness and adventure enthusiasts."
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "ارتقِ بلياقتك إلى مستويات جديدة ضمن صالة رياضية حديثة مجهزة بأفضل المعدات، تجربة صممت لتلهمك وتدفعك للوصول إلى أقصى أداء.",
+        "en": "Elevate your fitness to new levels in a modern gym equipped with the best equipment, an experience designed to inspire you and push you to achieve maximum performance."
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة للعب البينت بول",
+        "en": "Paintball Area"
+      },
+      "description": {
+        "ar": "شاهد إشراقة الشمس وابدأ أيامك مع جرعة من النشاط والحيوية. استمتع برياضتك المفضلة بعد يوم طويل وسط مشاهد المدينة الساحرة وأنت على مسار الجري.",
+        "en": "Witness the sunrise and start your days with a dose of activity and vitality. Enjoy your favorite sport after a long day amidst the charming city views while on the running track."
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة رياضية خارجية",
+        "en": "Outdoor Gym"
+      },
+      "description": {
+        "ar": "استمتع بتمارين تنبض بالحيوية في الصالة الرياضية الخارجية. انعم بالمشاهد الساحرة وسط تجربة رياضية تدفعك دوماً إلى تحديات جديدة.",
+        "en": "Enjoy vibrant workouts in the outdoor gym. Indulge in charming views amidst a sports experience that always pushes you to new challenges."
+      }
+    },
+    {
+      "name": {
+        "ar": "حلبة للملاكمة",
+        "en": "Boxing Ring"
+      },
+      "description": {
+        "ar": "أطلق روح التحدي في حلبة الملاكمة التي تستقبلك طوال اليوم. تميّز بأدائك وطوّر مهاراتك مع تمارين كلها نشاط وحيوية، وذلك وسط أجواء مفعمة بالطاقة والحركة.",
+        "en": "Unleash the spirit of challenge in the boxing ring that welcomes you all day long. Excel in your performance and develop your skills with active and vibrant exercises, amidst an atmosphere full of energy and movement."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح داخلي",
+        "en": "Indoor Pool"
+      },
+      "description": {
+        "ar": "ادخل عالماً من الهدوء والسكينة مع المسبح الداخلي، حيث تحيا أوقاتاً من الاسترخاء مع تجربة سباحة منعشة في أي وقت من أوقات اليوم.",
+        "en": "Enter a world of calm and tranquility with the indoor pool, where you live moments of relaxation with a refreshing swimming experience at any time of the day."
+      }
+    },
+    {
+      "name": {
+        "ar": "مسبح خارجي",
+        "en": "Outdoor Pool"
+      },
+      "description": {
+        "ar": "عِش مغامرة مائية لا تنسى في المسبح الخارجي واستمتع بسباحة حرة تحت السماء الصافية، أو اقضِ لحظات من الهدوء مع العائلة والأصدقاء.",
+        "en": "Live an unforgettable aquatic adventure in the outdoor pool and enjoy free swimming under the clear sky, or spend moments of tranquility with family and friends."
+      }
+    }
+  ],
+  "area": {
+    "ar": "شارع الشيخ زايد",
+    "en": "Sheikh Zayed Road"
+  },
+  "bedrooms": [
+    1,
+    2,
+    4
+  ],
+  "brand": "DAMAC Properties",
+  "brochurePdfLink": "https://assets.ctfassets.net/zoq5l15g49wj/6qldZpKGueJSIvGM2hK85r/1c5685e30542e754fd3f48764b5be601/volta-brochure-sep-2023-ar.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2028-05-31",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/6bUDV5uRTCnMtLs4eVDfZe/55b18b6d10dfd109a9bb3551a0353e3d/Volta-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4TT9HzlFklZCO3l0mrw35k/b948f147e595de6eb90a4538e17c4b35/Volta-Gallery-01-AR.jpg",
+    "https://ctfassets.net/zoq5l15g49wj/5Hn5PtwxyOtrvBGJ1egBTZ/4e7338dd6f2782933700f9cf72b1072e/Volta-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6WKqCyOCw33x9opX1m54tr/1b028626f8f04ff26ca8dfc0fe70c155/Volta-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6tzrswkMQPfDzABXqp8i1O/d05933c9d71cfbdf47de156acb5f54b5/Volta-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/67DmuuH9mms4MTNxUDIZ9S/4d3b965f6daf6d6265de42a38a86807b/Volta-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4h6QZaDtixQRJyqnMFkpyA/27377a3e18ce9079919ff67d7384b744/Volta-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2TSOImP5slzuwbds17glYm/fbea048cffcacb88b181e70d99d57404/Volta-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/45zMYYgf92jBjnZaIzQtDP/b345f4ddaf5b58c345a139f53c61d9c2/Volta-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1wGIre8LXaT1qmyB73K5Wm/5e4ae88dd06f5ba9b8d9c1d8b9329759/Volta-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2ScfobysbQKch9yUGNkdLK/1c9906a1f7edef96c653f14814c4f90c/Volta-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/208xGVrtsgB5A3q5MVa09P/98949dd608b03f406b6d8e469ed0072c/Volta-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1d9n3nDOJRa3FCFgSYLl9O/d5791c53ec159ce5af159fd7341c5e10/Volta-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6Xv6zHnxm7VHin371BP4lr/113162b396289092b3f55bd8aa98ac43/Volta-Gallery-13.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1X2Xsyw8tK9MDzTofgze4M/90cd22a9293f2383e6b3e54a92ba9c00/Volta-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2lehair26jp7VczGQhEaqn/a2bc25c20dbab929dde0b3dc578cd141/Volta-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5jWRziCNBqLa3oGHcmlC3s/6a56b39b10215d5b261298ee766a66b8/Volta-Gallery-16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/T9hbTSEtnHLspqru35zUd/4c4d5b78b15f15711ad8b4d77c5271e9/Volta-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2f72P4H1yu6IurlvyjPqOR/a30dbe8e0f5970430288fc0ce0e0cf85/Volta-Gallery-18-RU.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/l6zTWR8jVhGFIhJly9uC6/eef02e624943e0c924906635aeed73fc/Volta-Homepage_Hero_16x9.jpg",
+  "latitude": 25.197507,
+  "launchDate": "2023-09-07",
+  "location": {
+    "ar": "شارع الشيخ زايد، دبي، الإمارات العربية المتحدة",
+    "en": "Sheikh Zayed Road, Dubai, United Arab Emirates"
+  },
+  "longitude": 55.26698,
+  "mapDescription": {
+    "ar": "متصل بأرجاء دبي",
+    "en": "Connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": {
+    "location_context": [
+      "Sheikh Zayed Road",
+      "Downtown Dubai"
+    ],
+    "shopping_malls": [
+      {
+        "name": "The Dubai Mall",
+        "distance": "5 Minutes"
+      },
+      {
+        "name": "City Walk",
+        "distance": "8 Minutes"
+      },
+      {
+        "name": "Box Park",
+        "distance": "8 Minutes"
+      },
+      {
+        "name": "Mall of the Emirates",
+        "distance": "20 Minutes"
+      },
+      {
+        "name": "Bay Avenue Mall",
+        "distance": "0.7 km"
+      }
+    ],
+    "major_attractions": [
+      {
+        "name": "Burj Khalifa",
+        "distance": "3 Minutes"
+      },
+      {
+        "name": "Dubai Canal",
+        "distance": "3 Minutes"
+      },
+      {
+        "name": "Fountains at Dubai Mall",
+        "distance": "0.9 km"
+      },
+      {
+        "name": "Dubai Aquarium",
+        "distance": "1.2 km"
+      }
+    ],
+    "hospitals_clinics": [
+      {
+        "name": "Mediclinic The Dubai Mall",
+        "distance": "6 Minutes"
+      },
+      {
+        "name": "Emirates Hospital",
+        "distance": "5 Minutes"
+      },
+      {
+        "name": "Zabeel Health Centre",
+        "distance": "7 Minutes"
+      },
+      {
+        "name": "Aster Clinic",
+        "distance": "8 Minutes"
+      },
+      {
+        "name": "Prime Medical Centre",
+        "distance": "11 Minutes"
+      }
+    ],
+    "hotels": [
+      {
+        "name": "Paramount Hotel Midtown",
+        "distance": "5 Minutes"
+      },
+      {
+        "name": "JW Marriott Marquis",
+        "distance": "8 Minutes"
+      },
+      {
+        "name": "Habtoor Palace",
+        "distance": "8 Minutes"
+      },
+      {
+        "name": "The Oberoi",
+        "distance": "5 Minutes"
+      },
+      {
+        "name": "Holiday Inn Express",
+        "distance": "5 Minutes"
+      },
+      {
+        "name": "Paramount Hotel - Al Khail Road",
+        "distance": "12 Minutes"
+      }
+    ],
+    "public_transport": [
+      {
+        "name": "Burj Khalifa/Dubai Mall Metro station",
+        "distance": "Nearby / 7-minute walk"
+      },
+      {
+        "name": "Business Bay stop",
+        "distance": "Nearby"
+      }
+    ],
+    "airports": [
+      {
+        "name": "Dubai International Airport (DXB)",
+        "distance": "15-20 Minutes"
+      },
+      {
+        "name": "Al Maktoum International Airport",
+        "distance": "40 Minutes"
+      }
+    ],
+    "parks_leisure": [
+      {
+        "name": "City Walk Central Park",
+        "distance": "1.1 km"
+      },
+      {
+        "name": "Action Park Business Bay",
+        "distance": "1.2 km"
+      },
+      {
+        "name": "Ras Al Khor Wildlife Sanctuary",
+        "distance": "7 Minutes"
+      },
+      {
+        "name": "Safa Park",
+        "distance": "7 Minutes"
+      },
+      {
+        "name": "J1 Beach",
+        "distance": "10 Minutes"
+      },
+      {
+        "name": "Bay Avenue Park",
+        "distance": "0.7 km"
+      }
+    ],
+    "schools": [
+      {
+        "name": "Safa British School",
+        "distance": "9 Minutes"
+      },
+      {
+        "name": "Horizon International School",
+        "distance": "15 Minutes"
+      },
+      {
+        "name": "English College",
+        "distance": "12 Minutes"
+      },
+      {
+        "name": "JSS Private School",
+        "distance": "8 Minutes"
+      }
+    ],
+    "golf_clubs": [
+      {
+        "name": "The Track Meydan Golf",
+        "distance": "6.0 km"
+      },
+      {
+        "name": "Dubai Hills Golf Club",
+        "distance": "8.5 km"
+      },
+      {
+        "name": "Dubai Creek Golf & Yacht Club",
+        "distance": "8.6 km"
+      }
+    ],
+    "cinemas": [
+      {
+        "name": "Roxy Cinema at The Hub at City Walk",
+        "distance": "1.1 km"
+      },
+      {
+        "name": "Reel Cinemas at Rove Downtown",
+        "distance": "1.4 km"
+      },
+      {
+        "name": "Cinema City at Address Dubai Mall",
+        "distance": "1.6 km"
+      }
+    ]
+  },
+  "maxAreaSqft": 2371,
+  "maxAreaSqmt": 220.26,
+  "maxPriceAED": 6969000,
+  "minAreaSqft": 1030,
+  "minAreaSqmt": 95.69,
+  "minPriceAED": 2496000,
+  "paymentPlan": {
+    "ar": "خطة سداد 1%",
+    "en": "1% Payment Plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/volta/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/1IRPyrVNfDFj4eEuZ6RsaP/e79d1da45e302d42cf3af3981e40a3a3/VOLTA_Project_video_16x9_Arabic.mp4",
+  "views": [
+    {
+      "en": "Classic View",
+      "ar": "إطلالة كلاسيكية"
+    },
+    {
+      "en": "Water View",
+      "ar": "إطلالة مائية"
+    }
+  ],
+  "summary": {
+    "en": "DAMAC Volta Tower on Sheikh Zayed Road offers luxury apartments designed for dynamic lifestyles. With panoramic views of Burj Khalifa and the city skyline, it provides an active environment with unique amenities like a climbing wall and boxing ring, ensuring strong rental potential and capital growth.",
+    "ar": "يقدم برج داماك فولتا على شارع الشيخ زايد شققًا فاخرة مصممة لأنماط الحياة الديناميكية. مع إطلالات بانورامية على برج خليفة وأفق المدينة، يوفر بيئة نشطة مع وسائل راحة فريدة مثل جدار التسلق وحلبة الملاكمة، واعدًا بمستقبل نابض بالحياة."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "DAMAC Volta Tower: Elevate Your Lifestyle on Sheikh Zayed Road",
+      "subtitle": "Dynamic Living with Panoramic Views and Unrivaled Amenities"
+    },
+    "ar": {
+      "title": "برج داماك فولتا: ارتقِ بأسلوب حياتك على شارع الشيخ زايد",
+      "subtitle": "عيش ديناميكي مع إطلالات بانورامية ووسائل راحة لا مثيل لها"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Prime location on Sheikh Zayed Road with stunning views of Burj Khalifa and the city skyline.",
+      "ar": "موقع متميز على شارع الشيخ زايد مع إطلالات خلابة على برج خليفة وأفق المدينة."
+    },
+    {
+      "en": "Unique fitness amenities including a climbing wall, boxing ring, and outdoor gym.",
+      "ar": "وسائل راحة رياضية فريدة بما في ذلك جدار التسلق، حلبة الملاكمة، وصالة ألعاب رياضية خارجية."
+    },
+    {
+      "en": "Luxurious apartments with semi-circular balconies designed for an active and vibrant lifestyle.",
+      "ar": "شقق فاخرة بشرفات نصف دائرية مصممة لأسلوب حياة نشط وحيوي."
+    }
+  ],
+  "insights": {
+    "en": "DAMAC Volta Tower offers a strategic investment in a high-demand area of Dubai, appealing to active individuals seeking luxury living with exceptional fitness and wellness facilities, ensuring strong rental potential and capital growth.",
+    "ar": "يقدم برج داماك فولتا استثمارًا استراتيجيًا في منطقة عالية الطلب في دبي، يجذب الأفراد النشطين الذين يبحثون عن حياة فاخرة مع مرافق لياقة بدنية وعافية استثنائية، مما يضمن إمكانات إيجارية قوية ونمو رأس المال."
+  },
+  "projectID": "damac-volta",
+  "projectCategory": "Building"
+}

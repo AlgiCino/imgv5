@@ -1,0 +1,375 @@
+{
+  "slug": "sobha-gardenia-villas",
+  "id": "sobha-sobha-gardenia-villas",
+  "projectName": {
+    "ar": "فلل سوبها جاردينيا",
+    "en": "Sobha Gardenia Villas"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استمتع بأسلوب حياة فائق الخصوصية في هذه المجمع السكني الفاخر المسور حيث يتم تعظيم الراحة في كل التفاصيل. يقع هذا المشروع الفندقي المكون من 4 غرف نوم في دبي من قبل شركة سوبها هارتلاند وسط شبكة متكاملة من الممرات الخضراء المورقة. استمتع بضوء الشمس الطبيعي المنبعث من النوافذ الممتدة من الأرض حتى السقف بينما تستمتع بآلاف وسائل الراحة الفاخرة والميزات الفخمة.",
+    "en": "Enjoy an ultra-private way of life in this luxury gated community where convenience is maximised in every detail. This 4-bedroom villa development in Dubai by Sobha Hartland is placed amidst an integrated network of lush green corridors. Bask in the natural light emanating from floor-to-ceiling windows while enjoying myriads of luxurious amenities and grandiose features."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Private swimming pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Landscaped private gardens"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Smart home automation systems"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fully-equipped kitchens with branded Siemens appliances"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Walk-in closets and luxurious en-suite bathrooms"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Two-car covered parking spaces (2 automated, 2 outdoor)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "24/7 security within a gated community"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "International schools (North London Collegiate School & Hartland International School) within the community"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Retail outlets, cafes, and fine-dining restaurants within the community"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks, cycling tracks, and jogging paths"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Clubhouses and fitness centers"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Optional built-in lift"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Open terrace"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "State-of-the-art gymnasiums"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Green Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Servant quarters"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Abundant storeroom space"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Patios"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Private access"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Double glazing windows"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Nurseries"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Healthcare facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Tennis courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Yoga centers"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Public areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "bedrooms": [
+    4
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/gardenia-villas_brochure.pdf",
+  "contact": {
+    "phone": "80076242",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": "Ready to move in. Possession was in August 2019, with estimated completion/handover in Q1 2020 or 2020.",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250_17.jpg.webp?itok=zCs-lXH1",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015314_5.jpg.webp?itok=KtVxwYbP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%20-1_5.jpg.webp?itok=RLcgtxaP",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249_17.jpg.webp?itok=XCqpiwfZ",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271_10.jpg.webp?itok=RLn55Xzv",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015310_6.jpg.webp?itok=wLT_lDic",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015312_5.jpg.webp?itok=HdlAWQbv",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015327_8.jpg.webp?itok=1BJbXmMh"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/sobha%20gardenia%20villas.jpg.webp?itok=1pof3zmK",
+  "latitude": 0,
+  "launchDate": "The master development, Sobha Hartland, which includes Gardenia Villas, was launched in 2014.",
+  "location": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "",
+    "en": "Sobha Gardenia Villas are nestled within the prestigious Sobha Hartland community in Mohammed Bin Rashid Al Maktoum City (MBR City), Nad Al Sheba 1, Dubai, United Arab Emirates. The location offers seamless connectivity to Dubai's key landmarks such as Downtown Dubai, DIFC, Dubai Marina, and the international airport. It is surrounded by 2.4 million square feet of greenery (30% of the entire project) and is set along the Dubai Water Canal. The villas are within a 3km radius of top attractions including the Burj Khalifa, Dubai Mall, Burj Al Arab, Dubai Creek, and Meydan Racecourse."
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 10000000,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 5000000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "Various flexible payment plans are available, including a 20:80 plan (20% down payment) and an option of 25% to move in with 75% post-handover over 3 years. Some sources also mention a 2% down payment option."
+  },
+  "projectPageLink": "https://sobharealty.com/villas-for-sale-in-dubai/sobha-gardenia-villas/",
+  "projectStatus": {
+    "ar": "",
+    "en": "Ready to Move"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=FqS_xWj8YhQ (Note: The content for this link may not be available or may have been removed.)",
+  "views": [],
+  "projectID": "sobha-sobha-gardenia-villas",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

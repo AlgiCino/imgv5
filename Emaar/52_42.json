@@ -1,0 +1,150 @@
+{
+  "projectName": {
+    "en": "52 | 42",
+    "ar": ""
+  },
+  "projectID": "52-42",
+  "country": {
+    "en": "United Arab Emirates",
+    "ar": ""
+  },
+  "city": {
+    "en": "Dubai",
+    "ar": ""
+  },
+  "description": {
+    "en": "Dubai Marina is a vibrant landmark that embodies Dubai&#8217;s cosmopolitan allure. As one of the region’s largest and most iconic waterfront communities, it introduces a Riviera-inspired lifestyle, blending contemporary design with a touch of elegance. With yacht cruises, water sports, and alfresco cafes, residents and visitors can immerse themselves in marina’s lively atmosphere and unparalleled lifestyle experience. The community features luxury residences, from waterfront apartments to penthouses with sweeping marina and skyline views, ideal for families, professionals, and investors seeking refined urban living. Showcasing modern architecture and expansive residences, Dubai Marina has become the epitome of upscale living. Its well-designed infrastructure ensures connectivity, and a 3.5-kilometer water canal with dual sea access, makes it a top sailing destination. Emaar’s vision for Dubai Marina combines luxury with convenience, offering iconic residences that capture the vibrancy of waterfront living and city energy. It provides not just a home, but an elevated way of life.",
+    "ar": ""
+  },
+  "3D_TourLink": null,
+  "amenities": [],
+  "area": {
+    "ar": "",
+    "en": ""
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Emaar Properties",
+  "brochurePdfLink": null,
+  "contact": {
+    "phone": null,
+    "whatsapp": "https://wa.link/u9ik8p"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/52_42_HERO_NIGHT-706x385.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://cdn.properties.emaar.com/wp-content/uploads/2020/07/52_42_HERO_NIGHT-706x385.jpg",
+  "latitude": 25.0872,
+  "launchDate": null,
+  "location": {
+    "en": "Dubai Marina",
+    "ar": ""
+  },
+  "longitude": 55.1384,
+  "mapDescription": {
+    "en": "The community’s prime location is enhanced by an integrated network of roads and transportation, ensuring seamless connectivity that keeps residents and visitors closely connected to the vibrant energy of the city.",
+    "ar": ""
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "Jumeirah Lakes Towers",
+        "ar": ""
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Emirates Golf Club",
+        "ar": ""
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Recreation",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      },
+      "distance": {
+        "en": "20 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "City Center",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "25 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "Al Maktoum International Airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "30 minutes",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://properties.emaar.com/en/properties/52-42/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": false,
+  "videoLink": null,
+  "views": [],
+  "projectCategory": "Building"
+}

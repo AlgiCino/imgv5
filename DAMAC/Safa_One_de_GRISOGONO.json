@@ -1,0 +1,126 @@
+{
+  "slug": "safa-one-de-grisogono",
+  "id": "damac-safa-one-de-grisogono",
+  "projectName": {
+    "ar": "صفا ون دي جريسوغونو",
+    "en": "Safa One de GRISOGONO"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "مع موقع متميز في قلب مدينة دبي، يرسي صفا ون دي جريسوغونو معايير جديدة كلياً لحياة الرفاهية. يتألف المشروع من برجين استثنائيين يأتيان بإبداع من شركة كيلا ديزاين الشهيرة. يضم صفا ون دي جريسوغونو مجموعة من الشقق تتنوع بين غرفة وغرفتين و3 غرف نوم، ووحدات دوبلكس تتنوع بين غرفتين و3 و4 غرف نوم، بالإضافة إلى منازل بنتهاوس من 5 غرف نوم. هنا ستحيا تجربة معيشية تنبض فيها الرفاهية وسط المساحات الطبيعية الساحرة لحديقة الصفا.",
+    "en": "With a prime location in the heart of Dubai, Safa One de GRISOGONO sets entirely new standards for luxury living. The project consists of two exceptional towers creatively designed by the renowned Killa Design. Safa One de GRISOGONO features a range of apartments including one, two, and three-bedroom units, two, three, and four-bedroom duplexes, as well as five-bedroom penthouses. Here, you will experience a luxurious lifestyle amidst the enchanting natural spaces of Safa Park."
+  },
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/674444c9ce8c642b77e9c013/6744475ace8c642b77e9c683",
+  "amenities": [],
+  "area": {
+    "ar": "شارع الشيخ زايد",
+    "en": "Sheikh Zayed Road"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "brand": "de GRISOGONO",
+  "brochurePdfLink": "https://assets.ctfassets.net/zoq5l15g49wj/4tSRDs5DOaKP9O542XwQRJ/f356069c8d9eb9d26a2e39d5b9fd6f61/safa-one-digital-brochure-ar.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2026-12-31",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/65sRMFtRkvBx27TjGLFWLB/a45b86b7ea66d1e48d46bf1147a54374/Safa_One_de_GRISOGONO-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1lPuqLbzahnsp8UAQ4E5Eb/6bcb80bd9fd00e6b84ff8e769528737a/Safa_One_de_GRISOGONO-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/Ya1RM5zwsk69NBHSfKiAu/97ec2c320f512f722f7e012fef87740c/Safa_One_de_GRISOGONO-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3n84ZBrGzw2wIvvRxYcPse/e5e85345a198d61fb23ef1e50c1a2b4b/Safa_One_de_GRISOGONO-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7MYKXNOqwnfHYIs6MZ5c1Z/d40eda86f59c3c4b20fae1f75abf22a3/Safa_One_de_GRISOGONO-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3oU4blhpkU5MObl0FsLZdD/82149595c4c6cc9a14a823d2e689b87c/Safa_One_de_GRISOGONO-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7gv4neqXdbgRnN8GiFZgqc/7522bbbe9b959ec3af6201600bc51808/Safa_One_de_GRISOGONO-Gallery-06.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2GoxvzL9mJ3Q03hBGsUa9m/97b508dda6bc9cc530ba210c022eb9be/Safa_One_de_GRISOGONO-Gallery-07-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7KKCK2zsu9p3OOUQ3yya0L/5a215de3db1e2d0c8225a7b38fe07ca8/Safa_One_de_GRISOGONO-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5QAUXzx9maQEwnqV6Jl10h/d1bdf3a6b0417b198afd8275e249e642/Safa_One_de_GRISOGONO-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3YgMgZNQKzQfunSpI5h1f/15186a83281bf6fae299adc28dafa64c/Safa_One_de_GRISOGONO-Gallery-10.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/PlgjMAD8SLQX3xXue0bRJ/b188df7e880c044c19b151c50d181e8f/Safa_One_de_GRISOGONO-Gallery-11-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4vDQzwXhzsfcs8oyQ8lbUK/970e041a2ed5c8559460e0ee3ca66ef6/Safa_One_de_GRISOGONO-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1Y7MoBrWuVKmQm7QN8gQXQ/5c60001ac0eabcdb7fe953cb5c8980c8/Safa_One_de_GRISOGONO-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4xmtRK3OFHiEyAMOCfdCUG/2f32f966feabaa8345994047afc70cec/Safa_One_de_GRISOGONO-Gallery-14-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6smWxt8KSlo7xdNRTaul4j/0424f4e6ce314449fd87d0a770963de1/Safa_One_de_GRISOGONO-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5QPi6lD0AI9mWJCkDNg1gP/1ff5e6711638cc4f45a95e086fdffba6/Safa_One_de_GRISOGONO-Gallery-16-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/3AFNtXUzFgvuEdu4oJIBol/a07aba40f18a2de173276e33aa75ce42/Safa_One_de_GRISOGONO-Gallery-17.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/2USlFD8x74dSu9re1GcmW4/65c466e6ad9e54bc810b66ce4fe85cb6/Safa_One_de_GRISOGONO-Homepage_Hero_16x9-1.jpg",
+  "latitude": 25.18197863,
+  "launchDate": "2022-03-22",
+  "location": {
+    "ar": "شارع الشيخ زايد، على أطراف منطقة حديقة الصفا، وعلى بعد دقائق عن شاطئ جميرا وسيتي ووك وبوكس بارك. وعلى الجانب الآخر من شارع الشيخ زايد، تقع منطقة الخليج التجاري ومنطقة البرج ومركز دبي المالي العالمي.",
+    "en": "Sheikh Zayed Road, on the edge of the Safa Park area, minutes away from Jumeirah Beach, City Walk, and Box Park. On the other side of Sheikh Zayed Road are the Business Bay area, the Burj area, and the Dubai International Financial Centre."
+  },
+  "longitude": 55.24932678,
+  "mapDescription": {
+    "ar": "بالقرب من كل ما تحتاجه متصل بأرجاء دبي",
+    "en": "Close to everything you need, connected to all of Dubai"
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 5953,
+  "maxAreaSqmt": 553.07,
+  "maxPriceAED": 26287000,
+  "minAreaSqft": 1704,
+  "minAreaSqmt": 158.3,
+  "minPriceAED": 4319000,
+  "paymentPlan": {
+    "ar": "١٠/٩٠",
+    "en": "10/90"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/safa-one-de-grisogono/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Duplex",
+      "ar": "دوبلكس"
+    },
+    {
+      "en": "Penthouse",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/5VvkFBuvmnB8lAa133YTnb/8461a2d65a782f5a05b85a8ba4cbd8ff/safa_1_DP.com__Hero__16X9.mp4",
+  "views": [],
+  "projectID": "damac-safa-one-de-grisogono",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

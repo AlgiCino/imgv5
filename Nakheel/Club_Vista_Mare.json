@@ -1,0 +1,253 @@
+{
+  "slug": "Club_Vista_Mare",
+  "id": "nakheel-Club_Vista_Mare",
+  "projectName": {
+    "ar": "كلوب فيستا ماري",
+    "en": "Club Vista Mare"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استمتع بتجربة كلوب فيستا ماري من نخيل - حياة راقية على الواجهة البحرية في نخلة جميرا مع وجهات طعام راقية وإطلالات خلابة. تعد كلوب فيستا ماري واحدة من الوجهات الأكثر شعبية في نخلة جميرا لكل من السكان والسياح، وتمتد على مساحة تقارب 50,000 قدم مربع على مستوى الأرض، مع 30,000 قدم مربع إضافية من المساحات السكنية في الطابق الأول. يتميز مجمع كلوب فيستا ماري ذو الطراز المعاصر بسبع وجهات راقية لنمط الحياة والطعام، كلها ذات إطلالات خلابة على الساحل الشرقي لنخلة جميرا. كلوب فيستا ماري هو مجتمع سكني فاخر على الواجهة البحرية في نخلة جميرا بدبي.",
+    "en": "One of Palm Jumeirah’s most popular destinations for both residents and tourists, Club Vista Mare spans almost 50,000 square feet at ground level, with an additional 30,000 square feet of residential space on the first floor. The contemporary style Club Vista Mare complex features seven upscale lifestyle and dining destinations, all with spectacular views of Palm Jumeirah’s eastern shoreline. Club Vista Mare is a premium waterfront residential community on Dubai’s Palm Jumeirah."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Private Beach Access"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parking Spaces"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "حوالي 50,000 قدم مربع في الطابق الأرضي مع 30,000 قدم مربع إضافية من المساحات السكنية في الطابق الأول.",
+    "en": "Palm Jumeirah"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/club-vista-mare-new.jpg?sfvrsn=3170105a_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4803.jpg?sfvrsn=b6b69b97_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4805.jpg?sfvrsn=fcb56e12_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4804.jpg?sfvrsn=571b9189_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/club-vista-mare-1240x4802.jpg?sfvrsn=7e6ca66f_3",
+  "latitude": 25.1145972,
+  "launchDate": "null",
+  "location": {
+    "ar": "حياة راقية على الواجهة البحرية في نخلة جميرا، دبي. تقع على بعد دقائق من مختلف الوجهات مثل شاطئ ويست بالم، نخيل مول، ذا فيو في ذا بالم، ومونوريل بالم.",
+    "en": "A premium waterfront residential community on Palm Jumeirah, Dubai, featuring upscale lifestyle and dining destinations with spectacular views."
+  },
+  "longitude": 55.1421662,
+  "mapDescription": {
+    "ar": "كلوب فيستا ماري",
+    "en": "Club Vista Mare, Palm Jumeirah, Dubai. Easily accessible and close to various attractions."
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Beach",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "6 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm West Beach",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nakheel Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Destination Pin",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "The View at The Palm",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Monorail Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Monorail",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Golden Mile Galleria",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Park",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Ittihad Park",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 50000,
+  "maxAreaSqmt": 4645.15,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/club-vista-mare",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Penthouse",
+      "ar": "بنتهاوس"
+    }
+  ],
+  "sellable": false,
+  "videoLink": "null",
+  "views": [
+    {
+      "en": "Spectacular views of Palm Jumeirah’s eastern shoreline",
+      "ar": "إطلالات خلابة على الساحل الشرقي لنخلة جميرا"
+    }
+  ],
+  "projectID": "club-vista-mare",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

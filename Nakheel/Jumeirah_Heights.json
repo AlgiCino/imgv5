@@ -1,0 +1,258 @@
+{
+  "slug": "Jumeirah_Heights",
+  "id": "nakheel-Jumeirah_Heights",
+  "projectName": {
+    "ar": "جميرا هايتس",
+    "en": "Jumeirah Heights"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "استكشف جميرا هايتس من نخيل، حيث تقدم منازل عصرية مع إطلالات خلابة على البحيرة. اكتشف النوافذ البانورامية والشرفات والمطابخ المجهزة. تتكون جميرا هايتس من مجموعتين، الشرقية والغربية، وتضم ستة مبانٍ سكنية منخفضة الارتفاع مع إطلالات خلابة على البحيرة. يضم كل مسكن في جميرا هايتس نوافذ بانورامية وشرفة وحمامًا ومطبخًا مجهزًا وخزانة مدمجة. تجمع جميرا هايتس بشكل مثالي بين التصميمات الداخلية الحديثة والمرافق الترفيهية وإطلالات البحيرة الرائعة لخلق المنزل المثالي.",
+    "en": "Explore Nakheel's Jumeirah Heights, offering contemporary homes with breathtaking lake views. Discover panoramic windows, balconies, fitted kitchens. Jumeirah Heights comprises two clusters namely East and West, consisting of six low rise apartment buildings with breathtaking lake views. Each residence at Jumeirah Heights features panoramic windows, a balcony, a bathroom, a fitted kitchen, and a built-in closet. Jumeirah Heights perfectly combines modern interiors, recreational amenities, and spectacular lake views to create the perfect home."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Barbecue Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dog Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Recycling Stations"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jogging Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "null",
+    "en": "null"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "https://www.nakheel.com/docs/nakheelcorporatelibraries/nakheel-project-document/jumeirah-heights.pdf?sfvrsn=4a1bc515_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480be30ee655-ba50-4e90-b365-522756cfc0c4.jpg?sfvrsn=4cee6d20_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480ae11bebaa-61c3-4c28-80d3-93c5203b0150.jpg?sfvrsn=e79cbdc6_3",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480a.jpg?sfvrsn=e803fd6b_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480b.jpg?sfvrsn=a7c763fe_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/jumeirah-heights-1240x480be30ee655-ba50-4e90-b365-522756cfc0c4.jpg?sfvrsn=4cee6d20_3",
+  "latitude": 25.065570501945555,
+  "launchDate": "null",
+  "location": {
+    "ar": "يقع جميرا هايتس على بعد 4 دقائق من جزر الجميرا و10 دقائق من محطة مترو مركز دبي للسلع المتعددة، مما يوفر سهولة الوصول إلى المراكز الرئيسية في دبي.",
+    "en": "Jumeirah Heights, offering contemporary homes with breathtaking lake views, conveniently located near Jumeirah Islands, DMCC Metro Station, Ibn Battuta Mall, Palm Jumeirah, Downtown Dubai, and Dubai International Airport."
+  },
+  "longitude": 55.14493291103744,
+  "mapDescription": {
+    "ar": "null",
+    "en": "Jumeirah Heights"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "destination",
+        "ar": ""
+      },
+      "distance": {
+        "en": "4 minutes from Jumeirah Islands",
+        "ar": ""
+      },
+      "name": {
+        "en": "Jumeirah Islands",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "metro",
+        "ar": ""
+      },
+      "distance": {
+        "en": "10 minutes from DMCC Metro Station",
+        "ar": ""
+      },
+      "name": {
+        "en": "DMCC Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "shopping_mall",
+        "ar": ""
+      },
+      "distance": {
+        "en": "14 minutes from Ibn Battuta Mall",
+        "ar": ""
+      },
+      "name": {
+        "en": "Ibn Battuta Mall",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "18 minutes from Palm Jumeirah",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Jumeirah",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "downtown",
+        "ar": ""
+      },
+      "distance": {
+        "en": "23 minutes from Downtown Dubai",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "30 minutes from Dubai International Airport",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/jumeirah-heights",
+  "projectStatus": {
+    "ar": "مكتمل",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/jumeirah-heights.mp4?sfvrsn=493c9cd7_1",
+  "views": [
+    {
+      "en": "Lake views",
+      "ar": ""
+    }
+  ],
+  "projectID": "jumeirah-heights",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

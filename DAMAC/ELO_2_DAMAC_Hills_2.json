@@ -1,0 +1,486 @@
+{
+  "slug": "elo-2",
+  "id": "damac-elo-2",
+  "projectName": {
+    "ar": "إيلو 2 داماك هيلز 2",
+    "en": "ELO 2 DAMAC Hills 2"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "إيلو 2 استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات. مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة، خطط سداد مرنة وميسرة.",
+    "en": "ELO 2 offers an opportunity to invest in real estate using digital currencies and obtain a residency visa in the UAE. These luxurious off-plan projects in Dubai promise high returns, with flexible and easy payment plans."
+  },
+  "3D_TourLink": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCWxzqBSvFPlgU78nFo6J6xuBl7rEoe5dkFXoSDXqFH9TC5IPmTUbxQZb695BeEi526Ijz6JRVL8GrMcAPIidXWF_de5y_PmKDenmojSE3uQiehF0xbQ96SMCBeKtx7kW0aBpA8g78ypT9zhsCoNEiN0l5AkPlEPfx6kjwuYPCsS0=",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Malibu Beach"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Wave Surfing Simulator"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Lazy River"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Multi-sports facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gymnasium"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Supermarket"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "The Town Center (retail, dining)"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Expansive green spaces, parks, cycling paths, picnic areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Health and wellness facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Climbing Wall"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Outdoor Cinema"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swim-Up Bar"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Barbecue Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Wellness center"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sauna"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Lounge"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Dining Outlets"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parking Facility"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Tennis courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Padel courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Volleyball courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Football field"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Go-karting circuit"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Paintball park"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fishing lakes"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Butterfly garden"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Splash pads"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Water slides"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Community mall"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Healthcare center"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Mosques"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "International schools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "داماك هيلز 2",
+    "en": "DAMAC Hills 2"
+  },
+  "bedrooms": "1, 2",
+  "brand": {
+    "en": "DAMAC Properties",
+    "ar": "داماك العقارية"
+  },
+  "brochurePdfLink": "https://prod-cdn.damacproperties.com/uploads/brochure/DH2-ELO-Digital-Brochure-",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "June 2027 (Q2 2027)",
+  "galleryImages": "Available (not directly linkable from search results)",
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/1JaYgqMZQP4uqYslyJ0osF/9b91cc1e66174dee5618f2e5f7f57522/653x685-AR__24_.jpg",
+  "latitude": 24.991407,
+  "launchDate": "September 1, 2024",
+  "location": {
+    "ar": "داماك هيلز 2، دبي",
+    "en": "DAMAC Hills 2, Dubai"
+  },
+  "longitude": 55.384879,
+  "mapDescription": {
+    "ar": "",
+    "en": "ELO 2 is located within the prestigious Damac Hills 2 community in Dubai, offering an unparalleled blend of urban convenience and serene surroundings. It is strategically positioned with seamless connectivity to four major highways, including Al Qudra Road, ensuring easy access to key landmarks and destinations across the city. Despite its urban accessibility, it provides a peaceful retreat from the city's hustle and bustle, surrounded by lush parklands and recreational amenities. DAMAC Hills 2 is just a short drive from the center of the city."
+  },
+  "mapPointsOfInterest": {
+    "Parks and Recreation": [
+      "DAMAC Hills 2 Community Park (0.2 km)",
+      "Water Town Damac Hills 2 (0.7 km)",
+      "Hayat Park (9.4 km)"
+    ],
+    "Airports": [
+      "Al Maktoum International Airport (30 mins)",
+      "Dubai International Airport (35 mins)"
+    ],
+    "Shopping Malls": [
+      "Dubai Outlet Mall (15 mins)",
+      "First Avenue Mall – Motor City (15 mins)",
+      "City Centre Me'aisem (20 mins)",
+      "Cityland Mall – Global Village (20 mins)",
+      "Mall of the Emirates (30 mins)"
+    ],
+    "Landmarks": [
+      "Palm Jumeirah (35 mins)",
+      "Burj Al Arab (35 mins)",
+      "Dubai Mall (40 mins)",
+      "Burj Khalifa (40 mins)"
+    ],
+    "Healthcare Centers": [
+      "Saudi German Clinic (in community mall)",
+      "Aster Medical Centre (15 mins)",
+      "Mediclinic Parkview Hospital (20 mins)",
+      "NMC Royal Hospital (25 mins)"
+    ],
+    "Schools": [
+      "Dubai British School Mira (9.5 km)",
+      "GEMS FirstPoint School (11.9 km)",
+      "The Aquila School (11.9 km)",
+      "GEMS Metropole School Al Waha (12.4 km)"
+    ]
+  },
+  "maxAreaSqft": 1100,
+  "maxAreaSqmt": 100,
+  "maxPriceAED": 2000000,
+  "minAreaSqft": 525,
+  "minAreaSqmt": 49,
+  "minPriceAED": 547000,
+  "paymentPlan": {
+    "ar": "خطط سداد مرنة وميسرة",
+    "en": "Flexible and Easy Payment Plans"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/elo-2/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=NfIQOEGz6hE",
+  "views": "Overlooking lush parklands and open spaces",
+  "summary": {
+    "en": "ELO 2 in DAMAC Hills 2 offers a unique investment opportunity in luxurious off-plan apartments. With flexible payment plans and eligibility for a UAE residency visa, it's designed for high returns and a modern lifestyle in a vibrant community.",
+    "ar": "يقدم إيلو 2 في داماك هيلز 2 فرصة استثمارية فريدة في شقق فاخرة قيد الإنشاء. مع خطط سداد مرنة وأهلية للحصول على تأشيرة إقامة في الإمارات، تم تصميمه لتحقيق عوائد عالية وأسلوب حياة عصري في مجتمع نابض بالحياة."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "ELO 2: Invest in Luxury, Live in DAMAC Hills 2",
+      "subtitle": "Off-Plan Apartments with High Returns & Residency Visa"
+    },
+    "ar": {
+      "title": "إيلو 2: استثمر في الرفاهية، عش في داماك هيلز 2",
+      "subtitle": "شقق قيد الإنشاء بعوائد عالية وتأشيرة إقامة"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Luxurious off-plan apartments in the vibrant DAMAC Hills 2 community.",
+      "ar": "شقق فاخرة قيد الإنشاء في مجتمع داماك هيلز 2 النابض بالحياة."
+    },
+    {
+      "en": "Flexible and easy payment plans, making investment accessible.",
+      "ar": "خطط سداد مرنة وميسرة، مما يجعل الاستثمار متاحًا."
+    },
+    {
+      "en": "Eligibility for UAE residency visa with real estate investment.",
+      "ar": "أهلية الحصول على تأشيرة إقامة في الإمارات العربية المتحدة مع الاستثمار العقاري."
+    }
+  ],
+  "insights": {
+    "en": "ELO 2 offers a compelling investment in Dubai's growing real estate market, particularly for international investors seeking high-yield off-plan properties with the added benefit of a UAE residency visa. Its location in DAMAC Hills 2 ensures a family-friendly environment with modern amenities and strong potential for capital appreciation.",
+    "ar": "يقدم إيلو 2 استثمارًا جذابًا في سوق العقارات المتنامي في دبي، خاصة للمستثمرين الدوليين الذين يبحثون عن عقارات قيد الإنشاء ذات عائد مرتفع مع ميزة إضافية تتمثل في تأشيرة إقامة في الإمارات. يضمن موقعه في داماك هيلز 2 بيئة مناسبة للعائلات مع وسائل راحة حديثة وإمكانات قوية لتقدير رأس المال."
+  },
+  "projectID": "damac-elo-2",
+  "projectCategory": "Community"
+}

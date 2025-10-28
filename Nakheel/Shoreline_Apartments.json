@@ -1,0 +1,321 @@
+{
+  "slug": "Shoreline_Apartments",
+  "id": "nakheel-Shoreline_Apartments",
+  "projectName": {
+    "ar": "شقق شورلاين",
+    "en": "Shoreline Apartments"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اكتشف شقق شورلاين، مجمع حصري، يوفر وحدات سكنية من غرفة إلى ثلاث غرف نوم وبنتهاوس بإطلالات خلابة ووسائل راحة عالمية المستوى. تقع شقق شورلاين على جذع نخلة جميرا، وتضم أربعة أبنية من شقق حصرية بغرفة نوم واحدة وغرفتي نوم وثلاث غرف نوم، بالإضافة إلى بنتهاوس بأربع غرف نوم. يوفر هذا المجمع المكون من عشرين مبنى إطلالات خلابة ويضم وسائل راحة عالمية المستوى. سيكون لكل من الكتل السكنية الأربعة وصول إلى ناديها الخاص، الذي يضم أحدث معدات اللياقة البدنية، وحمامات سباحة كبيرة، وملعب للأطفال ومطاعم. سواء كنت تبحث عن الاسترخاء أو التنشيط، تعد شقق شورلاين بإطلالات رائعة على الخليج وتجارب لا يمكن العثور عليها إلا في النخلة.",
+    "en": "Discover Shoreline Apartments, an exclusive complex, offering 1 to 3 bedroom residences and penthouses with stunning views and world-class amenities. Lining the trunk of Palm Jumeirah, Shoreline Apartments features four blocks of exclusive one, two, and three bedroom apartments, as well as four-bedroom penthouses. This twenty-building complex offers breathtaking views and boasts world-class amenities. Each of the four apartment blocks will have access to its own exclusive clubhouse, featuring the latest fitness equipment, large swimming pools, a children’s playground and restaurants. Whether relaxing or invigorating, Shoreline Apartments promise stunning Gulf views and experiences that can only be found on The Palm."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pools"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Parks"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Jogging Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Beachfront Clubhouses"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Underground Parking"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Kids Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "نخلة جميرا",
+    "en": "Palm Jumeirah"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "/docs/nakheelcorporatelibraries/default-document-library/shoreline_brochure.pdf?sfvrsn=73467a11_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x480.jpg?sfvrsn=f43bb79e_3",
+    "/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x4802.jpg?sfvrsn=5d2c6575_3",
+    "/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x4803.jpg?sfvrsn=45d7c38f_3",
+    "/images/nakheelcorporatelibraries/developments/projects/shoreline-apartment-1240x4804.jpg?sfvrsn=4f71542c_3"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/shoreline-apartment59544433-8e3c-4acd-b809-95adfe4bc7ba.jpg?sfvrsn=f4a6d40_1",
+  "latitude": 25.10779,
+  "launchDate": "null",
+  "location": {
+    "ar": "تقع شقق شورلاين في نخلة جميرا، وتوفر حياة على الواجهة البحرية مع إمكانية الوصول إلى الشاطئ. موقعها لا يضاهى مع خيارات التسوق وتناول الطعام والترفيه المتاحة لراحتك. كما توفر إطلالة رائعة على الخليج العربي والمجتمع المحيط.",
+    "en": "Lining the trunk of Palm Jumeirah, Shoreline Apartments offer a spectacular view of the Arabian Gulf and the surrounding community with access to a private beach. Their location is unparalleled with shopping, dining and entertainment options available at your convenience. Bespoke homes offering convenience, leisure, and privacy under one roof."
+  },
+  "longitude": 55.14797,
+  "mapDescription": {
+    "ar": "تقع شقق شورلاين في نخلة جميرا، وتوفر حياة على الواجهة البحرية مع إمكانية الوصول إلى الشاطئ. موقعها لا يضاهى مع خيارات التسوق وتناول الطعام والترفيه المتاحة لراحتك. كما توفر إطلالة رائعة على الخليج العربي والمجتمع المحيط.",
+    "en": "The Location"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Park",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Al Ittihad Park",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "2 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Golden Mile Galleria",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Monorail Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "3 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm Monorail",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Beach",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "4 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Palm West Beach",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Club",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Club Vista Mare",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Shopping Mall",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      },
+      "distance": {
+        "en": "5 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Nakheel Mall",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/shorelineapartment",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": ""
+    },
+    {
+      "en": "Pent House",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "/videos/nakheelcorporatelibraries/default-video-library/shoreline-apartments.mp4?sfvrsn=f0720cff_1",
+  "views": [
+    {
+      "en": "Arabian Gulf view",
+      "ar": ""
+    },
+    {
+      "en": "Stunning views",
+      "ar": ""
+    }
+  ],
+  "projectID": "shoreline-apartments",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

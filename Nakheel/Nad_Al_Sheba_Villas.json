@@ -1,0 +1,339 @@
+{
+  "slug": "Nad_Al_Sheba_Villas",
+  "id": "nakheel-Nad_Al_Sheba_Villas",
+  "projectName": {
+    "ar": "فلل ند الشبا",
+    "en": "Nad Al Sheba Villas"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "فلل ند الشبا هو مجتمع مسور يضم فيلات فاخرة جديدة بأربع وخمس غرف نوم على الطرازين المتوسطي والمغربي، محاطة بمساحات خضراء خارجية. يوفر المجتمع وسائل راحة ممتازة ومدارس قريبة وسهولة الوصول عبر شارع الشيخ محمد بن زايد. استمتع بأسلوب حياة نشط في الهواء الطلق على مسار الدراجات بطول خمسة كيلومترات ومسارات الركض التي تحيط بالمجتمع. يقدم جناح ند الشبا سوبر ماركت وصالونات ومطعم ومقهى ومسبح وصالة ألعاب رياضية وملعب رياضي والمزيد. اكتشف المزيج المثالي من الخصوصية والراحة والاتصال في هذا المجتمع الحصري.",
+    "en": "Nad Al Sheba Villas is a gated community with luxurious new four and five bedroom Mediterranean and Moroccan style villas surrounded by green outdoor spaces. The community provides excellent amenities, nearby schools and easy access via Sheikh Mohammed Bin Zayed Road. Enjoy an active outdoor lifestyle at the five kilometre cycling track and jogging routes that encircle the community. Nad Al Sheba Pavilion offers a supermarket, salons, a restaurant, a caf&eacute;, a swimming pool, a gym, a sports court and more. Discover the perfect blend of privacy, convenience and connectivity in this exclusive community."
+  },
+  "3D_TourLink": "null",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Community Pavilion"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling & Jogging Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Gym"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Spacious Garden"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Outdoor Terrace"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Restaurants"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Shops"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "ند الشبا",
+    "en": "Nad Al Sheba"
+  },
+  "bedrooms": [
+    4,
+    5
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "/docs/nakheelcorporatelibraries/default-document-library/nad-al-sheba-villas.pdf?sfvrsn=b430cf66_1",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "/images/nakheelcorporatelibraries/developments/nad-al-sheba-villasfa559c82-ad5e-4714-aa39-74299b18ea2f.jpg?sfvrsn=437026d_1",
+    "/images/nakheelcorporatelibraries/developments/nad-al-sheba-villasb0355c96-da2a-483f-abf4-63d9dfbb5255.jpg?sfvrsn=e52c005a_1",
+    "/images/nakheelcorporatelibraries/developments/nad-al-sheba-villas_5.jpg?sfvrsn=9ad961a7_3",
+    "/images/nakheelcorporatelibraries/developments/nad-al-sheba-villas_7.jpg?sfvrsn=cad5044c_3",
+    "/images/nakheelcorporatelibraries/developments/nad-al-sheba-villas_9.jpg?sfvrsn=6b98805f_5"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "/images/nakheelcorporatelibraries/developments/nad-al-sheba-villasfa559c82-ad5e-4714-aa39-74299b18ea2f.jpg?sfvrsn=437026d_1",
+  "latitude": 25.15993449709849,
+  "launchDate": "null",
+  "location": {
+    "ar": "تتمتع فلل ند الشبا بموقع متميز مع سهولة الوصول إلى الطرق الرئيسية والوجهات الرئيسية في دبي.",
+    "en": "Move Into Your Dream Home Choose from four or five bedroom luxury villas, inspired by Mediterranean or Moroccan architectural styles and beautifully designed for families. Spacious living and dining areas, outdoor terraces and a private back garden offer plenty of room for entertaining. Experience gated community living with Mediterranean and Moroccan charm."
+  },
+  "longitude": 55.377970933431804,
+  "mapDescription": {
+    "ar": "فلل ند الشبا تتمتع بموقع استراتيجي يوفر سهولة الوصول إلى العديد من النقاط الرئيسية في دبي.",
+    "en": "The Location"
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "Destination",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.15993449709849,
+        "lon": 55.377970933431804
+      },
+      "distance": {
+        "en": "12 minutes from Dubai Silicon Oasis",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Silicon Oasis",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Destination",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.15993449709849,
+        "lon": 55.377970933431804
+      },
+      "distance": {
+        "en": "13 minutes from Sheikh Mohammed Bin Zayed Road",
+        "ar": ""
+      },
+      "name": {
+        "en": "Sheikh Mohammed Bin Zayed Road",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Metro Station",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.15993449709849,
+        "lon": 55.377970933431804
+      },
+      "distance": {
+        "en": "15 minutes from Dubai Metro Station",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai Metro Station",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Destination",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.15993449709849,
+        "lon": 55.377970933431804
+      },
+      "distance": {
+        "en": "16 minutes from International City",
+        "ar": ""
+      },
+      "name": {
+        "en": "International City",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Downtown",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.15993449709849,
+        "lon": 55.377970933431804
+      },
+      "distance": {
+        "en": "19 minutes from Downtown Dubai",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "coordinates": {
+        "lat": 25.15993449709849,
+        "lon": 55.377970933431804
+      },
+      "distance": {
+        "en": "22 minutes from Dubai International Airport",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 3814.76,
+  "maxAreaSqmt": 354.4,
+  "maxPriceAED": 265000,
+  "minAreaSqft": 3814.76,
+  "minAreaSqmt": 354.4,
+  "minPriceAED": 265000,
+  "paymentPlan": {
+    "ar": "",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/developments/nakheel-projects/nad-al-sheba-villas",
+  "projectStatus": {
+    "ar": "جاهز للتأجير",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    }
+  ],
+  "sellable": false,
+  "videoLink": "/videos/nakheelcorporatelibraries/projects/nad-al-sheba-villasd52e3f89-dda9-4509-a5bf-479e0c255096.mp4?sfvrsn=904f1f8d_1",
+  "views": [
+    {
+      "en": "Unobstructed views of the Downtown Dubai skyline",
+      "ar": ""
+    },
+    {
+      "en": "Breathtaking views of Dubai's iconic skyline",
+      "ar": ""
+    },
+    {
+      "en": "Burj Khalifa View",
+      "ar": ""
+    },
+    {
+      "en": "Full Park View",
+      "ar": ""
+    },
+    {
+      "en": "Green outdoor spaces",
+      "ar": ""
+    },
+    {
+      "en": "Lush green spaces and landscaped areas",
+      "ar": ""
+    },
+    {
+      "en": "Directly onto a park",
+      "ar": ""
+    },
+    {
+      "en": "City view",
+      "ar": ""
+    },
+    {
+      "en": "Park/garden view",
+      "ar": ""
+    }
+  ],
+  "projectID": "nad-al-sheba-villas",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

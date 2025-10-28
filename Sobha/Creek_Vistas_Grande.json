@@ -1,0 +1,329 @@
+{
+  "slug": "creek-vistas-grande",
+  "id": "sobha-creek-vistas-grande",
+  "projectName": {
+    "ar": "كريك فيستاس جراندي",
+    "en": "Creek Vistas Grande"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "كريك فيستاس جراندي هو بوابة مثالية لعالم سوبها هارتلاند المتكامل، ويجسد تمامًا ما يمثله المجتمع من أناقة وتصميم ورفاهية وراحة، بالإضافة إلى إطلالات تشمل برج خليفة وداون تاون دبي ومحمية رأس الخور للحياة الفطرية.",
+    "en": "Creek Vistas Grande is a perfect gateway to the self-contained world of Sobha Hartland and perfectly encapsulates what the community represents in terms of elegance, design, luxury, convenience, and backdrop of views that encompass Burj Khalifa, Downtown Dubai and Ras Al Khor Wildlife Sanctuary."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Landscaped Pathway"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "SWIMMING POOL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "BARBECUE AREA"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "kids play area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Cycling Track"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Arena"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/creek-vistas-grande.pdf",
+  "contact": {
+    "phone": "+971800999999",
+    "whatsapp": "+97180076242"
+  },
+  "deliveryDate": "2025-07-17",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Creek%20Vistas%20Grande_Exterior.jpg.webp?itok=lbdthq3F",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/CVG_Dining_revised.jpg.webp?itok=yTO9Z3wx",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Creek%20Vistas%20Grande_Podium01.jpg.webp?itok=pRy1gG0A",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/CVG_Bedroom_revised.jpg.webp?itok=insHy5M6",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/CVG_Living_room.jpg.webp?itok=oW_uXU9b",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/HO-03_RS_Podium%20View_003.jpg.webp?itok=iM3_npFo",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015381_3.jpg.webp?itok=JyPJ2L62",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015382_5.jpg.webp?itok=ZldpsuQN",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015380_4.jpg.webp?itok=jPiY3wNA",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015398_2.jpg.webp?itok=fJZoI4tR",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015399_2.jpg.webp?itok=NybHQK4i",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-09/Mask%20Group%2015400_2.jpg.webp?itok=ym2u6Mx2"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Creek%20vistas%20grande.jpg.webp?itok=W-vReXEn",
+  "latitude": 25.1683,
+  "launchDate": "2025-07-17",
+  "location": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Sobha Hartland, Dubai"
+  },
+  "longitude": 55.289,
+  "mapDescription": {
+    "ar": "يقع \"كريك فيستاس جراند\" في موقع استراتيجي بالقرب من معالم دبي الرئيسية، مما يوفر للسكان سهولة الوصول إلى المدارس والمطار ومراكز التسوق والمعالم الثقافية.",
+    "en": "Creek Vistas Grande is strategically located near key Dubai landmarks, offering residents easy access to schools, the airport, shopping malls, and cultural attractions."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS",
+        "ar": ""
+      },
+      "distance": {
+        "en": "1 MINUTE",
+        "ar": ""
+      },
+      "category": {
+        "en": "Education",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI INTERNATIONAL AIRPORT",
+        "ar": ""
+      },
+      "distance": {
+        "en": "13 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BUSINESS BAY",
+        "ar": ""
+      },
+      "distance": {
+        "en": "9 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Business",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "THE DUBAI MALL",
+        "ar": ""
+      },
+      "distance": {
+        "en": "11 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Shopping",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI",
+        "ar": ""
+      },
+      "distance": {
+        "en": "14 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "RAS AL KHOR WILDLIFE SANCTUARY",
+        "ar": ""
+      },
+      "distance": {
+        "en": "4 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Nature/Wildlife",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "MEYDAN RACECOURSE",
+        "ar": ""
+      },
+      "distance": {
+        "en": "12 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Sports/Leisure",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI FRAME",
+        "ar": ""
+      },
+      "distance": {
+        "en": "12 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "DUBAI OPERA",
+        "ar": ""
+      },
+      "distance": {
+        "en": "15 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Entertainment",
+        "ar": ""
+      }
+    },
+    {
+      "name": {
+        "en": "PALM JUMEIRAH",
+        "ar": ""
+      },
+      "distance": {
+        "en": "28 MINUTES",
+        "ar": ""
+      },
+      "category": {
+        "en": "Landmark/Tourism",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 1646.66,
+  "maxAreaSqmt": 152.977,
+  "maxPriceAED": 2800000,
+  "minAreaSqft": 745.19,
+  "minAreaSqmt": 69.232,
+  "minPriceAED": 2800000,
+  "paymentPlan": {
+    "ar": "خطط دفع مرنة متاحة عند الطلب",
+    "en": "Flexible payment plans available upon request"
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/creek-vistas-grande/",
+  "projectStatus": {
+    "ar": "خارج الخطة",
+    "en": "Off Plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=your_video_id",
+  "views": [
+    {
+      "en": "Dubai Skyline",
+      "ar": ""
+    },
+    {
+      "en": "Burj Khalifa",
+      "ar": ""
+    },
+    {
+      "en": "Downtown Dubai",
+      "ar": ""
+    },
+    {
+      "en": "Ras Al Khor Wildlife Sanctuary",
+      "ar": ""
+    }
+  ],
+  "projectID": "sobha-creek-vistas-grande",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "slug": "coral-beach-villas",
+  "id": "sobha-coral-beach-villas",
+  "projectName": {
+    "ar": "فلل شاطئ المرجان",
+    "en": "Coral Beach Villas"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "أم القيوين",
+    "en": "Umm Al Quwain"
+  },
+  "description": {
+    "ar": "توفر فلل مرجان بيتش فلل فاخرة من 5 غرف نوم تمزج بين الأناقة العصرية وجمال الطبيعة البكر. توفر هذه الفلل أسلوب حياة هادئ مع حدائق خاصة ومسابح خاصة ومناطق خارجية واسعة وسهولة الوصول إلى الممرات الخشبية والبحيرات والشواطئ الخلابة.",
+    "en": "Coral Beach Villas offers luxurious 5-bedroom villas that blend modern elegance with nature’s pristine beauty. These villas provide a serene lifestyle with private gardens, private pools, spacious outdoor areas, and easy access to boardwalks, lagoons, and stunning beaches."
+  },
+  "3D_TourLink": "https://app.sobhasiniyaisland.com/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "شاطئ اللاجون",
+        "en": "LAGOON BEACH"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "الرياضات المائية المغامرة",
+        "en": "ADVENTURE WATER SPORTS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حوض السباحة",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مناطق لعب الأطفال",
+        "en": "CHILDREN’S PLAY AREAS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "سينما في الهواء الطلق",
+        "en": "Outdoor Cinema"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "ساحات ذات مناظر طبيعية",
+        "en": "Landscaped Courtyards"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "جزيرة صينية",
+    "en": "Siniya Island"
+  },
+  "bedrooms": [
+    5,
+    6
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/1.%20Coral%20Beach%20Villas_Sobha%20Siniya%20Island%20Brochure.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "+97180076242"
+  },
+  "deliveryDate": "2028-06-01",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015388.jpg.webp?itok=xKBhKP6I",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015390.jpg.webp?itok=UBtsvxW8",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015392.jpg.webp?itok=3ayBQAae",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015393.jpg.webp?itok=cSB294fT",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015391.jpg.webp?itok=8a2lWiOi"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-10/Mask%20Group%2015388.jpg.webp?itok=xKBhKP6I",
+  "latitude": 0,
+  "launchDate": "February 2025",
+  "location": {
+    "ar": "جزيرة صينية",
+    "en": "Siniya Island"
+  },
+  "longitude": 0,
+  "mapDescription": {
+    "ar": "null",
+    "en": "null"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "جزيرة المرجان",
+        "en": "MARJAN ISLAND"
+      },
+      "distance": {
+        "ar": "10 دقائق",
+        "en": "10 MINS"
+      },
+      "category": {
+        "ar": "جزيرة",
+        "en": "Island"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    },
+    {
+      "name": {
+        "ar": "الشارقة",
+        "en": "SHARJAH"
+      },
+      "distance": {
+        "ar": "30 دقيقة",
+        "en": "30 MINS"
+      },
+      "category": {
+        "ar": "مدينة",
+        "en": "City"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    },
+    {
+      "name": {
+        "ar": "دبي",
+        "en": "DUBAI"
+      },
+      "distance": {
+        "ar": "50 دقيقة",
+        "en": "50 MINS"
+      },
+      "category": {
+        "ar": "مدينة",
+        "en": "City"
+      },
+      "coordinates": {
+        "lat": 0,
+        "lon": 0
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 28120000,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 16620000,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://sobharealty.com/properties-in-dubai/coral-beach-villas/",
+  "projectStatus": {
+    "ar": "على الخارطة",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villas",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "Not available through public search results.",
+  "views": [
+    {
+      "en": "Beach",
+      "ar": "شاطئ"
+    },
+    {
+      "en": "Waterfront",
+      "ar": "واجهة مائية"
+    }
+  ],
+  "projectID": "sobha-coral-beach-villas",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

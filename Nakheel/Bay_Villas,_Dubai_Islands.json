@@ -1,0 +1,260 @@
+{
+  "slug": "Bay_Villas,_Dubai_Islands",
+  "id": "nakheel-Bay_Villas,_Dubai_Islands",
+  "projectName": {
+    "ar": "فلل باي، جزر دبي",
+    "en": "Bay Villas, Dubai Islands"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اكتشف فلل باي في جزر دبي. اختر من بين 5 تصاميم فلل فاخرة مع حدائق خاصة ووسائل راحة عالمية المستوى. عش بأناقة مع نخيل. فلل باي هي الخطوة الأولى نحو حياة راقية ومتصلة في الجزيرة B، حيث تجمع بين الجمال الطبيعي ووسائل الراحة المرموقة لخلق رفاهية استثنائية في قلب جزر دبي. اختر تصميمك العصري من بين خمسة أنواع من الفلل في مواقع مختلفة. تدمج فلل باي هذه العقارات الفاخرة مع حدائق خاصة ومساحات مجتمعية ومنتزهات مصممة جيدًا لاستكمال نمط حياة غني.",
+    "en": "Bay Villas is the first step in sophisticated, connected living on Island B, combining natural beauty and prestigious amenities to create exceptional luxury in the heart of Dubai Islands. Select your contemporary design from five villa typologies in different locations. Bay Villas integrates these majestic properties with private gardens and well-designed parks and community spaces to complete an enriched lifestyle."
+  },
+  "3D_TourLink": "https://bayvillas.dubaiislands.ae/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "",
+        "en": "Barbecue Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Beaches"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Children's Play Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Fitness Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Games Area"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sitting Pavilion"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Sports Courts"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Tot Lot"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "",
+        "en": "Swimming Pool"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "جزر دبي",
+    "en": "Dubai Islands"
+  },
+  "bedrooms": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "brand": "Nakheel",
+  "brochurePdfLink": "null",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "null",
+  "galleryImages": [
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-03-1003585b755-aa47-4c03-bc67-f241243683ac.jpg?sfvrsn=cbb79110_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-04-10016f6101c-ac26-4517-9954-ebd1bc34e3d1.jpg?sfvrsn=76aadf18_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-05-10022d90975-0328-44f2-ace6-47677bbda722.jpg?sfvrsn=ecaec5e9_1",
+    "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/desktop-06-1007dfd6754-dec7-4e40-8a22-5054800f6de2.jpg?sfvrsn=85ecdf36_1"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://www.nakheel.com/images/nakheelcorporatelibraries/developments/projects/desktop-02-100.jpg?sfvrsn=f97bb765_3",
+  "latitude": 25.312867,
+  "launchDate": "2024-05-13",
+  "location": {
+    "ar": "فلل باي في جزر دبي، تعيد تعريف فن الحياة، وتقدم واحة من الأناقة على خلفية إطلالات مائية خلابة ومسبحك الخاص. تمتد التصاميم الهندسية الحديثة إلى داخليات فخمة بألوان ساحلية حيث تخلق المواد عالية الجودة والتشطيبات المعقدة ملاذك الجزيري المثالي. توفر جزر دبي الفريدة نمط حياة استثنائيًا قريبًا من المدينة ولكنه بعيد عنها. عش وسط الشواطئ والمساحات الخضراء المورقة حيث تتكامل الطبيعة مع الحياة اليومية.",
+    "en": "Located in the heart of Dubai Islands."
+  },
+  "longitude": 55.327168,
+  "mapDescription": {
+    "ar": "تعد فلل باي في جزر دبي ملاذًا فاخرًا يجمع بين التصميم العصري ووسائل الراحة الراقية على خلفية إطلالات مائية خلابة. تقع بالقرب من وسط مدينة دبي ومطار دبي الدولي.",
+    "en": "Bay Villas is located in the heart of Dubai Islands, offering a tranquil island retreat close to the city."
+  },
+  "mapPointsOfInterest": [
+    {
+      "category": {
+        "en": "City Landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "26 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Downtown Dubai",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Landmark",
+        "ar": ""
+      },
+      "distance": {
+        "en": "6 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Infinity Bridge",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Airport",
+        "ar": ""
+      },
+      "distance": {
+        "en": "18 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Dubai International Airport",
+        "ar": ""
+      }
+    },
+    {
+      "category": {
+        "en": "Transport Hub",
+        "ar": ""
+      },
+      "distance": {
+        "en": "19 minutes",
+        "ar": ""
+      },
+      "name": {
+        "en": "Cruise Terminal",
+        "ar": ""
+      }
+    }
+  ],
+  "maxAreaSqft": 0,
+  "maxAreaSqmt": 0,
+  "maxPriceAED": 0,
+  "minAreaSqft": 0,
+  "minAreaSqmt": 0,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "null",
+    "en": "null"
+  },
+  "projectPageLink": "https://www.nakheel.com/en/new-launches/bay-villas",
+  "projectStatus": {
+    "ar": "على المخطط",
+    "en": "New Launch"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.nakheel.com/videos/nakheelcorporatelibraries/projects/bay-villas-official-video---1920x800.mp4?sfvrsn=f0a4cb6c_1",
+  "views": [
+    {
+      "en": "Water Views",
+      "ar": "إطلالات مائية"
+    }
+  ],
+  "projectID": "bay-villas,-dubai-islands",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

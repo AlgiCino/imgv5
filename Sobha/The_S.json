@@ -1,0 +1,105 @@
+{
+  "slug": "the-s",
+  "id": "sobha-the-s",
+  "projectName": {
+    "ar": "السين",
+    "en": "The S"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "برج إس هو سكن مميز على شارع الشيخ زايد بشقق فاخرة من 4 و 5 غرف نوم ويتمتع بإطلالات خلابة على البحر وملعب الجولف.",
+    "en": "The S tower is a signature residence on Sheikh Zayed Road with luxury 4 & 5 bedroom apartments and has stunning views of the sea and golf course."
+  },
+  "3D_TourLink": "https://the-s.sobha.cloud/",
+  "amenities": [],
+  "area": {
+    "ar": "شارع الشيخ زايد",
+    "en": "Sheikh Zayed Road"
+  },
+  "bedrooms": [
+    4,
+    5
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-11/28.%20The%20S%20Tower%20-%205%20Dec%202023.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": null,
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015282.jpg.webp?itok=BGio6T5z",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015284.jpg.webp?itok=-IswLWlI",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015286.jpg.webp?itok=qd9XdmkM",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015289.jpg.webp?itok=pf63Kq5d",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015248.jpg.webp?itok=dCAudiE4",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015249.jpg.webp?itok=UiN_9vGm",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015250.jpg.webp?itok=DGY3Loai",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015271.jpg.webp?itok=5dlYVZS-"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/2025-02/1440x619.jpg",
+  "latitude": null,
+  "launchDate": null,
+  "location": {
+    "ar": "شارع الشيخ زايد",
+    "en": "Sheikh Zayed Road"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "",
+    "en": ""
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": null,
+  "maxAreaSqmt": null,
+  "maxPriceAED": null,
+  "minAreaSqft": null,
+  "minAreaSqmt": null,
+  "minPriceAED": 8269000,
+  "paymentPlan": {
+    "ar": "",
+    "en": ""
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/the-s/",
+  "projectStatus": {
+    "ar": "",
+    "en": ""
+  },
+  "propertyTypes": [
+    {
+      "en": "Penthouse",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": null,
+  "views": [],
+  "projectID": "sobha-the-s",
+  "projectCategory": "Project",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

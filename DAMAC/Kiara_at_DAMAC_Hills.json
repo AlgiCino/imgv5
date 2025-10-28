@@ -1,0 +1,115 @@
+{
+  "slug": "damac-hills",
+  "id": "damac-damac-hills",
+  "projectName": {
+    "ar": "كيارا في داماك هيلز",
+    "en": "Kiara at DAMAC Hills"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "كيارا في داماك هيلز. استثمر في العقارات بالعملات الرقمية واحصل على تأشيرة إقامة في الإمارات ✓ مشاريع فاخرة قيد الإنشاء في دبي بعوائد مرتفعة ✓ خطط سداد مرنة وميسرة.",
+    "en": "Kiara at DAMAC Hills. Invest in real estate with cryptocurrencies and get a residency visa in the UAE ✓ Luxury off-plan projects in Dubai with high returns ✓ Flexible and easy payment plans."
+  },
+  "3D_TourLink": "https://www.damacproperties.com/ar-ae/communities/damac-hills-2/projects/elo-3/properties/2-apartment/",
+  "amenities": [],
+  "area": {
+    "ar": "داماك هيلز",
+    "en": "DAMAC Hills"
+  },
+  "bedrooms": [
+    "Studio",
+    "1 Bedroom",
+    "2 Bedrooms",
+    "3 Bedrooms"
+  ],
+  "brand": "داماك العقارية",
+  "brochurePdfLink": "Available upon request from real estate agents and Damac Properties.",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "Ready (Reported completion dates range from 2019 to Jan 2021)",
+  "galleryImages": [],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/5NKzeIGVvXpl9CkJbZ1hfk/1cf2195f3ac046aa2cdbbd07af0a9d66/kiara-at-damac-hills-hero-image-mobile.jpg",
+  "latitude": 25.019696,
+  "launchDate": "November 26, 2018",
+  "location": {
+    "ar": "داماك هيلز، دبي لاند، دبي، مقابل نادي ترامب الدولي للجولف.",
+    "en": "Damac Hills, Dubailand, Dubai, opposite Trump International Golf Club."
+  },
+  "longitude": 55.24528,
+  "mapDescription": {
+    "ar": "تقع كيارا في مجتمع داماك هيلز الخلاب في منطقة دبي لاند الشهيرة بدبي، مقابل نادي ترامب الدولي للجولف مباشرة.",
+    "en": "Kiara is located in the picturesque community of Damac Hills in the popular area of Dubailand, Dubai, directly opposite the Trump International Golf Club."
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 1950,
+  "maxAreaSqmt": 181.16,
+  "maxPriceAED": 2199000,
+  "minAreaSqft": 387,
+  "minAreaSqmt": 35.95,
+  "minPriceAED": 540000,
+  "paymentPlan": {
+    "ar": "توجد خطط متعددة، وإحدى الخطط الشائعة هي: دفعة أولى 20% + 4% ضريبة دائرة الأراضي والأملاك؛ 7.5% كل 3 أشهر (السنة الأولى)؛ 10% كل 3 أشهر (السنة الثانية)؛ 2.5% كل 3 أشهر (السنة الثالثة). وهناك خطة شائعة أخرى هي دفعة أولى 14%، تليها دفعات ربع سنوية بنسب 7.5% و10% و5%. تتضمن بعض العروض خطة سداد لمدة 5 سنوات بدفعة أولى 20% و80% بعد التسليم خلال 36 شهرًا.",
+    "en": "Multiple plans exist, one common plan is: 20% Down Payment + 4% DLD; 7.5% every 3 months (first Year); 10% every 3 months (Second Year); 2.5% every 3 months (Third Year). Another common plan is 14% Down Payment, then quarterly payments of 7.5%, 10%, and 5%. Some offers include a 5-year payment plan with 20% down payment and 80% post-handover within 36 months."
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/kiara-at-damac-hills/",
+  "projectStatus": {
+    "ar": "جاهز",
+    "en": "Ready"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": "شقق"
+    },
+    {
+      "en": "Studios",
+      "ar": "استوديوهات"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/embed/PNfYupqPT1U (3 Bedroom Apartment Walkthrough - Kiara at DAMAC Hills)",
+  "views": [
+    {
+      "en": "Golf Course Views",
+      "ar": "إطلالات على ملعب الجولف"
+    },
+    {
+      "en": "Trump International Golf Club Dubai Views",
+      "ar": "مناظر نادي ترامب الدولي للجولف دبي"
+    },
+    {
+      "en": "Surrounding Greenery",
+      "ar": "الخضرة المحيطة"
+    }
+  ],
+  "projectID": "damac-damac-hills",
+  "projectCategory": "Community",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "slug": "one-park-avenue",
+  "id": "sobha-one-park-avenue",
+  "projectName": {
+    "ar": "وان بارك أفينيو",
+    "en": "One Park Avenue"
+  },
+  "country": {
+    "ar": "الإمارات",
+    "en": "UAE"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "اشترك في أسلوب الحياة المثالي في ون بارك أفينيو، حيث يتعايش الطبيعة والتكنولوجيا بشكل مثالي. ابقَ محاطًا ببطانية من المساحات الخضراء بينما تستمتع بالفوائد العديدة للتقنيات الذكية في منزلك. استمتع بكل ما هو فاخر ومريح وآمن في هذا العنوان المركزي المتجذر في قلب دبي.",
+    "en": "Sign up for the ideal way of life at One Park Avenue, where nature and technology perfectly coexist. Stay cocooned in a blanket of greens while enjoying the myriad benefits of smart technologies in your home. Enjoy all that is luxurious, convenient, and secure in this very central address that is rooted right in the heart of Dubai."
+  },
+  "3D_TourLink": "https://sobha.cloud/",
+  "amenities": [
+    {
+      "name": {
+        "ar": "حمام سباحة",
+        "en": "SWIMMING POOL"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "صالة الألعاب الرياضية الذكية",
+        "en": "SMART GYM"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "حديقة السماء",
+        "en": "SKY GARDEN"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "المدارس الدولية",
+        "en": "INTERNATIONAL SCHOOLS"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "brand": "Sobha Realty",
+  "brochurePdfLink": "https://sobharealty.com/sites/default/files/2024-03/one-park-avenue_master-brochure.pdf",
+  "contact": {
+    "phone": "+971 800 999 999",
+    "whatsapp": "97180076242"
+  },
+  "deliveryDate": "April 2023",
+  "galleryImages": [
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015380_18.jpg.webp?itok=L7TMZc9_",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015381_17.jpg.webp?itok=hRxLQFQK",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015382_16.jpg.webp?itok=H1npZyHG",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015383_10.jpg.webp?itok=nycKXFI3",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015384_10.jpg.webp?itok=9VdgUNAE",
+    "https://sobharealty.com/sites/default/files/styles/webp/public/2024-07/Mask%20Group%2015385_6.jpg.webp?itok=3ym8Q-j2"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://sobharealty.com/sites/default/files/styles/webp/public/2024-11/Sobha%20Hartland%20one%20park%20avenue.jpg.webp?itok=qyE0mUMy",
+  "latitude": null,
+  "launchDate": "August 15, 2019",
+  "location": {
+    "ar": "مدينة محمد بن راشد",
+    "en": "Mohammed Bin Rashid City"
+  },
+  "longitude": null,
+  "mapDescription": {
+    "ar": "\"وان بارك أفينيو هو مبنى سكني مكون من 28 طابقًا يقع في سوبها هارتلاند، مدينة محمد بن راشد (MBR City)، دبي. يقع بالقرب من طريق رأس الخور، وطريق الميدان، وطريق العين - دبي، ويوفر إطلالات على خور دبي، ووسط مدينة دبي، ومحمية رأس الخور للحياة البرية، وقناة دبي المائية، ومضمار ميدان للسباق. ويوفر سهولة الوصول إلى المعالم الرئيسية مثل برج خليفة، ودبي مول، والمدارس الدولية.\"",
+    "en": "One Park Avenue is a 28-storey residential building located in Sobha Hartland, Mohammed Bin Rashid City (MBR City), Dubai. It is situated near Ras Al Khor Road, Al Meydan Road, and Al Ain – Dubai Road, offering views of Dubai Creek, Downtown Dubai, Ras Al Khor Wildlife Sanctuary, Dubai Water Canal, and Meydan Racecourse. It provides easy access to major attractions like Burj Khalifa, The Dubai Mall, and international schools."
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "سوبها هارتلاند ومدرستان دوليتان",
+        "en": "SOBHA HARTLAND & 2 INTERNATIONAL SCHOOLS"
+      },
+      "distance": {
+        "ar": "دقيقتان",
+        "en": "2 MINUTES"
+      },
+      "category": {
+        "ar": "التعليم",
+        "en": "Education"
+      }
+    },
+    {
+      "name": {
+        "ar": "مطار دبي الدولي",
+        "en": "DUBAI INTERNATIONAL AIRPORT"
+      },
+      "distance": {
+        "ar": "١٤ دقيقة",
+        "en": "14 MINUTES"
+      },
+      "category": {
+        "ar": "النقل",
+        "en": "Transportation"
+      }
+    },
+    {
+      "name": {
+        "ar": "دبي مول",
+        "en": "THE DUBAI MALL"
+      },
+      "distance": {
+        "ar": "١٤ دقيقة",
+        "en": "14 MINUTES"
+      },
+      "category": {
+        "ar": "التسوق",
+        "en": "Shopping"
+      }
+    },
+    {
+      "name": {
+        "ar": "برج خليفة ووسط مدينة دبي",
+        "en": "BURJ KHALIFA & DOWNTOWN DUBAI"
+      },
+      "distance": {
+        "ar": "١٩ دقيقة",
+        "en": "19 MINUTES"
+      },
+      "category": {
+        "ar": "معلم بارز",
+        "en": "Landmark"
+      }
+    },
+    {
+      "name": {
+        "ar": "نخلة جميرا",
+        "en": "PALM JUMEIRAH"
+      },
+      "distance": {
+        "ar": "٢٩ دقيقة",
+        "en": "29 MINUTES"
+      },
+      "category": {
+        "ar": "معلم بارز",
+        "en": "Landmark"
+      }
+    }
+  ],
+  "maxAreaSqft": 2964,
+  "maxAreaSqmt": 275.36,
+  "maxPriceAED": 5000000,
+  "minAreaSqft": 744,
+  "minAreaSqmt": 69.11,
+  "minPriceAED": 0,
+  "paymentPlan": {
+    "ar": "خيارات خطة سداد 20/80 مع خيارات دفعة أولى بنسبة 20%",
+    "en": "20/80 payment plan options with 20% down-payment options"
+  },
+  "projectPageLink": "https://sobharealty.com/apartments-for-sale-in-dubai/one-park-avenue/",
+  "projectStatus": {
+    "ar": "مكتمل",
+    "en": "Completed"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartments",
+      "ar": ""
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://www.youtube.com/watch?v=kYJ4aCqB3yE",
+  "views": [
+    {
+      "en": "Skyscraper views",
+      "ar": "مناظر ناطحات السحاب"
+    }
+  ],
+  "projectID": "sobha-one-park-avenue",
+  "projectCategory": "Building",
+  "summary": {
+    "en": "",
+    "ar": ""
+  },
+  "heroCopy": {
+    "en": {
+      "title": "",
+      "subtitle": ""
+    },
+    "ar": {
+      "title": "",
+      "subtitle": ""
+    }
+  },
+  "insights": {
+    "en": "",
+    "ar": ""
+  }
+}

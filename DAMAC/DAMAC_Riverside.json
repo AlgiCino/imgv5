@@ -1,0 +1,209 @@
+{
+  "slug": "damac-riverside",
+  "id": "damac-damac-riverside",
+  "projectName": {
+    "ar": "داماك ريفرسايد",
+    "en": "DAMAC Riverside"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "داماك ريفرسايد هو مجتمع رئيسي طموح في دبي، مصمم لتقديم مزيج فريد من الحياة الفاخرة والهدوء الطبيعي. يضم مجموعة متنوعة من الخيارات السكنية بما في ذلك الفلل والشقق والتاون هاوس، وكلها تقع وسط مناظر طبيعية خضراء ووسائل راحة مبتكرة على الواجهة المائية. يركز المجتمع على أسلوب حياة شامل مع التركيز على الرفاهية والأنشطة الخارجية، مما يوفر للمقيمين بيئة استثنائية للحياة العصرية.",
+    "en": "DAMAC Riverside is an ambitious master community in Dubai, designed to offer a unique blend of luxury living and natural serenity. It features a diverse range of residential options including villas, apartments, and townhouses, all set amidst lush landscapes and innovative waterfront amenities. The community emphasizes a holistic lifestyle with a focus on well-being and outdoor activities, providing residents with an exceptional environment for modern living."
+  },
+  "3D_TourLink": null,
+  "amenities": [
+    {
+      "name": {
+        "ar": "ممشى على النهر",
+        "en": "Riverside Promenade"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مرافق رياضية عائمة",
+        "en": "Floating Sports Facilities"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مزارع مائية",
+        "en": "Hydroponic Farms"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مدرج",
+        "en": "Amphitheatre"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مناطق لعب الأطفال",
+        "en": "Kids Play Areas"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    },
+    {
+      "name": {
+        "ar": "مراكز اللياقة البدنية والعافية",
+        "en": "Fitness & Wellness Centers"
+      },
+      "description": {
+        "ar": "",
+        "en": ""
+      }
+    }
+  ],
+  "area": {
+    "ar": "داماك ريفرسايد",
+    "en": "DAMAC Riverside"
+  },
+  "bedrooms": [
+    1,
+    2
+  ],
+  "brand": "DAMAC",
+  "brochurePdfLink": "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2029-03-31",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=114&h=30&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/3lLGhTgmvt67TI80F2Pirf/817e034874fbe8a01f8e8cd1158ebaf8/DAMAC_EN_-_BLACK.png?fm=webp&w=170&h=48&fit=pad&q=100",
+    "https://images.ctfassets.net/zoq5l15g49wj/59ggZKFK3rJTqXZJVpadjb/106f28bfab2e74b17999223e0e72afcb/Riverside_Views-Amenities-01-Malibu_Cove.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1psbs716RprLC9bxPVPU4u/db8c1c78a58b77e28d2e9ea0db33e834/Riverside_Views-Amenities-02-Essential_oils_lake.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5Zsa5CNtTzcsFZNFzsRSPG/fff1aac58eff8ffebe2b671b30b40647/Riverside_Views-Amenities-03-Peace_room.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/51rafzAN6WEuGkf9Z9HhPZ/fd51567298fbe9bbf91bd3882e27c952/Riverside_Views-Amenities-04-Floating_sports.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6KZaRJuJysd62hKDtlLTT2/63a3e131557696863721aa0ec50883ed/Riverside_Views-Amenities-05-Calisthenics_stations.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4qDHMI1akD0rTvZr1OSszD/357ac56ad327aaa42145f033783b50cd/Riverside_Views-Amenities-06-Cooking_stations.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5XM01JSIBgNNIF4cFVJXUe/9f7222a3d4b78f32a256d7f8db91e83a/Riverside_Views-Amenities-07-Island_restaurant.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6plcBVSAHkb9Ra0ea3r9uK/bf494e2ded10040dc0e3a35b2e122866/Riverside_Views-Amenities-08-Adventure_land.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/2yuctXk3jzCjzB1tRBAjVT/d1cd31943c7a4f48d43b4418e2a6461c/Riverside_Views-Amenities-09-Floating_stage.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6237dTtXXqCwYx4gE9cy86/f059a69384063884b19410de8f55c4af/car.png",
+    "https://images.ctfassets.net/zoq5l15g49wj/3FkfwNwbpr2MzYh2GJHYPX/3544eb5772c334221e5a5247677d51d2/Our_Expertise_1_1.webp",
+    "https://images.ctfassets.net/zoq5l15g49wj/7luCCTKlSLig9E5JrqTtK8/f14263a8c3a38956ea3a01c957a80789/DAMAC_Riverside-Project_BG_Image_16x9.jpg"
+  ],
+  "goldenVisaEligible": false,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/9KdIztI3bv5N3ndJeRxvy/d6295383558a89716f2c671edffe8d5b/703270586-653x685-en.jpg",
+  "latitude": 24.9395,
+  "launchDate": "Q4 2024",
+  "location": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "longitude": 55.4206,
+  "mapDescription": {
+    "ar": "داماك ريفرسايد هو مجتمع رئيسي جديد في دبي، يقدم تجربة معيشية فريدة.",
+    "en": "DAMAC Riverside is a new master community in Dubai, offering a unique living experience."
+  },
+  "mapPointsOfInterest": [],
+  "maxAreaSqft": 3407,
+  "maxAreaSqmt": 316.52,
+  "maxPriceAED": 3850000,
+  "minAreaSqft": 2297,
+  "minAreaSqmt": 213.39,
+  "minPriceAED": 2499,
+  "paymentPlan": {
+    "ar": "خطة سداد مرنة",
+    "en": "Flexible Payment Plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/en/communities/damac-riverside/projects/damac-riverside-views/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Off-plan"
+  },
+  "propertyTypes": [
+    {
+      "en": "Villa",
+      "ar": "فيلا"
+    },
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    },
+    {
+      "en": "Townhouse",
+      "ar": "تاون هاوس"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/2so1eKjmazRxzXo8h1joRW/e375c8628c8083622014ea310daccb2c/Riverside_Views_2499_Launch_video__9X16__EN.mp4",
+  "views": [
+    {
+      "en": "Riverside Views",
+      "ar": "إطلالات على النهر"
+    }
+  ],
+  "summary": {
+    "en": "DAMAC Riverside offers a unique master community experience in Dubai, combining luxury living with innovative amenities. Invest in off-plan villas, apartments, and townhouses with flexible payment plans and potential for high ROI.",
+    "ar": "يقدم داماك ريفرسايد تجربة مجتمعية رئيسية فريدة في دبي، تجمع بين الحياة الفاخرة ووسائل الراحة المبتكرة. استثمر في الفلل والشقق والتاون هاوس قيد الإنشاء بخطط سداد مرنة وإمكانية تحقيق عائد استثماري مرتفع."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "DAMAC Riverside: Your New Waterfront Lifestyle",
+      "subtitle": "Luxury Off-Plan Properties with Flexible Payment Plans"
+    },
+    "ar": {
+      "title": "داماك ريفرسايد: أسلوب حياتك الجديد على الواجهة المائية",
+      "subtitle": "عقارات فاخرة قيد الإنشاء بخطط سداد مرنة"
+    }
+  },
+  "highlights": [
+    {
+      "en": "Master community with innovative riverside amenities.",
+      "ar": "مجتمع رئيسي بوسائل راحة نهرية مبتكرة."
+    },
+    {
+      "en": "Variety of property types: villas, apartments, and townhouses.",
+      "ar": "تنوع في أنواع العقارات: فلل، شقق، وتاون هاوس."
+    },
+    {
+      "en": "Attractive off-plan investment with high ROI potential and residential visa eligibility.",
+      "ar": "استثمار جذاب قيد الإنشاء مع إمكانية تحقيق عائد استثماري مرتفع وأهلية الحصول على تأشيرة إقامة."
+    }
+  ],
+  "insights": {
+    "en": "DAMAC Riverside presents a compelling investment opportunity in Dubai's growing real estate market, particularly for those seeking modern off-plan properties with strong community features and long-term value appreciation.",
+    "ar": "يمثل داماك ريفرسايد فرصة استثمارية مغرية في سوق العقارات المتنامي في دبي، خاصة لأولئك الذين يبحثون عن عقارات حديثة قيد الإنشاء تتميز بميزات مجتمعية قوية وتقدير قيمة على المدى الطويل."
+  },
+  "media": {
+    "videos": [
+      "https://videos.ctfassets.net/zoq5l15g49wj/2so1eKjmazRxzXo8h1joRW/e375c8628c8083622014ea310daccb2c/Riverside_Views_2499_Launch_video__9X16__EN.mp4",
+      "https://videos.ctfassets.net/zoq5l15g49wj/4DuJSC2klM0E2KEmwXmXej/0a7af77ab4ca574f71688763b5693afa/RIVERSIDE_VIEWS_Hero_video_9x16_English.mp4",
+      "https://videos.ctfassets.net/zoq5l15g49wj/6VZ1xLrE56eKkPVdiOS69l/a43c425c2978291c6d73f36254d8ef7b/RIVERSIDE_VIEWS_MV-MOBILE.mp4"
+    ],
+    "pdfs": [
+      "https://prod-cdn.damacproperties.com/uploads/magazine/luxlife-full-mag-eng.pdf"
+    ]
+  },
+  "projectID": "damac-damac-riverside",
+  "projectCategory": "Community"
+}

@@ -1,0 +1,347 @@
+{
+  "slug": "chelsea-residences",
+  "id": "damac-chelsea-residences",
+  "projectName": {
+    "ar": "تشيلسي ريزيدنسز",
+    "en": "Chelsea Residences"
+  },
+  "country": {
+    "ar": "الإمارات العربية المتحدة",
+    "en": "United Arab Emirates"
+  },
+  "city": {
+    "ar": "دبي",
+    "en": "Dubai"
+  },
+  "description": {
+    "ar": "عبر شراكة عالمية مع نادي تشيلسي لكرة القدم، تقدم لك داماك أول مشروع سكني يحمل توقيع علامة من عالم كرة القدم في دبي. يتمتع هذا المشروع المتألق بموقعه في مدينة دبي الملاحية، وإطلالاته الآسرة على الواجهة البحرية، كما يضم أكثر من 1,400 منزل، تمنحك جميعها تجربة معيشية استثنائية تغتني بإرث نادي تشيلسي العريق. تشيلسي ريزيدنسز من داماك هو عنوان يجتمع فيه الشغف وأناقة التفاصيل وسحر الأداء. من المرافق الحصرية المستوحاة من عالم تشيلسي إلى التصاميم الداخلية الفاخرة، كل ما في هذا المشروع يعكس روح الأبطال بأجمل صورة.",
+    "en": "Through a global partnership with Chelsea Football Club, DAMAC presents the first residential project bearing the signature of a football brand in Dubai. This sparkling project enjoys its location in Dubai Maritime City, with captivating waterfront views, and includes over 1,400 homes, all offering an exceptional living experience enriched by the rich legacy of Chelsea Club. Chelsea Residences by DAMAC is an address where passion, elegant details, and the magic of performance come together. From exclusive facilities inspired by the world of Chelsea to luxurious interior designs, everything in this project reflects the spirit of champions in the most beautiful way."
+  },
+  "3D_TourLink": "https://view.propvr.tech/yRnIS3/projectscene/68199895becd789dc70cce7d/681ca3ed33edda4c1271a0ef",
+  "amenities": [
+    {
+      "name": {
+        "ar": "شاطئ تشيلسي لايون",
+        "en": "Chelsea Lion Beach"
+      },
+      "description": {
+        "ar": "اكتشف أول شاطئ في العالم يتغنى برماله الزرقاء. إبداع استثنائي ترتقي معه زيارة الشاطئ إلى تجربة فريدة وغامرة تحمل روح فريق تشيلسي.",
+        "en": "Discover the world's first beach with blue sands. An exceptional creation that elevates a beach visit to a unique and immersive experience carrying the spirit of the Chelsea team."
+      }
+    },
+    {
+      "name": {
+        "ar": "قمة ستامفورد، ملعب السطح",
+        "en": "Stamford Summit, Rooftop Pitch"
+      },
+      "description": {
+        "ar": "اختبر متعة كرة القدم وسط الغيوم، واكتشف ملعبنا على السطح. تجربة يلتقي فيها الشغف باللعب مع روعة المشهد.",
+        "en": "Experience the joy of football amidst the clouds, and discover our rooftop pitch. An experience where the passion for the game meets the splendor of the view."
+      }
+    },
+    {
+      "name": {
+        "ar": "غرفة تشيلسي لمحاكاة كرة القدم",
+        "en": "Chelsea Football Simulation Room"
+      },
+      "description": {
+        "ar": "ادخل عالم المحترفين وابدأ تدريباتك وكأنك وسط الملعب. طور مهاراتك وخطط لعبتك مع أحدث التقنيات في عالم التجارب الغامرة.",
+        "en": "Enter the world of professionals and start your training as if you are on the field. Develop your skills and plan your game with the latest technologies in the world of immersive experiences."
+      }
+    },
+    {
+      "name": {
+        "ar": "مركز تدريبات تشيلسي للأداء الرياضي",
+        "en": "Chelsea Sports Performance Training Center"
+      },
+      "description": {
+        "ar": "انتقل بتمارينك إلى مستويات احترافية في الصالة الرياضية المستوحاة من عالم المياه. وذلك مع أوزان مملوءة بالماء، وتصاميم عصرية، ولياقة ما لها حد.",
+        "en": "Take your workouts to professional levels in the gym inspired by the world of water. With water-filled weights, modern designs, and limitless fitness."
+      }
+    },
+    {
+      "name": {
+        "ar": "شاطئ المرجان، جوهرة المحيط",
+        "en": "Coral Beach, Ocean's Jewel"
+      },
+      "description": {
+        "ar": "عِش أسلوب حياة المنتجعات مع شاطئ وحديقة تحتضن نباتات مستوحاة من الشعاب المرجانية، وذلك في لوحة تتناغم فيها مشاهد أعماق البحار والطبيعة.",
+        "en": "Live a resort lifestyle with a beach and garden embracing plants inspired by coral reefs, in a tableau where scenes of the deep sea and nature harmonize."
+      }
+    },
+    {
+      "name": {
+        "ar": "منطقة للعب الصغار مستوحاة من أعماق البحار",
+        "en": "Deep Sea Inspired Kids Play Area"
+      },
+      "description": {
+        "ar": "دع صغارك يمرحون في منطقة مصممة بإلهام من أعماق البحار. ضحكاتهم ستغمر المكان بالسعادة، حيث المغامرات والألعاب على كل زاوية من زوايا المسبح.",
+        "en": "Let your little ones play in an area designed with inspiration from the deep sea. Their laughter will fill the place with happiness, where adventures and games are around every corner of the pool."
+      }
+    },
+    {
+      "name": {
+        "ar": "سبا سيرينيتي",
+        "en": "Serenity Spa"
+      },
+      "description": {
+        "ar": "جدد حيويتك في سبا يغمر حواسك مع انسياب مياه المطر، والعلاجات المائية التي تنعش الجسد وتصفّي الذهن، وتبعث الراحة في الروح.",
+        "en": "Rejuvenate your vitality in a spa that immerses your senses with flowing rainwater, and hydrotherapy treatments that refresh the body, clear the mind, and bring peace to the soul."
+      }
+    },
+    {
+      "name": {
+        "ar": "واحة العافية تحت النجوم",
+        "en": "Wellness Oasis Under the Stars"
+      },
+      "description": {
+        "ar": "استرخِ، وعِش أجواء الصفاء والسكينة في واحة صممت لتقدم لك علاجات متكاملة، تتناغم مع سحر الليل وأنوار النجوم.",
+        "en": "Relax and experience serenity in an oasis designed to offer you integrated treatments, harmonizing with the magic of the night and the glow of the stars."
+      }
+    },
+    {
+      "name": {
+        "ar": "علاج المطر",
+        "en": "Rain Therapy"
+      },
+      "description": {
+        "ar": "تخيل أن تقف تحت أمطار لطيفة، وتنعم بتجربة تلامس روحك، وتخفف التوتر، وتعيد التوازن لجسمك، وتحيا فيها الهدوء والصفاء وتجدد ارتباطك بالطبيعة.",
+        "en": "Imagine standing under gentle rain, enjoying an experience that touches your soul, relieves stress, restores balance to your body, and brings peace and serenity, renewing your connection with nature."
+      }
+    }
+  ],
+  "area": {
+    "ar": "مدينة دبي البحرية",
+    "en": "Dubai Maritime City"
+  },
+  "bedrooms": [
+    1,
+    2,
+    3
+  ],
+  "brand": "DAMAC Properties",
+  "brochurePdfLink": "https://downloads.ctfassets.net/zoq5l15g49wj/32NQYslOxv49gWtFui7K2F/656d958ca265e33372342a9051bf34b1/Chelsea_English.pdf",
+  "contact": {
+    "phone": "971556628972",
+    "whatsapp": "https://api.whatsapp.com/send/?phone=%2B971556628972&text&type=phone_number&app_absent=0"
+  },
+  "deliveryDate": "2029-12-31",
+  "galleryImages": [
+    "https://images.ctfassets.net/zoq5l15g49wj/6yEN3dxHhcEXWPV4ZGIVFE/a7ffe7ba706485f98bbff7d6c9537849/Chelsea_Residences-Homepage_Hero_9x16.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1ekJe0zSQqUN4LwZB8Y7Ux/9ca4fca5b30bd47a406d380fbc7ee6cb/Chelsea_Residences-Gallery-00.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6rz6wkmwR8pr62RIrbA7MF/1f580acb361240a9afdcfcd007273b80/AR_-_Chelsea_Residences-Gallery-01-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7vk3lIXAcf11PkulJY7eUk/023660fd8104a872faf42515103d8423/Chelsea_Residences-Gallery-02.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6prg9PTM3J2gtXbI8k7WFM/3084b96a8d451b96439c997957363bf5/Chelsea_Residences-Gallery-03.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/52JLpZjAaKaAcFjGOYDbwE/95cbcfae54d447b04abf22f9e3955745/AR_-_Chelsea_Residences-Gallery-04-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5e1IBtFxmlGuv2gaWhNAe/cc1582040e9af28d5193b762159b98ab/Chelsea_Residences-Gallery-05.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/7yiQUWu01nvecd71uYFFCv/89fd6a59559a122fdf4eaef6a1fbe782/Chelsea_Residences-Gallery-08.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5CZ00dsgJXe33zJq4lnCc4/8ce7aacd2acb2e1cc8c500685c812a65/Chelsea_Residences-Gallery-09.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1eUZX4kfxDvHvqpVsgjJEw/3d9d22c7837f8deeec5a2e422c30d754/AR_-_Chelsea_Residences-Gallery-10-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4R3fLMZS78NKDCC2RJ68FY/2556fba71ce3ad1c2cab608ac1ff1518/Chelsea_Residences-Gallery-11.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5vMitf7mTMSTG2xXhs6MYB/3f6cce5cd2bddd7f548c8fd387a89158/Chelsea_Residences-Gallery-12.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/5fEYAShJlCoLT1gR0zDOol/271eae95912a12c55e8d9f802992bc0f/AR_-_Chelsea_Residences-Gallery-13-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/DcoIz9Y7uSpxTKEeGm9aT/de233f985620ddcd4aa3c1808dbaab95/Chelsea_Residences-Gallery-14.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/4zSc5lOu4Ved3YCFu4ojm1/ba1e48997acc9406dad1c30c4d912a10/Chelsea_Residences-Gallery-15.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/56msdH4z9vhxDQv08DxMWi/9f7ad1f370b81645301b31ac445662be/AR_-_Chelsea_Residences-Gallery-16-AR.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/6xB9tOh6jcSIFFxR7kkNlG/646b3612b31e5315b2c01a2a9afbdd9d/Chelsea_Residences-Gallery-17.jpg",
+    "https://images.ctfassets.net/zoq5l15g49wj/1moLdrptanHF6pSznZ8Tqd/4a8b0acb4ab2d39da56bc164acc584c7/Chelsea_Residences-Gallery-18.jpg"
+  ],
+  "goldenVisaEligible": true,
+  "heroImage": "https://images.ctfassets.net/zoq5l15g49wj/3ACFCoKPvL8GqiFqFx2OpS/d552a0e2d40ed28eb708aef5c36a5add/Chelsea_Residences-Homepage_Hero_16x9.jpg",
+  "latitude": 25.27971358,
+  "launchDate": "2025-05-27",
+  "location": {
+    "ar": "يتمتع هذا المشروع المتألق بموقعه في مدينة دبي الملاحية، وإطلالاته الآسرة على الواجهة البحرية",
+    "en": "This sparkling project enjoys its location in Dubai Maritime City, with captivating waterfront views"
+  },
+  "longitude": 55.25970954,
+  "mapDescription": {
+    "ar": "بالقرب من كل ما تحتاج إليه متصل بأرجاء دبي",
+    "en": "Close to everything you need, connected to all parts of Dubai"
+  },
+  "mapPointsOfInterest": [
+    {
+      "name": {
+        "ar": "برج خليفة",
+        "en": "Burj Khalifa"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.197381428894705,
+        "lon": 55.274333488977916
+      }
+    },
+    {
+      "name": {
+        "ar": "برج العرب",
+        "en": "Burj Al Arab"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.14119,
+        "lon": 55.18524
+      }
+    },
+    {
+      "name": {
+        "ar": "نخلة جميرا",
+        "en": "Palm Jumeirah"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.11243,
+        "lon": 55.13897
+      }
+    },
+    {
+      "name": {
+        "ar": "مطار دبي الدولي",
+        "en": "Dubai International Airport"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.25669,
+        "lon": 55.36431
+      }
+    },
+    {
+      "name": {
+        "ar": "مستشفى إن إم سي رويال",
+        "en": "NMC Royal Hospital"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.0093966916407,
+        "lon": 55.154450861809664
+      }
+    },
+    {
+      "name": {
+        "ar": "مطار آل مكتوم",
+        "en": "Al Maktoum Airport"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 24.886174328294555,
+        "lon": 55.15876970858737
+      }
+    },
+    {
+      "name": {
+        "ar": "نادي دبي للبولو والفروسية",
+        "en": "Dubai Polo & Equestrian Club"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.038682271572984,
+        "lon": 55.25601657733437
+      }
+    },
+    {
+      "name": {
+        "ar": "شاطئ جميرا",
+        "en": "Jumeirah Beach"
+      },
+      "distance": {
+        "ar": "غير متوفر",
+        "en": "Not Available"
+      },
+      "category": {},
+      "coordinates": {
+        "lat": 25.194206676239993,
+        "lon": 55.23157596493211
+      }
+    }
+  ],
+  "maxAreaSqft": 2049,
+  "maxAreaSqmt": 190.35,
+  "maxPriceAED": 5775000,
+  "minAreaSqft": 922,
+  "minAreaSqmt": 85.65,
+  "minPriceAED": 2796000,
+  "paymentPlan": {
+    "ar": "خطة سداد 1%",
+    "en": "1% Payment Plan"
+  },
+  "projectPageLink": "https://www.damacproperties.com/ar-ae/projects/chelsea-residences/",
+  "projectStatus": {
+    "ar": "قيد الإنشاء",
+    "en": "Under Construction"
+  },
+  "propertyTypes": [
+    {
+      "en": "Apartment",
+      "ar": "شقة"
+    }
+  ],
+  "sellable": true,
+  "videoLink": "https://videos.ctfassets.net/zoq5l15g49wj/lUj3xuWW7yr7G00V0NIaa/56095c895dfbcef7a07d236c3f20f6e3/Chelsea_Residence_Hero_Video_16X9_English.mp4",
+  "views": [
+    {
+      "en": "Sea Views",
+      "ar": "إطلالات بحرية"
+    }
+  ],
+  "summary": {
+    "en": "Chelsea Residences, in partnership with Chelsea FC, offers over 1,400 luxury homes in Dubai Maritime City. Experience an exceptional lifestyle with exclusive football-inspired amenities, captivating waterfront views, and elegant designs reflecting the spirit of champions.",
+    "ar": "تقدم تشيلسي ريزيدنسز، بالشراكة مع نادي تشيلسي لكرة القدم، أكثر من 1400 منزل فاخر في مدينة دبي الملاحية. استمتع بأسلوب حياة استثنائي مع وسائل راحة حصرية مستوحاة من كرة القدم، وإطلالات آسرة على الواجهة البحرية، وتصاميم أنيقة تعكس روح الأبطال."
+  },
+  "heroCopy": {
+    "en": {
+      "title": "Chelsea Residences: Where Football Passion Meets Luxury Living",
+      "subtitle": "Exclusive Waterfront Homes in Dubai Maritime City"
+    },
+    "ar": {
+      "title": "تشيلسي ريزيدنسز: حيث يلتقي شغف كرة القدم بالعيش الفاخر",
+      "subtitle": "منازل حصرية على الواجهة البحرية في مدينة دبي الملاحية"
+    }
+  },
+  "highlights": [
+    {
+      "en": "First residential project in Dubai with Chelsea FC branding and football-inspired amenities.",
+      "ar": "أول مشروع سكني في دبي يحمل علامة نادي تشيلسي لكرة القدم ووسائل راحة مستوحاة من كرة القدم."
+    },
+    {
+      "en": "Exclusive Chelsea Lion Beach with unique blue sands and a rooftop Stamford Summit pitch.",
+      "ar": "شاطئ تشيلسي لايون الحصري برماله الزرقاء الفريدة وملعب ستامفورد على السطح."
+    },
+    {
+      "en": "Over 1,400 luxury homes with captivating waterfront views in Dubai Maritime City.",
+      "ar": "أكثر من 1400 منزل فاخر بإطلالات آسرة على الواجهة البحرية في مدينة دبي الملاحية."
+    }
+  ],
+  "insights": {
+    "en": "Chelsea Residences offers a unique investment proposition in Dubai, combining luxury real estate with a globally recognized sports brand. This project is ideal for investors seeking high capital appreciation and strong rental yields, particularly appealing to football enthusiasts and those desiring an exclusive, themed lifestyle.",
+    "ar": "تقدم تشيلسي ريزيدنسز فرصة استثمارية فريدة في دبي، حيث تجمع بين العقارات الفاخرة وعلامة تجارية رياضية معترف بها عالميًا. هذا المشروع مثالي للمستثمرين الذين يبحثون عن تقدير رأس مال مرتفع وعوائد إيجارية قوية، وهو جذاب بشكل خاص لعشاق كرة القدم وأولئك الذين يرغبون في أسلوب حياة حصري وموضوعي."
+  },
+  "projectID": "damac-chelsea-residences",
+  "projectCategory": "Building"
+}
